@@ -19,7 +19,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 </td></tr>
 {{end}}
 </table>
-{{- end}}
+{{end}}
 
 # Run Your Own
 1. Fork this repo
