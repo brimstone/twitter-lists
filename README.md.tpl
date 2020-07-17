@@ -30,3 +30,4 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
   * `ACCESS_TOKEN`
   * `ACCESS_SECRET`
 4. Update `config.yaml` with your own list names.
+5. (optional) Update `README.md.tpl` with your own flare.
