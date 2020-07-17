@@ -15,27 +15,6 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
-const tpl = `# Twitter Lists
-Lists:
-{{range .Lists}}
-* [{{ .Name }}](#{{ .Name }})
-{{end}}
-
-{{range .Lists}}
-## <a href="https://twitter.com/i/lists/{{ .ID }}">{{ .Name }}</a>
-<table>
-{{range .Members}}<tr><td><a href="https://twitter.com/{{ .ScreenName }}"><img src="{{ .ProfileImage }}"></a></td><td>
-<b><a href="https://twitter.com/{{ .ScreenName }}">@{{ .ScreenName }}</a> ({{ .Name }})</b><br />
-<ul>
-<li>{{ if .LastTweet }}Last Tweet: {{ .LastTweet }}{{else}}<i>Protected</i>{{end}}</li>
-<li>{{ .Description }}</li>
-</ul>
-</td></tr>
-{{end}}
-</table>
-{{end}}
-`
-
 type Member struct {
 	Description  string
 	ID           int64
@@ -172,7 +151,11 @@ func main() {
 		})
 	}
 
-	t, err := template.New("readme").Parse(tpl)
+	tpl, err := ioutil.ReadFile("README.md.tpl")
+	if err != nil {
+		panic(err)
+	}
+	t, err := template.New("readme").Parse(string(tpl))
 	if err != nil {
 		panic(err)
 	}
