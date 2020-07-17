@@ -79,7 +79,7 @@ My dad is @evilsocket ❤️ and I'm powered by @bettercap</li>
 <tr><td><a href="https://twitter.com/thecybermentor"><img src="https://pbs.twimg.com/profile_images/1282087743661707264/iSEC4Fp__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/thecybermentor">@thecybermentor</a> (The Cyber Mentor)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>🤵 Husband | 🇺🇸 Vet | Founder @TCMSecurity | 🎥 YouTuber http://bit.ly/2NVHesu | 📷 Streamer http://twitch.tv/thecybermentor | Chat http://discord.gg/REfpPJB</li>
 </ul>
 </td></tr>
