@@ -65,7 +65,7 @@ My dad is @evilsocket ❤️ and I'm powered by @bettercap</li>
 <tr><td><a href="https://twitter.com/VillageRedTeam"><img src="https://pbs.twimg.com/profile_images/1281443843188101122/rRxS43hZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/VillageRedTeam">@VillageRedTeam</a> (DC Red Team Village)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Official @defcon DC RED TEAM VILLAGE | Streaming Live for +85 hours during #DEFCONSafemode #DEFCON 28 Aug 6-9, 2020  Join all of us on Discord, Youtube & Twitch</li>
 </ul>
 </td></tr>
@@ -902,7 +902,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/FiloSottile"><img src="https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/FiloSottile">@FiloSottile</a> (Filippo Valsorda 💚🤍❤️ ✊)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Cryptogopher @Google / Go team security lead / Opinions mine / @kateconger-knower / RC F'13, F2'17 / he+him / #BlackLivesMatter
 
 http://mkcert.dev / http://age-encryption.org</li>
@@ -925,7 +925,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
