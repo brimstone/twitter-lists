@@ -7,7 +7,7 @@ These are my twitter lists:
 
 Instructions on how to [Run your own](#run-your-own) at the bottom.
 
-{{- range .Lists}}
+{{range .Lists}}
 ## <a href="https://twitter.com/i/lists/{{ .ID }}">{{ .Name }}</a>
 <table>
 {{range .Members}}<tr><td><a href="https://twitter.com/{{ .ScreenName }}"><img src="{{ .ProfileImage }}"></a></td><td>
