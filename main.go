@@ -25,8 +25,6 @@ const tpl = `### Twitter Lists
 </td></tr>
 {{end}}
 </table>
-
-_Last Updated: {{ .LastUpdated }}_
 `
 
 type Member struct {
