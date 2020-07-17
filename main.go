@@ -16,6 +16,11 @@ import (
 )
 
 const tpl = `# Twitter Lists
+Lists:
+{{range .Lists}}
+* [{{ .Name }}](#{{ .Name }})
+{{end}}
+
 {{range .Lists}}
 ## <a href="https://twitter.com/i/lists/{{ .ID }}">{{ .Name }}</a>
 <table>
