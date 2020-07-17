@@ -1040,14 +1040,14 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: 3 days ago</li>
+<li>Last Tweet: today</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/torproject"><img src="https://pbs.twimg.com/profile_images/1212835295126798337/XXaigMpZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/torproject">@torproject</a> (The Tor Project)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>We're a nonprofit defending your privacy and freedom online. Download Tor Browser for protection against tracking, surveillance, and censorship.</li>
 </ul>
 </td></tr>
@@ -1121,7 +1121,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1028541105292230656/rpbWWlQL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (Samy Kamkar)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>think bad, do good. | http://samy.pl | @openpathsec</li>
 </ul>
 </td></tr>
@@ -1494,7 +1494,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/jessfraz"><img src="https://pbs.twimg.com/profile_images/975665505699811329/80JhUSCw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessfraz">@jessfraz</a> (Jessie Frazelle)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>👩🏻‍💻 @oxidecomputer, 📝 @ACMQueue</li>
 </ul>
 </td></tr>
