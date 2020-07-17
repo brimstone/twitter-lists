@@ -10,4 +10,5 @@ require (
 	github.com/dghubble/oauth1 v0.6.0 // indirect
 	github.com/sirupsen/logrus v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899 // indirect
+	gopkg.in/yaml.v2 v2.3.0
 )
