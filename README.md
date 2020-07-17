@@ -1270,5 +1270,3 @@ http://hackthebox.eu/profile/1496</li>
 </td></tr>
 
 </table>
-
-_Last Updated: 2020-07-17 14:49:18.263719696 +0000 UTC m=+0.000590509_
