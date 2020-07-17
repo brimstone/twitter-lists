@@ -1,12 +1,9 @@
 # Twitter Lists
-Lists:
-
+These are my twitter lists:
 * [security](#security)
-
 * [containers](#containers)
 
-
-
+Instructions on how to [Run your own](#run-your-own) at the bottom.
 ## <a href="https://twitter.com/i/lists/2298149">security</a>
 <table>
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
@@ -1188,7 +1185,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/_MG_"><img src="https://pbs.twimg.com/profile_images/1265043491920306176/1RbChRGC_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_MG_">@_MG_</a> (_MG_)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>I was a terror since the public school era. —Posts = personal work, sometimes cataloged to https://mg.lol. — Projects turned “product” = https://o.mg.lol</li>
 </ul>
 </td></tr>
@@ -1278,7 +1275,6 @@ http://hackthebox.eu/profile/1496</li>
 </td></tr>
 
 </table>
-
 ## <a href="https://twitter.com/i/lists/219225922">containers</a>
 <table>
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/953081975929110528/3NipXrBH_200x200.jpg"></a></td><td>
@@ -1713,3 +1709,12 @@ Picture by https://twitter.com/ryanvizzions</li>
 
 </table>
 
+# Run Your Own
+1. Fork this repo
+2. Make a twitter app at https://developer.twitter.com. It needs read-only permission
+3. Add all for secrets to this repo:
+  * `CONSUMER_KEY`
+  * `CONSUMER_SECRET`
+  * `ACCESS_TOKEN`
+  * `ACCESS_SECRET`
+4. Update `config.yaml` with your own list names.
