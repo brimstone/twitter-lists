@@ -1718,3 +1718,4 @@ Picture by https://twitter.com/ryanvizzions</li>
   * `ACCESS_TOKEN`
   * `ACCESS_SECRET`
 4. Update `config.yaml` with your own list names.
+5. (optional) Update `README.md.tpl` with your own flare.
