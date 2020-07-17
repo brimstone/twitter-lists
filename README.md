@@ -1,4 +1,5 @@
-### Twitter Lists
+# Twitter Lists
+
 ## <a href="https://twitter.com/i/lists/2298149">security</a>
 <table>
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
@@ -846,7 +847,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/ExploitDB"><img src="https://pbs.twimg.com/profile_images/932975822926991360/xHkf5nKr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ExploitDB">@ExploitDB</a> (Exploit Database)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>The Exploit Database – ultimate archive of #Exploits, #Shellcodes & Security #Papers/#eZines. Follow @GoogleHacking @PaperDatabase @ShellcodeDB @RootDatabase</li>
 </ul>
 </td></tr>
@@ -974,7 +975,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1251034633749364736/NWbjCUlJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Sam Croley, http://keybase.io/chick3nman
 Austin based password cracker, researcher;
 Team @hashcat Member/Contributor;
@@ -1270,3 +1271,438 @@ http://hackthebox.eu/profile/1496</li>
 </td></tr>
 
 </table>
+
+## <a href="https://twitter.com/i/lists/219225922">containers</a>
+<table>
+<tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/953081975929110528/3NipXrBH_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie Howard)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>// Leave it better than you found it
+// Black Lives Matter 
+// Software Engineer @Anchorage
+// 🏊‍♀️🚴‍♀️🏃‍♀️👩‍💻</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/alexellisuk"><img src="https://pbs.twimg.com/profile_images/1134783444079259648/lP1sBvo1_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/alexellisuk">@alexellisuk</a> (Alex Ellis)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>CNCF Ambassador. Founder @openfaas + @inletsdev</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
+<ul>
+<li>Last Tweet: 2 days ago</li>
+<li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/neugebar"><img src="https://pbs.twimg.com/profile_images/674751035693506560/iRK0zefZ_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
+<ul>
+<li>Last Tweet: 3 days ago</li>
+<li>Sometimes I do computer stuff so complicated that I can't explain it to my parents. European citizen in the UK. Opinions are my own.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/kbajza13"><img src="https://pbs.twimg.com/profile_images/662384550450827266/TPMK1F66_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/kbajza13">@kbajza13</a> (Karen Bajza)</b><br />
+<ul>
+<li>Last Tweet: May</li>
+<li>Community @Databricks | #diversityintech | Upcycler @ http://weatheredwarehouse.com
+Thoughts are my own.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/jessvalarezo1"><img src="https://pbs.twimg.com/profile_images/618467432957657088/G-drMMo8_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/jessvalarezo1">@jessvalarezo1</a> (Jessica Valarezo)</b><br />
+<ul>
+<li>Last Tweet: 2 days ago</li>
+<li></li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/goconvox"><img src="https://pbs.twimg.com/profile_images/1247583265227026437/dpEPHsnL_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/goconvox">@goconvox</a> (Convox)</b><br />
+<ul>
+<li>Last Tweet: 2 weeks ago</li>
+<li>Free and Open-source PaaS that runs on any cloud. Zero maintenance, total privacy.  https://convox.com/</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/HypriotTweets"><img src="https://pbs.twimg.com/profile_images/561653304053071872/2X1GsbX2_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/HypriotTweets">@HypriotTweets</a> (Hypriot)</b><br />
+<ul>
+<li>Last Tweet: January</li>
+<li>The Hypriot Project from the #Docker Pirates 🐳 @firecyberice @Quintus23M @_beagile_ @stefscherer @MathiasRenner. Running @Docker on @Raspberry_Pi #ARM #IoT !!!</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/gordonTheTurtle"><img src="https://pbs.twimg.com/profile_images/744363201538592768/apXFmrb-_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/gordonTheTurtle">@gordonTheTurtle</a> (Gordon the Turtle)</b><br />
+<ul>
+<li>Last Tweet: 2019</li>
+<li>I am the evil mastermind behind the Docker project. I also subjugate my human minions into feeding me salad.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/kubernetesio"><img src="https://pbs.twimg.com/profile_images/511909265720614913/21_d3cvM_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/kubernetesio">@kubernetesio</a> (Kubernetes)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>#Kubernetes: open source production-grade container orchestration management. #CNCF #K8s</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1278596345385926657/YymujN-C_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Engineer @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his) #pride2020</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/DockerCon"><img src="https://pbs.twimg.com/profile_images/1097998592046817280/8724ttMk_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/DockerCon">@DockerCon</a> (DockerCon)</b><br />
+<ul>
+<li>Last Tweet: May</li>
+<li>The #1 container industry conference for developers taking place online on May 28, 2020</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/laurelcomics"><img src="https://pbs.twimg.com/profile_images/422324760165359616/k5iuymHv_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/laurelcomics">@laurelcomics</a> (Laurel)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Comic book artist, working for @Docker</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/ibuildthecloud"><img src="https://pbs.twimg.com/profile_images/482750788519731201/Fcs5tabg_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/ibuildthecloud">@ibuildthecloud</a> (Darren Shepherd)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>CTO and Co-founder at Rancher Labs</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1151729546946723840/PA3JNh1W_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> ((ノಠ益ಠ)ノ彡┻━┻)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Opinions and feelings</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/coreos"><img src="https://pbs.twimg.com/profile_images/378800000217543291/92f941aa760503ef8552a9fbc77ef9b6_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/coreos">@coreos</a> (CoreOS, Inc.)</b><br />
+<ul>
+<li>Last Tweet: May</li>
+<li>CoreOS, now part of @RedHat, is an innovator of cloud native technologies and a major contributor to open source projects like #Kubernetes</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/Docker"><img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/Docker">@Docker</a> (Docker)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>#Docker helps developers bring their ideas to life by conquering the complexity of app development.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1201320309921480705/z3R9hZHL_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>Security Infrastructure @Novi @Facebook. Formerly Tech Lead @Anchorage, Security @Docker, Security Intern @Apple. Striving for a world with stronger locks</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/moby"><img src="https://pbs.twimg.com/profile_images/862725081037811712/uy5CEy7T_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/moby">@moby</a> (Moby)</b><br />
+<ul>
+<li>Last Tweet: 2019</li>
+<li>Open-source project to advance the software containerization movement and help the ecosystem take containers mainstream</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/Quintus23M"><img src="https://pbs.twimg.com/profile_images/449878853008121857/vB8ftpRd_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/Quintus23M">@Quintus23M</a> (Dieter Reuter)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>All about Container Security @NeuVector, #DockerCaptain 🐳 & Docker Pirate @HypriotTweets, use #containers on Linux, macOS, Windows, ARM+IoT. Tweets are my own!</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/TheBurce"><img src="https://pbs.twimg.com/profile_images/3608800919/127fddf9d75fb953be523680f595d43b_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/TheBurce">@TheBurce</a> (Jenny Burcio)</b><br />
+<ul>
+<li>Last Tweet: June</li>
+<li>Developers, Captains and Community @ Docker</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/JesseAdametz"><img src="https://pbs.twimg.com/profile_images/1126176738646478848/nVp2cisx_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/JesseAdametz">@JesseAdametz</a> (Jesse Adametz)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Manager, Site Reliability Engineering @Invoca. Opinions my own. Tweets delete after 30 days. http://pronoun.is/he.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/marcosnils"><img src="https://pbs.twimg.com/profile_images/630917288619847680/YNTnYxza_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/marcosnils">@marcosnils</a> (Marcos Nils)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Ops Head @ ▲  | Former Infra lead @ MELI | Docker Captain 🐋⛵ | Play with docker | Golang and OSS  ❤️| Jedis Maintainer. 🍔🍷⚽️⛵️🏋️🏂 and some 🕹️  🇦🇷</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1251584213133914118/r67vM_NV_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/DerkTheDaring">@DerkTheDaring</a> (Derek Parker)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Software Engineer at Red Hat. Previously @coreos, @hashrocket. Been doing computer stuff for a long time, also studied audio engineering.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/Cari_Marilyn"><img src="https://pbs.twimg.com/profile_images/740754686018457600/-Gey5zT4_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/Cari_Marilyn">@Cari_Marilyn</a> (Cari Scardina)</b><br />
+<ul>
+<li>Last Tweet: June</li>
+<li>Paid Digital Marketing Manager @salesforce. Attracting more engaged customers and driving revenue is my jam. Love yoga and cats too. Opinions are all mine!</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1230991388176551937/5iYKTYSp_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan 🐙)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>sr 👩‍💻🥑 @vmware #kubernetes #tanzu · @dekkagaijin ♡ · electrical eng @georgiatech · ex @amazon @intel @docker · opinions: mine</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/LisaMcNicol"><img src="https://pbs.twimg.com/profile_images/718323639603609600/xuAILKXu_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/LisaMcNicol">@LisaMcNicol</a> (Lisa McNicol)</b><br />
+<ul>
+<li>Last Tweet: 2019</li>
+<li>Scottish lass a long way from home. Health & wellness focused. Oakland based.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/Rancher_Labs"><img src="https://pbs.twimg.com/profile_images/834509623994376192/YJlKEbTS_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/Rancher_Labs">@Rancher_Labs</a> (Rancher Labs)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Deploy & Manage Kubernetes with Ease | Complete Container Management Platform | Corralling Containers since 2014 | Online Training: https://rancher.com/training</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/BrandonPhilips"><img src="https://pbs.twimg.com/profile_images/1245762603848093703/dDDO-ib7_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Former CTO @CoreOS (acq. Red Hat 2018).
+
+Interests in distributed systems, open source, #kubernetes, containers.
+
+http://pronoun.is/he</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/jessfraz"><img src="https://pbs.twimg.com/profile_images/975665505699811329/80JhUSCw_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/jessfraz">@jessfraz</a> (Jessie Frazelle)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>👩🏻‍💻 @oxidecomputer, 📝 @ACMQueue</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/crosbymichael"><img src="https://pbs.twimg.com/profile_images/1096475421581946881/rPFSHYGz_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/crosbymichael">@crosbymichael</a> (Michael Crosby)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Building things that help others build things  #runc @containerd https://github.com/crosbymichael</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/bcantrill"><img src="https://pbs.twimg.com/profile_images/618537697670397952/gW9iQsvF_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/bcantrill">@bcantrill</a> (Bryan Cantrill)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Co-founder and CTO of @oxidecomputer. Nom de guerre: Colonel Data Corruption.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>Expert misplacer of things.
+VP Engineering @ Aula Education</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/kelseyhightower"><img src="https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/kelseyhightower">@kelseyhightower</a> (Kelsey Hightower)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Minimalist</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/cpuguy83"><img src="https://pbs.twimg.com/profile_images/779048196320493569/nIR7rsy7_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/cpuguy83">@cpuguy83</a> (cpuguy83)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Tinkerer</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Engineer|Craftsman|Music Lover|Cricket Lover|Vegan</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/vcoisne"><img src="https://pbs.twimg.com/profile_images/1217958037656227840/To56Am9x_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/vcoisne">@vcoisne</a> (Victor Coisne)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>Building the next generation of CMS at @strapijs #HeadlessCMS #JAMstack. Prev. Community  @docker 
+
+French, Wine lover. Soccer Fan.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/justincormack"><img src="https://pbs.twimg.com/profile_images/1003388174503170048/gX41RPcq_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/justincormack">@justincormack</a> (Justin Cormack)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Security, open source, cloud native, Noise protocol, LinuxKit, unikernels, security, engineer @docker, @CloudNativeFdn TOC</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/thaJeztah"><img src="https://pbs.twimg.com/profile_images/744420110832537600/xTIkPdNv_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/thaJeztah">@thaJeztah</a> (Sebastiaan van Stijn)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Party pooper as a microservice @docker</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/estesp"><img src="https://pbs.twimg.com/profile_images/1216121585536569344/uA1mRoU2_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/estesp">@estesp</a> (Phil Estes)</b><br />
+<ul>
+<li>Last Tweet: 2 days ago</li>
+<li>Distinguished Engineer for @IBM, #CNCF Ambassador, @containerd OSS maintainer, @OCI_ORG TOB, @Moby TSC, father, husband, worship leader/guitarist, cyclist</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/SteveSSingh"><img src="https://pbs.twimg.com/profile_images/1243646895895044099/wfh5TBRB_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/SteveSSingh">@SteveSSingh</a> (Steve Singh)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Managing Director @MadronaVentures, Chairman @CenterSpendOps, @talend & @modumetal_inc, Director @docusign @WAFDbank @clarihq</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/michellenoorali"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/michellenoorali">@michellenoorali</a> (Michelle Noorali)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Software Engineer @Microsoft \\ Making distributed systems digestible \\ @helmpack @draftcreate @cnab_spec @smi_spec \\ CNCF TOC \\ opinions my own</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/annieshin9"><img src="https://pbs.twimg.com/profile_images/598527430354083840/G0qBq1NI_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/annieshin9">@annieshin9</a> (Annie Shin)</b><br />
+<ul>
+<li><i>Protected</i></li>
+<li>coding fingers turn to twitter fingers. emotional eater turned emotional tweeter.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/AshlynnPolini"><img src="https://pbs.twimg.com/profile_images/886987063442128896/AWeNaanD_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/AshlynnPolini">@AshlynnPolini</a> (Ashlynn Polini)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>Building dope experiences at @netlify @jamstackconf - -previously @dockercon</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Co-founder and CEO @Anchorage</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/icecrime"><img src="https://pbs.twimg.com/profile_images/539682022403239936/v0lkwSvo_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/icecrime">@icecrime</a> (Arnaud Porterie)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Deputy CTO @Veepee_fr / Ex-Docker Engine lead / Paris, SF, now Amsterdam / Photo enthusiast (http://flickr.com/photos/arnaudporterie) / It's pronounced Arno</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/diogomonica"><img src="https://pbs.twimg.com/profile_images/1025855458978881536/Fen-YR9F_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/diogomonica">@diogomonica</a> (Diogo Mónica)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Co-Founder and President @Anchorage, Security Lead @Docker, previously led Platform Security @Square, PhD in CS (https://diogomonica.com)</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/ManoMarks"><img src="https://pbs.twimg.com/profile_images/1266109200477769728/_9jF-WxQ_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/ManoMarks">@ManoMarks</a> (Mano Marks 🏳️‍🌈)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>#blacklivesmatter</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1245853836109111298/Av3EFp7n_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/ewindisch">@ewindisch</a> (Erica Windisch)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Mom. Principal Engineer. Former maintainer @docker @openstack. Founded @iopipes acq @newrelic. Black Lives Matter. Trans rights! she/her</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
+<ul>
+<li>Last Tweet: 2 weeks ago</li>
+<li>Building a new thing. Previously: @docker, @guardian, @govuk</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/mjbright"><img src="https://pbs.twimg.com/profile_images/459440997563244544/1bnT0HaD_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/mjbright">@mjbright</a> (mjbright)</b><br />
+<ul>
+<li>Last Tweet: June</li>
+<li>Trainer, Consultant, Developer at @mjbright Consulting. Passionate about Containers, Orchestration, Serverless, Micro-services and 
+Unikernels.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/solomonstre"><img src="https://pbs.twimg.com/profile_images/1148186197296070657/ow43KBGn_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Hacker & entrepreneur. Co-founder of Docker. He/him.
+
+I follow lots of people because I have a lot to learn.
+
+Picture by https://twitter.com/ryanvizzions</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>I am not a duck.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/BretFisher"><img src="https://pbs.twimg.com/profile_images/832697702110474240/DoseXuM2_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/BretFisher">@BretFisher</a> (Bret Fisher)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Creator of #DockerMastery & #Kubernetes Mastery. #DevOps Sysadmin🤓 #Docker Captain 🐳 Beach Life🏖 Navy #veteran. http://patreon.com/bretfisher Live weekly@ http://bret.live</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
+<ul>
+<li>Last Tweet: June</li>
+<li>Infrastructure geek and director of product at https://joyent.com</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/lizrice"><img src="https://pbs.twimg.com/profile_images/954316637313929216/yfD_T_c3_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/lizrice">@lizrice</a> (Liz Rice 🇪🇺)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Containers / security / cycling / music / VP OSS eng @aquasecteam / #CNCF TOC chair / #KubeCon emeritus chair / O'Reilly author / #AWS hero / #Golang #GDE</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/progrium"><img src="https://pbs.twimg.com/profile_images/1190196163577892864/pRuSUTas_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/progrium">@progrium</a> (Jeff Lindsay 💀)</b><br />
+<ul>
+<li>Last Tweet: today</li>
+<li>Indie maker of devtools, games, music, and Good Ideas. Pioneered webhooks, Docker, and more. Like my work, my tweets are all over the place. Uncover the mystery</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/calavera"><img src="https://pbs.twimg.com/profile_images/1151579040861474816/JUyTmeV4_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/calavera">@calavera</a> (David Calavera)</b><br />
+<ul>
+<li>Last Tweet: 2019</li>
+<li>Vegan. O’Reilly author. Follow my dog on IG</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
+<ul>
+<li>Last Tweet: yesterday</li>
+<li>Director Product Management at @snyksec. Developer, designer, occasional sysadmin. Infrastructure and open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
+</ul>
+</td></tr>
+
+</table>
+
