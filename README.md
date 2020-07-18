@@ -197,7 +197,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/bohops"><img src="https://pbs.twimg.com/profile_images/896877107518853121/5WgFsQnK_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bohops">@bohops</a> (bohops)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>One of these days, I'll learn how to use a computer.  Thoughts and tweets are my own (hopefully).</li>
 </ul>
 </td></tr>
@@ -284,7 +284,7 @@ http://www.GirlsWhoHack.com</li>
 <tr><td><a href="https://twitter.com/teamides"><img src="https://pbs.twimg.com/profile_images/1120802528654872576/wKgP16v-_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/teamides">@teamides</a> (Team Ides: Indie DEF CON Badges)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: today</li>
 <li>We make indie electronic badges for DEFCON! #badgelife.  Thanks for your support at DC25 and 27. 
 
 Stay Healthy! 
