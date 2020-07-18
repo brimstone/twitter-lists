@@ -326,11 +326,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1284398026845351937/0BwiKuZW_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1284442750197198849/BAa8XXMZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (Dark0m)</b><br />
 <ul>
 <li>Last Tweet: today</li>
-<li>eJPT | BTJA - Content Editor & training instructor @SecBlueTeam | #Bugbounty Novice</li>
+<li>#eJPT | BTJA - Training instructor @SecBlueTeam | #Bugbounty Novice</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -1079,7 +1079,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/lordsaibat"><img src="https://pbs.twimg.com/profile_images/1270295688912547841/80ibgOKU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lordsaibat">@lordsaibat</a> (lordsaibat)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>I break stuff a lot (pentester), I automate builds (terraform), and I try to help move the industry. Friend to all. Suffering through SANS MSISE @Novahackers</li>
 </ul>
 </td></tr>
