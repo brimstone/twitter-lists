@@ -1441,7 +1441,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/marcosnils"><img src="https://pbs.twimg.com/profile_images/630917288619847680/YNTnYxza_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/marcosnils">@marcosnils</a> (Marcos Nils)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Ops Head @ ▲  | Former Infra lead @ MELI | Docker Captain 🐋⛵ | Play with docker | Golang and OSS  ❤️| Jedis Maintainer. 🍔🍷⚽️⛵️🏋️🏂 and some 🕹️  🇦🇷</li>
 </ul>
 </td></tr>
@@ -1706,7 +1706,7 @@ Picture by https://twitter.com/ryanvizzions</li>
 <b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
 <ul>
 <li>Last Tweet: today</li>
-<li>Director Product Management at @snyksec. Developer, designer, occasional sysadmin. Infrastructure and open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
+<li>Director Product @snyksec. @openpolicyagent Conftest maintainer. Developer, designer, product. Open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
 </ul>
 </td></tr>
 
