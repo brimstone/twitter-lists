@@ -1156,7 +1156,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/evacide"><img src="https://pbs.twimg.com/profile_images/1230657789539880960/19BjSzV6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/evacide">@evacide</a> (Eva)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Director of Cybersecurity @EFF/ Tech advisor at @freedomofpress @callisto @CLTCBerkeley and more/ My tweets are my own, not my employers’</li>
 </ul>
 </td></tr>
