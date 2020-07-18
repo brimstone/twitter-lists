@@ -330,7 +330,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (Dark0m)</b><br />
 <ul>
 <li>Last Tweet: today</li>
-<li>#eJPT | BTJA - Training instructor @SecBlueTeam | #Bugbounty Novice</li>
+<li>#eJPT | BTJA - Training instructor @SecBlueTeam | #Bugbounty Novice | Security Researcher</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -365,7 +365,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1233841113003429888/iKQWzGCl_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Security Researcher | ARM Assembly Fox 🦊 🦊| ♡ Exploit Dev, Reverse Engineering, Design | Founder @azeria_labs | Mobile & IoT Exploitation | #BlackLivesMatter</li>
 </ul>
 </td></tr>
@@ -1476,7 +1476,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Rancher_Labs"><img src="https://pbs.twimg.com/profile_images/834509623994376192/YJlKEbTS_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Rancher_Labs">@Rancher_Labs</a> (Rancher Labs)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Deploy & Manage Kubernetes with Ease | Complete Container Management Platform | Corralling Containers since 2014 | Online Training: https://rancher.com/training</li>
 </ul>
 </td></tr>
@@ -1705,7 +1705,7 @@ Picture by https://twitter.com/ryanvizzions</li>
 <tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Director Product Management at @snyksec. Developer, designer, occasional sysadmin. Infrastructure and open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
 </ul>
 </td></tr>
