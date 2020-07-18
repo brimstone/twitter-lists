@@ -152,7 +152,7 @@ Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
 <tr><td><a href="https://twitter.com/r_redteamsec"><img src="https://pbs.twimg.com/profile_images/958699489031852033/nFSKk0MF_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/r_redteamsec">@r_redteamsec</a> (/r/redteamsec)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>/r/redteamsec - bot operated by @domchell
 Discord - https://discord.gg/mTvPzuT</li>
 </ul>
@@ -330,7 +330,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (Dark0m)</b><br />
 <ul>
 <li>Last Tweet: today</li>
-<li>eJPT | BTJA | Content Editor & training instructor @SecBlueTeam | Web Sec freak & Junior Penetration Tester</li>
+<li>eJPT | BTJA - Content Editor & training instructor @SecBlueTeam | #Bugbounty Novice</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -1652,7 +1652,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/solomonstre"><img src="https://pbs.twimg.com/profile_images/1148186197296070657/ow43KBGn_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Hacker & entrepreneur. Co-founder of Docker. He/him.
 
 I follow lots of people because I have a lot to learn.
