@@ -1019,7 +1019,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1248422793122738178/wsbUto1G_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ausernamedjosh">@ausernamedjosh</a> (Josh Pitts)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Professional hacker. SIGINT Marine at the turn of the century.</li>
 </ul>
 </td></tr>
@@ -1094,7 +1094,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/natashenka">@natashenka</a> (Natalie Silvanovich)</b><br />
 <ul>
 <li>Last Tweet: yesterday</li>
-<li>Tamagotchi Hacker. Google Project Zero.</li>
+<li>Tamagotchi Hacker. Google Project Zero. She/her.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/carnal0wnage"><img src="https://pbs.twimg.com/profile_images/1102419012192034816/YxYs1bTt_200x200.png"></a></td><td>
