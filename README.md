@@ -138,7 +138,7 @@ Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
 <tr><td><a href="https://twitter.com/Infosec_Taylor"><img src="https://pbs.twimg.com/profile_images/1250755151641497601/FwB4QRvf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosec_Taylor">@Infosec_Taylor</a> (Ashley - BLACK LIVES MATTER)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Security Analyst | GCIA | GCIH | GCPM | GPEN | GPYC | GSEC | SANS MSISE Student | SANS Advisory Board | Women's Society of Cyberjutsu | She/Her</li>
 </ul>
 </td></tr>
