@@ -491,7 +491,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/_superhero1"><img src="https://pbs.twimg.com/profile_images/1252899471777837056/LzxQMEda_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_superhero1">@_superhero1</a> (superhero1)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>🤔🥇🎉👏😎 #infosec #bugbounty #ethicalhacker
 
 📺 http://youtube.com/c/superhero1 | 🎞️ http://twitch.com/sup3rhero1 | 👋 http://discord.gg/CP7cYFs
