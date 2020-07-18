@@ -731,7 +731,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/K1ng__J0hn"><img src="https://pbs.twimg.com/profile_images/1283715705532227584/7m3Xs0SA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/K1ng__J0hn">@K1ng__J0hn</a> (Aldo_)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>🏥🍯 Threat Intel 🕵️‍♂️🔍💻</li>
 </ul>
 </td></tr>
