@@ -308,7 +308,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1279563768364625922/lZKR9Sar_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>VP of Information Tech, Network Security Enthusiast, DEFCON, IT, Irish R&B singer, DC Darknet 2nd Place, Information Technology Consultant,  My views are my own</li>
 </ul>
 </td></tr>
@@ -656,7 +656,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/PentesterLab"><img src="https://pbs.twimg.com/profile_images/1110103138961223680/A1FJ5fJg_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/PentesterLab">@PentesterLab</a> (PentesterLab)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>We make learning web penetration testing easier. Online systems, isos, videos & courses that can be used to understand, test and exploit bugs!</li>
 </ul>
 </td></tr>
@@ -1107,7 +1107,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/hdmoore"><img src="https://pbs.twimg.com/profile_images/1077956843790430208/WPHMpErd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hdmoore">@hdmoore</a> (HD Moore)</b><br />
 <ul>
-<li>Last Tweet: 4 days ago</li>
+<li>Last Tweet: today</li>
 <li>Black Lives Matter | Building Rumble Network Discovery at Critical Research | VP of R&D at Atredis Partners.</li>
 </ul>
 </td></tr>
@@ -1142,7 +1142,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/defcon"><img src="https://pbs.twimg.com/profile_images/1245483654974820352/QUx7Mx95_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/defcon">@defcon</a> (DEF CON)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Hacking Conference</li>
 </ul>
 </td></tr>
