@@ -365,7 +365,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1233841113003429888/iKQWzGCl_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Security Researcher | ARM Assembly Fox 🦊 🦊| ♡ Exploit Dev, Reverse Engineering, Design | Founder @azeria_labs | Mobile & IoT Exploitation | #BlackLivesMatter</li>
 </ul>
 </td></tr>
@@ -1293,7 +1293,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/alexellisuk"><img src="https://pbs.twimg.com/profile_images/1134783444079259648/lP1sBvo1_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/alexellisuk">@alexellisuk</a> (Alex Ellis)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>CNCF Ambassador. Founder @openfaas + @inletsdev</li>
 </ul>
 </td></tr>
