@@ -4,8 +4,8 @@ on:
   push:
     branches: [ unstable ]
   schedule:
-    # Run every hour
-    - cron: '0 * * * *'
+    # Run every day
+    - cron: '0 0 * * *'
 
 jobs:
 

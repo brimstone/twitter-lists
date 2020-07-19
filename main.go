@@ -122,13 +122,18 @@ func main() {
 						m.LastTweet = strconv.Itoa(thisweek-thatweek) + " weeks ago"
 					} else if thisweek-thatweek == 1 {
 						m.LastTweet = "last week"
-						// Days
-					} else if now.YearDay()-c.YearDay() > 1 {
-						m.LastTweet = strconv.Itoa(now.YearDay()-c.YearDay()) + " days ago"
-					} else if now.YearDay()-c.YearDay() == 1 {
-						m.LastTweet = "yesterday"
+						/*
+								// Days
+							} else if now.YearDay()-c.YearDay() > 1 {
+								m.LastTweet = strconv.Itoa(now.YearDay()-c.YearDay()) + " days ago"
+							} else if now.YearDay()-c.YearDay() == 1 {
+								m.LastTweet = "yesterday"
+							} else {
+								m.LastTweet = "today"
+							}
+						*/
 					} else {
-						m.LastTweet = "today"
+						m.LastTweet = "this week"
 					}
 				}
 			}
