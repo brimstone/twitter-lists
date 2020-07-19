@@ -329,7 +329,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1284442750197198849/BAa8XXMZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (Dark0m)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>#eJPT | BTJA - Training instructor @SecBlueTeam | #Bugbounty Novice | Security Researcher</li>
 </ul>
 </td></tr>
@@ -1100,7 +1100,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/carnal0wnage"><img src="https://pbs.twimg.com/profile_images/1102419012192034816/YxYs1bTt_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/carnal0wnage">@carnal0wnage</a> (Chris Gates)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Circumstances do not determine state of being. State of being determines your circumstances. Tweets are my own not my employer. red/purple teaming, some DFIR</li>
 </ul>
 </td></tr>
@@ -1243,7 +1243,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/kh4st3x"><img src="https://pbs.twimg.com/profile_images/921602831823536129/ri5EBAMa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kh4st3x">@kh4st3x</a> (khast3x 📡)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Research in #Infosec and #OSINT - Password Necromancer - Already following you with a bot 🤖</li>
 </ul>
 </td></tr>
@@ -1385,7 +1385,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1151729546946723840/PA3JNh1W_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> ((ノಠ益ಠ)ノ彡┻━┻)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Opinions and feelings</li>
 </ul>
 </td></tr>
@@ -1523,7 +1523,7 @@ VP Engineering @ Aula Education</li>
 <tr><td><a href="https://twitter.com/kelseyhightower"><img src="https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kelseyhightower">@kelseyhightower</a> (Kelsey Hightower)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Minimalist</li>
 </ul>
 </td></tr>
