@@ -752,7 +752,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1220775621761986561/2voQ3V4T_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/itsC0rg1">@itsC0rg1</a> (Niru Ragupathy / itsc0rg1 🐶)</b><br />
 <ul>
-<li>Last Tweet: 2 days ago</li>
+<li>Last Tweet: today</li>
 <li>Foodie, anime fan, security engineer and gamer. My views are my own, do not reflect those of my past, present or future employers.</li>
 </ul>
 </td></tr>
