@@ -1691,7 +1691,7 @@ Picture by https://twitter.com/ryanvizzions</li>
 <tr><td><a href="https://twitter.com/progrium"><img src="https://pbs.twimg.com/profile_images/1190196163577892864/pRuSUTas_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/progrium">@progrium</a> (Jeff Lindsay 💀)</b><br />
 <ul>
-<li>Last Tweet: yesterday</li>
+<li>Last Tweet: today</li>
 <li>Indie maker of devtools, games, music, and Good Ideas. Pioneered webhooks, Docker, and more. Like my work, my tweets are all over the place. Uncover the mystery</li>
 </ul>
 </td></tr>
