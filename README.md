@@ -110,7 +110,7 @@ can be bribed with #coffee or #whiskey</li>
 <tr><td><a href="https://twitter.com/KringleCon"><img src="https://pbs.twimg.com/profile_images/1177603796811292673/-dWP1uGE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/KringleCon">@KringleCon</a> (KringleCon)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The world’s most fun and festive hacking challenge and virtual conference is available now! Secure your complimentary pass today. #HolidayHack</li>
 </ul>
 </td></tr>
@@ -294,7 +294,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/ippsec"><img src="https://pbs.twimg.com/profile_images/859140652617142272/z79HkNvx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ippsec">@ippsec</a> (ippsec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -449,7 +449,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/todayininfosec"><img src="https://pbs.twimg.com/profile_images/489054051217047552/wJIUUwbZ_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/todayininfosec">@todayininfosec</a> (Today In Infosec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Tweeting news from the world of information security that occurred or was announced on today's date in a previous year. Managed by @stevewerby.</li>
 </ul>
 </td></tr>
@@ -470,7 +470,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/spaceB0xx"><img src="https://pbs.twimg.com/profile_images/431551983632134144/rNde8bBa_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/spaceB0xx">@spaceB0xx</a> (spaceB0x)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Manifests in various forms in the digital array. Jesus phreak. Speaker @ PhreakNiC, DefCon. Parler: @spaceB0x</li>
 </ul>
 </td></tr>
@@ -806,14 +806,14 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/jessploit"><img src="https://pbs.twimg.com/profile_images/1063620918415548427/6yXsU7Np_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessploit">@jessploit</a> (Jessica)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team, black dress, she/her</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/pierrebrunetti"><img src="https://pbs.twimg.com/profile_images/1993974501/62535_437802804443_813659443_4917572_4471451_n_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pierrebrunetti">@pierrebrunetti</a> (Pierre Brunetti)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security addict</li>
 </ul>
 </td></tr>
@@ -851,7 +851,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/ExploitDB"><img src="https://pbs.twimg.com/profile_images/932975822926991360/xHkf5nKr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ExploitDB">@ExploitDB</a> (Exploit Database)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The Exploit Database – ultimate archive of #Exploits, #Shellcodes & Security #Papers/#eZines. Follow @GoogleHacking @PaperDatabase @ShellcodeDB @RootDatabase</li>
 </ul>
 </td></tr>
@@ -923,7 +923,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
@@ -1098,7 +1098,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/natashenka"><img src="https://pbs.twimg.com/profile_images/1221284302912028673/6sXOJCzx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/natashenka">@natashenka</a> (Natalie Silvanovich)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Tamagotchi Hacker. Google Project Zero. She/her.</li>
 </ul>
 </td></tr>
@@ -1363,7 +1363,7 @@ Thoughts are my own.</li>
 <b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Engineer @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his) #pride2020</li>
+<li>Engineer @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his)</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/DockerCon"><img src="https://pbs.twimg.com/profile_images/1097998592046817280/8724ttMk_200x200.png"></a></td><td>
@@ -1411,7 +1411,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1201320309921480705/z3R9hZHL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Security Infrastructure @Novi @Facebook. Formerly Tech Lead @Anchorage, Security @Docker, Security Intern @Apple. Striving for a world with stronger locks</li>
 </ul>
 </td></tr>
@@ -1460,7 +1460,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Cari_Marilyn"><img src="https://pbs.twimg.com/profile_images/740754686018457600/-Gey5zT4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Cari_Marilyn">@Cari_Marilyn</a> (Cari Scardina)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Paid Digital Marketing Manager @salesforce. Attracting more engaged customers and driving revenue is my jam. Love yoga and cats too. Opinions are all mine!</li>
 </ul>
 </td></tr>
@@ -1488,7 +1488,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/BrandonPhilips"><img src="https://pbs.twimg.com/profile_images/1245762603848093703/dDDO-ib7_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Former CTO @CoreOS (acq. Red Hat 2018).
 
 Interests in distributed systems, open source, #kubernetes, containers.
@@ -1642,7 +1642,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Building a new thing. Previously: @docker, @guardian, @govuk</li>
 </ul>
 </td></tr>
@@ -1668,7 +1668,7 @@ Picture by https://twitter.com/ryanvizzions</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
@@ -1682,7 +1682,7 @@ Picture by https://twitter.com/ryanvizzions</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure geek and director of product at https://joyent.com</li>
 </ul>
 </td></tr>
@@ -1710,7 +1710,7 @@ Picture by https://twitter.com/ryanvizzions</li>
 <tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Director Product @snyksec. @openpolicyagent Conftest maintainer. Developer, designer, product. Open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
 </ul>
 </td></tr>
