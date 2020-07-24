@@ -86,7 +86,7 @@ My dad is @evilsocket ❤️ and I'm powered by @bettercap</li>
 <tr><td><a href="https://twitter.com/gabsmashh"><img src="https://pbs.twimg.com/profile_images/1231216530375020545/GzLHFUCs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/gabsmashh">@gabsmashh</a> (gabsmashh | Advanced Persistent Brunette)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#infosec engineer | genetic scientist | tactical specialist | 
 i also shitpost a lot. 
 i like to lift weights & pet dogs.
@@ -366,7 +366,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Security Researcher | ARM Assembly Fox 🦊 🦊| ♡ Exploit Dev, Reverse Engineering, Design | Founder @azeria_labs | Mobile & IoT Exploitation | #BlackLivesMatter</li>
+<li>Arm Security Researcher, Founder @azeria_labs | ♡ Assembly, Exploitation, Reverse Engineering | Focus on Mobile & IoT | Flipping Bits as a Service</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
@@ -715,14 +715,14 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1219465201369612288/FRDr6TXf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pentest Architect @cobalt_io Offensive Security Researcher, CTFer, OSCE, OSCP, OSWP👩🏼‍💻🏃🏼‍♀️</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BrianRPhillips"><img src="https://pbs.twimg.com/profile_images/885325612465967105/3CWsJfq1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BrianRPhillips">@BrianRPhillips</a> (Brian Phillips)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
@@ -986,7 +986,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1251034633749364736/NWbjCUlJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Sam Croley, http://keybase.io/chick3nman
 Austin based password cracker, researcher;
 Team @hashcat Member/Contributor;
@@ -997,7 +997,7 @@ Hire me to crack passwords for you & your team!</li>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotless)</b><br />
 <ul>
 <li>Last Tweet: last week</li>
-<li>hacking the planet at http://ired.team</li>
+<li>hacking the planet at https://www.ired.team</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1253273523801534467/DJMBnD0Q_200x200.jpg"></a></td><td>
@@ -1213,7 +1213,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Dir of Threat Intel | Threat Researcher | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1305,7 +1305,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
 </ul>
 </td></tr>
@@ -1425,7 +1425,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Quintus23M"><img src="https://pbs.twimg.com/profile_images/449878853008121857/vB8ftpRd_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/Quintus23M">@Quintus23M</a> (Dieter Reuter)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>All about Container Security @NeuVector, #DockerCaptain 🐳 & Docker Pirate @HypriotTweets, use #containers on Linux, macOS, Windows, ARM+IoT. Tweets are my own!</li>
 </ul>
 </td></tr>
@@ -1453,7 +1453,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1251584213133914118/r67vM_NV_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DerkTheDaring">@DerkTheDaring</a> (Derek Parker)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Software Engineer at Red Hat. Previously @coreos, @hashrocket. Been doing computer stuff for a long time, also studied audio engineering.</li>
 </ul>
 </td></tr>
@@ -1542,7 +1542,7 @@ VP Engineering @ Aula Education</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Engineer|Craftsman|Music Lover|Cricket Lover|Vegan</li>
 </ul>
 </td></tr>
@@ -1636,7 +1636,7 @@ French, Wine lover. Soccer Fan.</li>
 <b><a href="https://twitter.com/ewindisch">@ewindisch</a> (Erica Windisch)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Mom. Principal Engineer. Former maintainer @docker @openstack. Founded @iopipes acq @newrelic. Black Lives Matter. Trans rights! she/her</li>
+<li>Engineering leader. Founded @iopipes acq @newrelic. Maintainer emeritus @docker @openstack. Black Lives Matter. Trans rights! she/her</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
