@@ -329,7 +329,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/huntsec_AL"><img src="https://pbs.twimg.com/profile_images/824313675448274944/TFnCUbkh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/huntsec_AL">@huntsec_AL</a> (HUNTSEC)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li>Last Tweet: July</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
@@ -373,7 +373,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Arm Security Researcher, Founder @azeria_labs | ♡ Assembly, Exploitation, Reverse Engineering | Focus on Mobile & IoT | Flipping Bits as a Service</li>
+<li>Security Researcher, Hacker, Founder @azeria_labs | ♡ Assembly, Exploitation, Reverse Engineering | Focus on Mobile & IoT | Flipping Bits as a Service</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
@@ -546,7 +546,7 @@ Patreon: http://patreon.com/MalwareTech, YT: http://youtube.com/MalwareTechBlog<
 <tr><td><a href="https://twitter.com/bitcoinctf"><img src="https://pbs.twimg.com/profile_images/485417548062547968/ZgvET83z_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/bitcoinctf">@bitcoinctf</a> (BitcoinCTF)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>N/A</li>
 </ul>
 </td></tr>
@@ -741,7 +741,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1285226246117392389/MPODM3Me_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie Speaking at DEFCON Red Team Village)</b><br />
+<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie Speaking @defcon @VillageRedTeam)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Red Team | Pentester | The Uncommon Journey co-host | Prof of Pwn @richland_dc | Founder @schoolpwn | @tribeofhackers Red Team | Book w/ @kim_crawley soon!</li>
@@ -969,7 +969,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <li>Agile Evangelist, Game Developer, Cryptographer, Geocacher, Author, Wikipedian, Public Speaker, Chairperson, Nola Kaye.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/defconparties"><img src="https://pbs.twimg.com/profile_images/764873653141901312/lh_VGSk8_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/defconparties"><img src="https://pbs.twimg.com/profile_images/1291384549474291712/bHdDFM2g_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/defconparties">@defconparties</a> (defcon parties @ cancelled)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1017,7 +1017,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1253273523801534467/DJMBnD0Q_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast. Coffee, Jain, reformist & Philanthropist. binitamshah at protonmail dot com</li>
 </ul>
 </td></tr>
@@ -1348,7 +1348,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/goconvox"><img src="https://pbs.twimg.com/profile_images/1247583265227026437/dpEPHsnL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/goconvox">@goconvox</a> (Convox)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Free and Open-source PaaS that runs on any cloud. Zero maintenance, total privacy.  https://convox.com/</li>
 </ul>
 </td></tr>
@@ -1418,7 +1418,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Docker"><img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Docker">@Docker</a> (Docker)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>#Docker helps developers bring their ideas to life by conquering the complexity of app development.</li>
 </ul>
 </td></tr>
@@ -1534,7 +1534,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Expert misplacer of things.
 VP Engineering @ Aula Education</li>
 </ul>
@@ -1621,7 +1621,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO @Anchorage</li>
 </ul>
 </td></tr>
