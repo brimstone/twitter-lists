@@ -372,7 +372,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1284770821022666752/SW_8e614_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>Security Researcher, Hacker, Founder @azeria_labs | ♡ Assembly, Exploitation, Reverse Engineering | Focus on Mobile & IoT | Flipping Bits as a Service</li>
 </ul>
 </td></tr>
@@ -1281,7 +1281,7 @@ http://hackthebox.eu/profile/1496</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/todb"><img src="https://pbs.twimg.com/profile_images/1272934342935875584/d7hfWpK-_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/todb">@todb</a> (Tod Beardsley (@ Virtual Voting Village DC))</b><br />
+<b><a href="https://twitter.com/todb">@todb</a> (Tod Beardsley)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Election security nerd. Metasploit Collaborator. Friend of DeSoto. 1A activist apparently. He/Him. Verify me: http://keybase.io/todb | Donate: http://gf.me/u/xzwcpu</li>
@@ -1474,7 +1474,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Cari_Marilyn"><img src="https://pbs.twimg.com/profile_images/740754686018457600/-Gey5zT4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Cari_Marilyn">@Cari_Marilyn</a> (Cari Scardina)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Paid Digital Marketing Manager @salesforce. Attracting more engaged customers and driving revenue is my jam. Love yoga and cats too. Opinions are all mine!</li>
 </ul>
 </td></tr>
