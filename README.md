@@ -42,7 +42,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/agetool"><img src="https://pbs.twimg.com/profile_images/1209404883826302981/w_8vhjOa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/agetool">@agetool</a> (age — simple, modern file encryption)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.</li>
 </ul>
 </td></tr>
@@ -307,8 +307,8 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1303518417081655296/UQZwhcwn_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (_)</b><br />
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1304464542999523328/ddSojHWb_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li></li>
@@ -627,7 +627,7 @@ Conference - Oct 2, 2021</li>
 <li>Hacker, husband, father, sometimes author.  I build things, I break things, and I'm -still- trying to figure everything out.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/FuzzySec"><img src="https://pbs.twimg.com/profile_images/996342484404985856/oq0KZS7N_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/FuzzySec"><img src="https://pbs.twimg.com/profile_images/1304540759677337601/1zl7ddj6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/FuzzySec">@FuzzySec</a> (b33f)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -956,7 +956,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
@@ -1337,7 +1337,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/neugebar"><img src="https://pbs.twimg.com/profile_images/674751035693506560/iRK0zefZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Sometimes I do computer stuff so complicated that I can't explain it to my parents. European citizen in the UK. Opinions are my own.</li>
 </ul>
 </td></tr>
@@ -1413,7 +1413,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1151729546946723840/PA3JNh1W_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> ((ノಠ益ಠ)ノ彡┻━┻)</b><br />
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (probably baking bread)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Opinions and feelings</li>
@@ -1450,7 +1450,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Quintus23M"><img src="https://pbs.twimg.com/profile_images/449878853008121857/vB8ftpRd_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/Quintus23M">@Quintus23M</a> (Dieter Reuter)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>All about Container Security @NeuVector, #DockerCaptain 🐳 & Docker Pirate @HypriotTweets, use #containers on Linux, macOS, Windows, ARM+IoT. Tweets are my own!</li>
 </ul>
 </td></tr>
