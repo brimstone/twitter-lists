@@ -334,7 +334,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/godpwned">@godpwned</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Security Engineer & Soc analyst · eJPT Certified · HypaSec Team via http://play.duc.tf</li>
+<li>Security Engineer & Soc analyst · eJPT Certified · HypaSec Team via http://play.duc.tf | ハッカーマン</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -551,7 +551,7 @@ Patreon: http://patreon.com/MalwareTech, YT: http://youtube.com/MalwareTechBlog<
 <tr><td><a href="https://twitter.com/bitcoinctf"><img src="https://pbs.twimg.com/profile_images/485417548062547968/ZgvET83z_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/bitcoinctf">@bitcoinctf</a> (BitcoinCTF)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>N/A</li>
 </ul>
 </td></tr>
@@ -811,7 +811,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/pwnpnw"><img src="https://pbs.twimg.com/profile_images/1282765760620720128/w7kXpTqh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnpnw">@pwnpnw</a> (mcgyver)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -1054,7 +1054,7 @@ Hire me to crack passwords for you & your team!</li>
 <li>|| RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com ||</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1288919314054160386/4QyKfuAZ_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1304587055427661830/7W-D14ZA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ausernamedjosh">@ausernamedjosh</a> (Josh Pitts)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1604,7 +1604,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/SteveSSingh"><img src="https://pbs.twimg.com/profile_images/1243646895895044099/wfh5TBRB_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SteveSSingh">@SteveSSingh</a> (Steve Singh)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Managing Director @MadronaVentures, Chairman @CenterSpendOps, @getstratify, @talend & @modumetal_inc, Director @docusign @WAFDbank @clarihq</li>
 </ul>
 </td></tr>
