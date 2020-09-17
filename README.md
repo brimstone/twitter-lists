@@ -303,7 +303,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/minis_io"><img src="https://pbs.twimg.com/profile_images/983764998123028480/xVia91Rk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/minis_io">@minis_io</a> (minis_io)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
@@ -502,19 +502,17 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Sentient one-liner grepping the Internet for signs of intelligence. I'm not @_sinn3r.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/_superhero1"><img src="https://pbs.twimg.com/profile_images/1305250243810938880/tCKHLfAl_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/_superhero1"><img src="https://pbs.twimg.com/profile_images/1306324746045358080/8hou7XSR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_superhero1">@_superhero1</a> (superhero1)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>YouTubeᅟ    http://youtube.com/c/superhero1 
-Twitchᅟ        http://twitch.com/sup3rhero1
-Discordᅟ      http://discord.gg/CP7cYFs</li>
+<li>YouTubeᅟ http://youtube.com/c/superhero1 Twitchᅟ http://twitch.com/sup3rhero1 Discordᅟ http://discord.gg/CP7cYFs</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ropnop"><img src="https://pbs.twimg.com/profile_images/1017215550550880256/CglPvrog_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ropnop">@ropnop</a> (Ronnie Flathers)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>security guy, pentester, researcher. i sometimes blog and code based on motivation/caffeine levels. SecEng @marqeta</li>
 </ul>
 </td></tr>
@@ -611,7 +609,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/harmj0y"><img src="https://pbs.twimg.com/profile_images/793682606814400512/-g84gQSC_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/harmj0y">@harmj0y</a> (Will)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Technical architect @SpecterOps. Code:  Empire | BloodHound | GhostPack | PowerSploit | Veil-Framework. One time I broke forest trusts with @tifkin_</li>
 </ul>
 </td></tr>
@@ -696,7 +694,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/Ben0xA"><img src="https://pbs.twimg.com/profile_images/1061463329363902464/So7g4cgA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Ben0xA">@Ben0xA</a> (Ben Ten (0xA))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Christian, Penetration Tester, Defender, Developer, Gamer, Not PowerShell (nps) & nps_payload Creator, PoLRBear Project @polrbearproject || Views are my own!</li>
 </ul>
 </td></tr>
@@ -778,7 +776,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1294923902942994432/O37fwYZA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/itsC0rg1">@itsC0rg1</a> (Niru Ragupathy / itsc0rg1 🐶)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Foodie, anime fan, security engineer and gamer. My views are my own, do not reflect those of my past, present or future employers.</li>
 </ul>
 </td></tr>
@@ -806,7 +804,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/cgsilvers"><img src="https://pbs.twimg.com/profile_images/1173372253490298881/sfVHZpkZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/cgsilvers">@cgsilvers</a> (cgsilvers)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Proud dad, security nerd, gadget geek, @DEFCON 24 #SECTF Black Badge Winner, tedx talk: https://youtu.be/AvPsukNLENc face of DerbyCon</li>
 </ul>
 </td></tr>
@@ -1332,7 +1330,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
 </ul>
 </td></tr>
@@ -1403,7 +1401,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/laurelcomics"><img src="https://pbs.twimg.com/profile_images/422324760165359616/k5iuymHv_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/laurelcomics">@laurelcomics</a> (Laurel)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Comic book artist, working for @Docker</li>
 </ul>
 </td></tr>
@@ -1415,7 +1413,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1151729546946723840/PA3JNh1W_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (probably baking bread)</b><br />
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (homeschoolautoscaling)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Opinions and feelings</li>
@@ -1459,8 +1457,8 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/TheBurce"><img src="https://pbs.twimg.com/profile_images/3608800919/127fddf9d75fb953be523680f595d43b_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/TheBurce">@TheBurce</a> (Jenny Burcio)</b><br />
 <ul>
-<li>Last Tweet: June</li>
-<li>Developers, Captains and Community @ Docker</li>
+<li>Last Tweet: this week</li>
+<li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/JesseAdametz"><img src="https://pbs.twimg.com/profile_images/1126176738646478848/nVp2cisx_200x200.png"></a></td><td>
@@ -1676,7 +1674,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/mjbright"><img src="https://pbs.twimg.com/profile_images/459440997563244544/1bnT0HaD_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/mjbright">@mjbright</a> (mjbright)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Trainer, Consultant, Developer at @mjbright Consulting. Passionate about Containers, Orchestration, Serverless, Micro-services and 
 Unikernels.</li>
 </ul>
@@ -1702,14 +1700,14 @@ Picture by https://twitter.com/ryanvizzions</li>
 <tr><td><a href="https://twitter.com/BretFisher"><img src="https://pbs.twimg.com/profile_images/832697702110474240/DoseXuM2_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BretFisher">@BretFisher</a> (Bret Fisher)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Creator of #DockerMastery & #Kubernetes Mastery. #DevOps Sysadmin🤓 #Docker Captain 🐳 Beach Life🏖 Navy #veteran. http://patreon.com/bretfisher Live weekly@ http://bret.live</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure geek and director of product at https://joyent.com</li>
 </ul>
 </td></tr>
