@@ -307,7 +307,7 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1304464542999523328/ddSojHWb_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1309776651861909504/wC7GLQFT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -520,7 +520,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/BSidesHSV"><img src="https://pbs.twimg.com/profile_images/438732038019903488/bbN1cvTm_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/BSidesHSV">@BSidesHSV</a> (BSidesHuntsville)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>BSides in Huntsville, AL
 Founded by @PaulCoggin
 managed by http://NAC-ISSA.org volunteers
@@ -593,11 +593,11 @@ Conference - Oct 2, 2021</li>
 <li>I penetrate things (phrasing). When I'm tired of penetrating (phrasing), I code. It's a vicious cycle. Python Fanatic & Red Teamer @BHinfoSecurity</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/e_dot_exe"><img src="https://pbs.twimg.com/profile_images/1273595212988911616/93MZ61S5_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/e_dot_exe"><img src="https://pbs.twimg.com/profile_images/1309915274850729984/uwV7txaY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/e_dot_exe">@e_dot_exe</a> (░.░e░x░e░)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>404</li>
+<li>Just a dude that does a bit of everything.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/VulnHub"><img src="https://pbs.twimg.com/profile_images/503644334588039168/iH_pnqKE_200x200.png"></a></td><td>
@@ -742,7 +742,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/BrianRPhillips"><img src="https://pbs.twimg.com/profile_images/885325612465967105/3CWsJfq1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BrianRPhillips">@BrianRPhillips</a> (Brian Phillips)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
@@ -885,7 +885,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1034,11 +1034,11 @@ Hire me to crack passwords for you & your team!</li>
 <li>hacking the planet at https://www.ired.team</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1253273523801534467/DJMBnD0Q_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1309726436895240192/y4xZWJkS_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.  Jain , Reformist & Philanthropist. binitamshah at protonmail dot com</li>
+<li>Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.  Jain , Meditation , Reformist & Philanthropist. binitamshah at protonmail dot com</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/rapid7"><img src="https://pbs.twimg.com/profile_images/1092429152207208448/R2uzIVBo_200x200.jpg"></a></td><td>
@@ -1055,7 +1055,7 @@ Hire me to crack passwords for you & your team!</li>
 <li>|| RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com ||</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1304587055427661830/7W-D14ZA_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1310012914762502144/WXh6LWU-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ausernamedjosh">@ausernamedjosh</a> (Josh Pitts)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
