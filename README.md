@@ -11,7 +11,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rapiddns">@rapiddns</a> (rapiddns)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Bug Bounty Hunter.  #bugbountytips
 
 The http://rapiddns.io is a free, open and unlimited dns query tool. It makes easy to query subdomains or sites of the same IP.</li>
@@ -112,7 +112,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/cpl3h"><img src="https://pbs.twimg.com/profile_images/1240826119995047937/CDgYAiv2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cpl3h">@cpl3h</a> (cpl)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Intelligence - 1
 Wisdom - 1
 Charisma - 1
@@ -319,11 +319,11 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/huntsec_AL"><img src="https://pbs.twimg.com/profile_images/824313675448274944/TFnCUbkh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/huntsec_AL">@huntsec_AL</a> (HUNTSEC)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/godpwned"><img src="https://pbs.twimg.com/profile_images/1313989297582735361/nHGg6dDX_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/godpwned"><img src="https://pbs.twimg.com/profile_images/1314068377816555520/mDxDGufI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/godpwned">@godpwned</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -388,7 +388,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xdade"><img src="https://pbs.twimg.com/profile_images/1235049449392504832/s8VlYz6U_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/0xdade">@0xdade</a> (dade)</b><br />
+<b><a href="https://twitter.com/0xdade">@0xdade</a> (0day'd)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>@NatlasTeam for Natlas updates. http://soundcloud.com/0xdade for music. http://Twitch.tv/0xdade for live shenanigans.</li>
@@ -539,11 +539,11 @@ Patreon: http://patreon.com/MalwareTech, YT: http://youtube.com/MalwareTechBlog<
 <li>The First and Original Hardware Wallet. Let's chat: http://t.me/trezortalk | Get your Trezor: https://shop.trezor.io</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/bitcoinctf"><img src="https://pbs.twimg.com/profile_images/485417548062547968/ZgvET83z_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/bitcoinctf">@bitcoinctf</a> (BitcoinCTF)</b><br />
+<tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: September</li>
-<li>N/A</li>
+<li>Last Tweet: this week</li>
+<li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/TJ_Null"><img src="https://pbs.twimg.com/profile_images/1313642495008538634/FivVwx-P_200x200.png"></a></td><td>
@@ -726,10 +726,10 @@ OH Ebook: http://leanpub.com/operator-handbook
 Hash Crack: http://amazon.com/dp/1793458618</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1291055840942788609/I0bXDSDX_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1314209393714458627/H1bHgkC__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pentest Architect @cobalt_io Offensive Security Researcher, CTFer, OSCE, OSCP, OSWP👩🏼‍💻🏃🏼‍♀️</li>
 </ul>
 </td></tr>
@@ -748,7 +748,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1293548511821209601/vceLClTM_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
+<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie speaking at @rootconph)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>@point3sec | Uncommon Journey | Prof of Pwn @richland_dc | @schoolpwn Founder | @tribeofhackers Red Team | @innocentorg Ambassador | @hacknotcrime Advocate</li>
@@ -879,7 +879,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1233,7 +1233,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1347,7 +1347,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/jessvalarezo1"><img src="https://pbs.twimg.com/profile_images/618467432957657088/G-drMMo8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessvalarezo1">@jessvalarezo1</a> (Jessica Valarezo)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -1396,7 +1396,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/laurelcomics"><img src="https://pbs.twimg.com/profile_images/422324760165359616/k5iuymHv_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/laurelcomics">@laurelcomics</a> (Laurel)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Comic book artist, working for @Docker</li>
 </ul>
 </td></tr>
@@ -1562,7 +1562,7 @@ VP Engineering @ Aula Education</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Student | Teacher | Engineer</li>
 </ul>
 </td></tr>
@@ -1599,7 +1599,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/SteveSSingh"><img src="https://pbs.twimg.com/profile_images/1309276664321302529/8Rq8rKLv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SteveSSingh">@SteveSSingh</a> (Steve Singh)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Managing Director @MadronaVentures, Chairman @CenterSpendOps, @stratifyteam, @spotnana, @talend & @modumetal_inc, Director @docusign @WAFDbank @clarihq</li>
 </ul>
 </td></tr>
