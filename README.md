@@ -28,7 +28,7 @@ The http://rapiddns.io is a free, open and unlimited dns query tool. It makes ea
 <b><a href="https://twitter.com/joehelle">@joehelle</a> (Joe Helle)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Father | Husband | Army Veteran | Former Mayor | Penetration Tester | eCPPT | OSCP | Retired Moonshiner | http://twitch.tv/themayor11 |  🏳️‍🌈ally</li>
+<li>Father | Husband | Army Veteran | Former Mayor | Penetration Tester | eCPPT | OSCP | Retired Moonshiner | http://twitch.tv/themayor11 |  🏳️‍🌈ally | tweets are my own</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/DerbyComHSV"><img src="https://pbs.twimg.com/profile_images/1201661962129739776/9czPeHAy_200x200.jpg"></a></td><td>
@@ -64,7 +64,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Official @defcon Red Team Village |  Join us on Discord http://RedTeamVillage.io/discord & Youtube & Twitch #RedTeam #RedTeamVillage RedTeamVillage http://RedTeamVillage.com</li>
+<li>Official @defcon Red Team Village |  Join us on http://discord.gg/redteamvillage & Youtube & Twitch #RedTeam #RedTeamVillage  http://RedTeamVillage.com</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/CounterHackSec"><img src="https://pbs.twimg.com/profile_images/1311803916649021440/ZZe15J-V_200x200.jpg"></a></td><td>
@@ -199,7 +199,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/B00M_s1ang">@B00M_s1ang</a> (B00M#s1ang🐍)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>-Beaky Snake Geek-  Pen Tester | Bug Hunter | Certified Cyberpunk Lame-O...  Art by @majorashby  Banner by @mooexe
 https://medium.com/@B00Ms1ang</li>
 </ul>
@@ -251,7 +251,7 @@ http://www.GirlsWhoHack.com</li>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Re4sonKernel">@Re4sonKernel</a> (Re4son Kernel)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Kindness is cool</li>
 </ul>
 </td></tr>
@@ -595,7 +595,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/VulnHub"><img src="https://pbs.twimg.com/profile_images/503644334588039168/iH_pnqKE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/VulnHub">@VulnHub</a> (Vuln Hub)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Vulnerable by Design</li>
 </ul>
 </td></tr>
@@ -944,7 +944,7 @@ http://mkcert.dev / http://age-encryption.org</li>
 <tr><td><a href="https://twitter.com/CryptoGangsta"><img src="https://pbs.twimg.com/profile_images/1054255647318032384/od1nsJin_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CryptoGangsta">@CryptoGangsta</a> (Parsia Hakimian)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>Security engineer at Electronic Arts. Mostly Harmless. 🇺🇸 in 🇨🇦. He/Him</li>
 </ul>
 </td></tr>
@@ -1410,7 +1410,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1151729546946723840/PA3JNh1W_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (is pumpkin spicy)</b><br />
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (Reminder to vote)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Opinions and feelings</li>
