@@ -46,6 +46,13 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <li>A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/lazzslayer"><img src="https://pbs.twimg.com/profile_images/1182493592851492866/6vHYmwbQ_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/lazzslayer">@lazzslayer</a> (Savannah)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li></li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/SecSkittles"><img src="https://pbs.twimg.com/profile_images/1261069769102422016/qhC3a1Q-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SecSkittles">@SecSkittles</a> (Zach “Slittles” Priddy)</b><br />
 <ul>
@@ -482,7 +489,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -750,7 +757,7 @@ My name is in every elevator</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1293548511821209601/vceLClTM_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
+<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie speaking @Grayhat_Con)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>@point3sec | Uncommon Journey | Prof of Pwn @richland_dc | @schoolpwn Founder | @tribeofhackers Red Team | @innocentorg Ambassador | @hacknotcrime Advocate</li>
@@ -805,6 +812,13 @@ My name is in every elevator</li>
 <li>Proud dad, security nerd, gadget geek, @DEFCON 24 #SECTF Black Badge Winner, tedx talk: https://youtu.be/AvPsukNLENc face of DerbyCon</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/armitagehacker"><img src="https://pbs.twimg.com/profile_images/1161480291/Cyber_Girl_-_128x128_200x200.gif"></a></td><td>
+<b><a href="https://twitter.com/armitagehacker">@armitagehacker</a> (A. Hacker)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Developer of Cobalt Strike [for red team ops & adversary simulations]; Always on Twitter hiatus. Email raffi@strategiccyber.com</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/pwnpnw"><img src="https://pbs.twimg.com/profile_images/1282765760620720128/w7kXpTqh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnpnw">@pwnpnw</a> (mcgyver)</b><br />
 <ul>
@@ -851,7 +865,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/NationalCCDC"><img src="https://pbs.twimg.com/profile_images/524200979235745792/2Ur1Aat8_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/NationalCCDC">@NationalCCDC</a> (National CCDC)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Where education meets operation</li>
 </ul>
 </td></tr>
@@ -1068,7 +1082,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/alexlevinson"><img src="https://pbs.twimg.com/profile_images/804201044192305152/TdBgIzBB_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/alexlevinson">@alexlevinson</a> (Alex Levinson)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>#InfoSec, #RedTeam, #Golang, hacker. Chaotic Good. Former Red Team @Uber, @Lares_, @Zynga. Keeper of Keys @CCDCRedTeam and @nationalCPTC. Author of GSCRIPT.</li>
 </ul>
 </td></tr>
@@ -1695,7 +1709,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/BretFisher"><img src="https://pbs.twimg.com/profile_images/832697702110474240/DoseXuM2_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BretFisher">@BretFisher</a> (Bret Fisher)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Creator of #DockerMastery & #Kubernetes Mastery. #DevOps Sysadmin🤓 #Docker Captain 🐳 Beach Life🏖 Navy #veteran. http://patreon.com/bretfisher Live weekly@ http://bret.live</li>
 </ul>
 </td></tr>
