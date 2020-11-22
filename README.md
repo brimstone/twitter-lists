@@ -330,8 +330,8 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/TwoPwn"><img src="https://pbs.twimg.com/profile_images/1329713278440808450/RmjacqgE_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/TwoPwn">@TwoPwn</a> (؜)</b><br />
+<tr><td><a href="https://twitter.com/pwnPXL"><img src="https://pbs.twimg.com/profile_images/1330042311712051201/nffrv2aD_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/pwnPXL">@pwnPXL</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>(Community Moderator & CE @SecBlueTeam) 2020 @NMPHackathon Judge | eJPT Certified | Hacker on @HackTheBox_eu | Korean name: 미치</li>
@@ -625,7 +625,7 @@ Conference - Oct 2, 2021</li>
 <li>Hacker, husband, father, sometimes author.  I build things, I break things, and I'm -still- trying to figure everything out.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/FuzzySec"><img src="https://pbs.twimg.com/profile_images/1304540759677337601/1zl7ddj6_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/FuzzySec"><img src="https://pbs.twimg.com/profile_images/1330135087925563400/FzvOsx8G_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/FuzzySec">@FuzzySec</a> (b33f)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -776,7 +776,7 @@ Not the reporter, Not the general.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1325120570975924225/jnuYasUX_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/mzbat">@mzbat</a> (bat)</b><br />
+<b><a href="https://twitter.com/mzbat">@mzbat</a> (bat #Protect2020)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>NaaS ⚔️(No as a Service), InfraSec / Dir of Sec Eng @Truss_Works, alumna of @18F & #nasa, overcommitted underachiever, PhD in Horribleness. she/her/🦇🏳️‍🌈</li>
@@ -1047,7 +1047,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotless)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>hacking the planet at http://ired.team. 
 buy me vinyls: http://patreon.com/iredteam.</li>
 </ul>
@@ -1259,7 +1259,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1434,10 +1434,10 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1326230456325468160/5tGi9sTl_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (KubeBettyCon Virtual)</b><br />
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (Betty is thankful for you)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>/honk http://bit.ly/3fbdsNU</li>
+<li>opinions, feelings, bread</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/coreos"><img src="https://pbs.twimg.com/profile_images/378800000217543291/92f941aa760503ef8552a9fbc77ef9b6_200x200.png"></a></td><td>
@@ -1710,7 +1710,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
