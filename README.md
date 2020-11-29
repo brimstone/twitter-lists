@@ -446,7 +446,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1002520385156509697/PhUHrM3y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rootkovska">@rootkovska</a> (Joanna Rutkowska)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Long-term navigation @ http://golem.foundation & architect of @wildlandio. Previously @QubesOS & ITL founder. Distrusts computers. Freedom over safetyism.</li>
 </ul>
 </td></tr>
@@ -512,6 +512,13 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <ul>
 <li>Last Tweet: this week</li>
 <li>security guy, pentester, researcher. i sometimes blog and code based on motivation/caffeine levels. Principal Security Engineer @Marqeta</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/codingo_"><img src="https://pbs.twimg.com/profile_images/1305830764517367809/QuZAyP6U_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/codingo_">@codingo_</a> (Michael Skelton)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Global Head of Security Ops and Researcher Enablement @bugcrowd, maintainer of NoSQLMap, VHostScan, Interlace, Crithit. Occasional YouTuber.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BSidesHSV"><img src="https://pbs.twimg.com/profile_images/438732038019903488/bbN1cvTm_200x200.jpeg"></a></td><td>
@@ -756,7 +763,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <b><a href="https://twitter.com/K1ng__J0hn">@K1ng__J0hn</a> (Aldo_)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>🏥🍯🩺🕵️‍♂️🔍💻 Threat Intel 👉 Healthcare | Husband, Father, Brother, Son, TKE /🔺️\ Marine vet.
+<li>🏥🍯🩺🕵️‍♂️🔍💻 Threat Intel 👉 Healthcare | Husband, Father, Brother, Son, TKE /🔺️\ Marine vet. !=🤖
 
 Not the reporter, Not the general.</li>
 </ul>
