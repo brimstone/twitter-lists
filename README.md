@@ -314,6 +314,13 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1309776651861909504/wC7GLQFT_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: November</li>
+<li>Infrastructure Specialist, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), long walks on the breach, margaritas</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -330,11 +337,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwnPXL"><img src="https://pbs.twimg.com/profile_images/1334106070633988096/qT2SpMEf_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwnPXL"><img src="https://pbs.twimg.com/profile_images/1335202702423310338/tQvNcrXI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnPXL">@pwnPXL</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>(Community Moderator & CE @SecBlueTeam) 2020 @NMPHackathon Judge | eJPT Certified | Hacker on @HackTheBox_eu | Korean name: 미치</li>
+<li>(Community Moderator & CE @SecBlueTeam) 2020 @NMPHackathon Judge | eJPT Certified</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -446,7 +453,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1002520385156509697/PhUHrM3y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rootkovska">@rootkovska</a> (Joanna Rutkowska)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Long-term navigation @ http://golem.foundation & architect of @wildlandio. Previously @QubesOS & ITL founder. Distrusts computers. Freedom over safetyism.</li>
 </ul>
 </td></tr>
@@ -458,7 +465,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ViGreyTech"><img src="https://pbs.twimg.com/profile_images/1325727288265236480/N434iGBx_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey ❌)</b><br />
+<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (☃️ Vi Grey 🎄)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>#NES #GB Homebrew Game Developer | Engineering and Research @VG_Interactive | @GreyBadge | Retro Computing | Polyglot File Creator | http://vigrey.com | #nesdev</li>
@@ -489,7 +496,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -738,7 +745,7 @@ Loves to share knowledge & inspire.</li>
 <tr><td><a href="https://twitter.com/netmux"><img src="https://pbs.twimg.com/profile_images/804157984997867520/2gYcPHT4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/netmux">@netmux</a> (Netmux)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Dad-Husband-Vet-Passwords
 Operator Handbook: http://amazon.com/dp/B085RR67H5
 OH Ebook: http://leanpub.com/operator-handbook
@@ -934,7 +941,7 @@ Founding Team @RandoriAttack</li>
 <li></li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1287876651116789760/UgxO49aP_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1335304744475234305/EB39TEx6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/HackingDave">@HackingDave</a> (Dave Kennedy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1041,7 +1048,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <li>Pen tester, security geek.  PvJ red team captain, Defcon black badge winner (IoT CTF).  Founder of Loudmouth Security and co-founder of Village Idiot Labs.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1334624923264970758/kAy-nMin_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1335343271351099395/BkbgGWQX_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1753,7 +1760,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/calavera"><img src="https://pbs.twimg.com/profile_images/1151579040861474816/JUyTmeV4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/calavera">@calavera</a> (David Calavera)</b><br />
 <ul>
-<li>Last Tweet: 2019</li>
+<li>Last Tweet: this week</li>
 <li>Vegan. O’Reilly author. Follow my dog on IG</li>
 </ul>
 </td></tr>
