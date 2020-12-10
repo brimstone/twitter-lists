@@ -133,7 +133,7 @@ Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
 <tr><td><a href="https://twitter.com/Infosec_Taylor"><img src="https://pbs.twimg.com/profile_images/1250755151641497601/FwB4QRvf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosec_Taylor">@Infosec_Taylor</a> (Ashley - No Justice, No Peace)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li><i>Protected</i></li>
 <li>Information Security Supervisor | GCIA | GCIH | GCPM | GPEN | GPYC | GSEC | SSAP | SANS MSISE Student | SANS Advisory Board | She/Her</li>
 </ul>
 </td></tr>
@@ -460,7 +460,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/todayininfosec"><img src="https://pbs.twimg.com/profile_images/489054051217047552/wJIUUwbZ_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/todayininfosec">@todayininfosec</a> (Today In Infosec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Tweeting news from the world of information security that occurred or was announced on today's date in a previous year. Managed by @stevewerby.</li>
 </ul>
 </td></tr>
@@ -489,7 +489,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/spaceB0xx"><img src="https://pbs.twimg.com/profile_images/431551983632134144/rNde8bBa_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/spaceB0xx">@spaceB0xx</a> (spaceB0x)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Manifests in various forms in the digital array. Jesus phreak. hacker. Speaker @ PhreakNiC, DefCon. Parler: @spaceB0x</li>
 </ul>
 </td></tr>
@@ -715,7 +715,7 @@ This account is not a support channel for Red Team Ops.</li>
 <tr><td><a href="https://twitter.com/Ben0xA"><img src="https://pbs.twimg.com/profile_images/1061463329363902464/So7g4cgA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Ben0xA">@Ben0xA</a> (Ben Ten (0xA))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Christian, Penetration Tester, Defender, Developer, Gamer, Not PowerShell (nps) & nps_payload Creator, PoLRBear Project @polrbearproject || Views are my own!</li>
 </ul>
 </td></tr>
@@ -900,7 +900,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/syndrowm"><img src="https://pbs.twimg.com/profile_images/1255921692875972608/XO7ggGPa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/syndrowm">@syndrowm</a> (syndrowm)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team, CTF, CCDC, Brown Belt, #RedTeamFit --
 
 Founding Team @RandoriAttack</li>
@@ -1016,7 +1016,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/ElonkaDunin"><img src="https://pbs.twimg.com/profile_images/197713791/2003Crypto_1__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ElonkaDunin">@ElonkaDunin</a> (Elonka Dunin)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Agile Evangelist, Game Developer, Cryptographer, Geocacher, Author, Wikipedian, Public Speaker, Nola Kaye. New book Dec 2020: http://codebreaking-guide.com</li>
 </ul>
 </td></tr>
@@ -1150,7 +1150,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/lordsaibat"><img src="https://pbs.twimg.com/profile_images/1270295688912547841/80ibgOKU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lordsaibat">@lordsaibat</a> (lordsaibat)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I break stuff a lot (pentester), I automate builds (terraform), and I try to help move the industry. Friend to all. SANS MSISE Grad. @Novahackers</li>
 </ul>
 </td></tr>
@@ -1166,7 +1166,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/natashenka"><img src="https://pbs.twimg.com/profile_images/1221284302912028673/6sXOJCzx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/natashenka">@natashenka</a> (Natalie Silvanovich)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Tamagotchi Hacker. Google Project Zero. She/her.</li>
 </ul>
 </td></tr>
@@ -1348,11 +1348,8 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/953081975929110528/3NipXrBH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie Howard)</b><br />
 <ul>
-<li>Last Tweet: November</li>
-<li>// Leave it better than you found it
-// Black Lives Matter 
-// Software Engineer @Anchorage
-// 🏊‍♀️🚴‍♀️🏃‍♀️👩‍💻</li>
+<li>Last Tweet: this week</li>
+<li>// Leave it better than you found it // Black Lives Matter // 🏊‍♀️🚴‍♀️🏃‍♀️🏄‍♀️💃👩‍💻</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/alexellisuk"><img src="https://pbs.twimg.com/profile_images/1134783444079259648/lP1sBvo1_200x200.png"></a></td><td>
@@ -1372,7 +1369,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/neugebar"><img src="https://pbs.twimg.com/profile_images/674751035693506560/iRK0zefZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Sometimes I do computer stuff so complicated that I can't explain it to my parents. European citizen in the UK. Opinions are my own.</li>
 </ul>
 </td></tr>
@@ -1739,7 +1736,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure geek and director of product at https://joyent.com</li>
 </ul>
 </td></tr>
