@@ -337,7 +337,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwnPXL"><img src="https://pbs.twimg.com/profile_images/1336930502939267072/eJg4Ns5q_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwnPXL"><img src="https://pbs.twimg.com/profile_images/1337640753321758721/950n2DLH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnPXL">@pwnPXL</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1140,7 +1140,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/egyp7"><img src="https://pbs.twimg.com/profile_images/1939611804/6edcbcd3de4eb6bc9117edc26a9fa736_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/egyp7">@egyp7</a> (egyp7.)</b><br />
+<b><a href="https://twitter.com/egyp7">@egyp7</a> (egyp7)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Scrub. Noob. Has-been.
