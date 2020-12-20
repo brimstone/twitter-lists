@@ -17,6 +17,14 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 The http://rapiddns.io is a free, open and unlimited dns query tool. It makes easy to query subdomains or sites of the same IP.</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/hackerscrolls"><img src="https://pbs.twimg.com/profile_images/1242031002874249216/FuJbsLzq_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/hackerscrolls">@hackerscrolls</a> (Hack3rScr0lls)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>for hackers by hackers
+Contact: hackerscrolls@gmail.com</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/joehelle"><img src="https://pbs.twimg.com/profile_images/1220400304241422338/fYwQCMXg_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joehelle">@joehelle</a> (Joe Helle)</b><br />
 <ul>
@@ -525,7 +533,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/codingo_"><img src="https://pbs.twimg.com/profile_images/1305830764517367809/QuZAyP6U_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/codingo_">@codingo_</a> (Michael Skelton)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li><i>Protected</i></li>
 <li>Global Head of Security Ops and Researcher Enablement @bugcrowd, hacking education youtuber, maintainer of NoSQLMap, VHostScan, Interlace, Crithit.</li>
 </ul>
 </td></tr>
@@ -716,7 +724,7 @@ This account is not a support channel for Red Team Ops.</li>
 <tr><td><a href="https://twitter.com/Ben0xA"><img src="https://pbs.twimg.com/profile_images/1061463329363902464/So7g4cgA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Ben0xA">@Ben0xA</a> (Ben Ten (0xA))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Christian, Penetration Tester, Defender, Developer, Gamer, Not PowerShell (nps) & nps_payload Creator, PoLRBear Project @polrbearproject || Views are my own!</li>
 </ul>
 </td></tr>
@@ -770,7 +778,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/K1ng__J0hn"><img src="https://pbs.twimg.com/profile_images/1331657196019609602/z4qB5Pbm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/K1ng__J0hn">@K1ng__J0hn</a> (Aldo_)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li><i>Protected</i></li>
 <li>🏥🍯🩺🕵️‍♂️🔍💻 Threat Intel 👉 Healthcare | Husband, Father, Brother, Son, TKE /🔺️\ Marine vet. !=🤖
 
 Not the reporter, Not the general.</li>
@@ -1349,7 +1357,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/953081975929110528/3NipXrBH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie Howard)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>// Leave it better than you found it // Black Lives Matter // 🏊‍♀️🚴‍♀️🏃‍♀️🏄‍♀️💃👩‍💻</li>
 </ul>
 </td></tr>
