@@ -236,7 +236,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1021527761817673729/OzeFmMXy_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Science, Technology and Stuffed Animals! Follow me on my STEAM adventures!🦄
 Founder, CEO
 http://www.GirlsWhoHack.com</li>
@@ -345,8 +345,8 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwnPXL"><img src="https://pbs.twimg.com/profile_images/1340869083483402240/Pivt7WNK_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwnPXL">@pwnPXL</a> (؜)</b><br />
+<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1342102616180834304/jFqt3VAW_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/Remin4nt">@Remin4nt</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>(Content Editor @SecBlueTeam) 2020 @NMPHackathon Judge | eJPT | Purple Teamer HTB, THM, VulnHub, BTLO</li>
@@ -482,7 +482,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/0xAshFox"><img src="https://pbs.twimg.com/profile_images/1248531140245204993/SfhW2Rn4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xAshFox">@0xAshFox</a> (AshF0x)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Just a guy trying to get into CyberSecurity. 
 Teaching myself with books and the internet 💻 #nahomie. I stream pretty often too.</li>
 </ul>
@@ -490,7 +490,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/Infosecjen"><img src="https://pbs.twimg.com/profile_images/1306675033989951489/0Xgs-ikI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosecjen">@Infosecjen</a> (Guvnah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
@@ -665,7 +665,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/DonnieMarcoFoto"><img src="https://pbs.twimg.com/profile_images/1285641828063039488/fjoZ6zCe_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/DonnieMarcoFoto">@DonnieMarcoFoto</a> (🏴󠁧󠁢󠁷󠁬󠁳󠁿 Marc Hill)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Cymro #republicofwales #annibyniaeth #indywales</li>
 </ul>
 </td></tr>
@@ -807,7 +807,7 @@ Not the reporter, Not the general.</li>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1294923902942994432/O37fwYZA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/itsC0rg1">@itsC0rg1</a> (Niru Ragupathy / itsc0rg1 🐶)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Foodie, anime fan, security engineer and gamer. My views are my own, do not reflect those of my past, present or future employers.</li>
 </ul>
 </td></tr>
@@ -1038,7 +1038,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/georgiaweidman"><img src="https://pbs.twimg.com/profile_images/1160297622877290497/53Np_AlD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/georgiaweidman">@georgiaweidman</a> (Georgia Weidman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Author: Penetration Testing http://www.nostarch.com/pentesting Founder: @bulbsecurity & @shevirahsec Professor: @UMUC & @tulane Fellow: @NewAmerica</li>
 </ul>
 </td></tr>
@@ -1730,7 +1730,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
