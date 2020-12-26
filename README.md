@@ -68,6 +68,13 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <li>Web App (mostly) Hacker. #InfoSec #OSCP. AutoRecon Dev. Author of the Linux (http://is.gd/nWRx4V) and Windows (http://is.gd/4uAX7E) PrivEsc courses. Ex-Brit. 🇺🇸 (he/him)</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/BCSecurity1"><img src="https://pbs.twimg.com/profile_images/1146808348001669123/En4ill1Z_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/BCSecurity1">@BCSecurity1</a> (BC Security)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Providing cybersecurity assessments across a range of disciplines, we bring a strong understanding of compliance regulations and risk mitigation.</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1281443843188101122/rRxS43hZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
@@ -345,11 +352,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1342102616180834304/jFqt3VAW_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1342398587515195393/C5x4NeMA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Remin4nt">@Remin4nt</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>(Content Editor @SecBlueTeam) 2020 @NMPHackathon Judge | eJPT | Purple Teamer HTB, THM, VulnHub, BTLO</li>
+<li>Enjoying breaking and rebuilding things. Junior Penetration Tester | Content Editor @SecBlueTeam & 2020 @NMPHackathon Judge | eJPT, BTJA</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -433,7 +440,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Snowden"><img src="https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Snowden">@Snowden</a> (Edward Snowden)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I used to work for the government. Now I work for the public. President at @FreedomofPress.</li>
 </ul>
 </td></tr>
@@ -497,7 +504,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/spaceB0xx"><img src="https://pbs.twimg.com/profile_images/431551983632134144/rNde8bBa_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/spaceB0xx">@spaceB0xx</a> (spaceB0x)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Manifests in various forms in the digital array. Jesus phreak. hacker. Speaker @ PhreakNiC, DefCon. Parler: @spaceB0x</li>
 </ul>
 </td></tr>
@@ -966,7 +973,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1305830923095674880/fBlLmtjf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer丨Onewheel rider #onewheel 丨Author of Red Team Development and Operations http://redteam.guide</li>
 </ul>
 </td></tr>
@@ -1162,7 +1169,7 @@ he/him or they/them</li>
 <li>I break stuff a lot (pentester), I automate builds (terraform), and I try to help move the industry. Friend to all. SANS MSISE Grad. @Novahackers</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/digininja"><img src="https://pbs.twimg.com/profile_images/1329314474055045120/ZUsSHITP_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/digininja"><img src="https://pbs.twimg.com/profile_images/1342376433084215296/tTqXadJo_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/digininja">@digininja</a> (Robin)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1512,7 +1519,7 @@ bear by http://fnnch.com</li>
 <tr><td><a href="https://twitter.com/marcosnils"><img src="https://pbs.twimg.com/profile_images/630917288619847680/YNTnYxza_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/marcosnils">@marcosnils</a> (Marcos Nils)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Principal @ Wildlife 🎮  | X-Ops Head @ ▲  | X-Infra lead @ MELI | Docker Captain 🐋⛵ | PWD and OSS  ❤️. 🍔🍷⚽️⛵️🏋️🏂 and some 🕹️  🇦🇷</li>
 </ul>
 </td></tr>
@@ -1659,7 +1666,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/annieshin9"><img src="https://pbs.twimg.com/profile_images/598527430354083840/G0qBq1NI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/annieshin9">@annieshin9</a> (Annie Shin)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>coding fingers turn to twitter fingers. emotional eater turned emotional tweeter.</li>
 </ul>
 </td></tr>
@@ -1673,7 +1680,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO @Anchorage</li>
 </ul>
 </td></tr>
@@ -1744,7 +1751,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure geek and director of product at https://joyent.com</li>
 </ul>
 </td></tr>
