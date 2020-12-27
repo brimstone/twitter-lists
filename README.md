@@ -352,11 +352,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1342398587515195393/C5x4NeMA_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1342703414988263425/x6kQOqXD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Remin4nt">@Remin4nt</a> (؜)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Enjoying breaking and rebuilding things. Junior Penetration Tester | Content Editor @SecBlueTeam & 2020 @NMPHackathon Judge | eJPT, BTJA</li>
+<li>Studying Cert IV Cyber Security 2021. Junior Penetration Tester | Content Editor @SecBlueTeam & 2020 @NMPHackathon Judge | eJPT & BTJA</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -954,6 +954,13 @@ Founding Team @RandoriAttack</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li></li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/irsdl"><img src="https://pbs.twimg.com/profile_images/378800000210949879/d9accfa256bd1d1143f1ac7411c8a0f9_200x200.jpeg"></a></td><td>
+<b><a href="https://twitter.com/irsdl">@irsdl</a> (Soroush)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>appsec \ web / http://http.ninja:000000000000000000000000000080/,:;$&$&$&$&$&$&$&$&$&$&$&$&$&/../ @MDSecLabs | a delimiter character fan | RT/LK can be accidental or !</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1336066388096675843/SczYjTBD_200x200.jpg"></a></td><td>
@@ -1666,7 +1673,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/annieshin9"><img src="https://pbs.twimg.com/profile_images/598527430354083840/G0qBq1NI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/annieshin9">@annieshin9</a> (Annie Shin)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li><i>Protected</i></li>
 <li>coding fingers turn to twitter fingers. emotional eater turned emotional tweeter.</li>
 </ul>
 </td></tr>
