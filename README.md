@@ -64,7 +64,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/SecSkittles"><img src="https://pbs.twimg.com/profile_images/1261069769102422016/qhC3a1Q-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SecSkittles">@SecSkittles</a> (Zach “Slittles” Priddy)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>Defcon Black Badge Holder and ever changing rainbow...</li>
 </ul>
 </td></tr>
@@ -507,7 +507,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/ViGreyTech"><img src="https://pbs.twimg.com/profile_images/1325727288265236480/N434iGBx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (☃️ Vi Grey 🎄)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>#NES #GB Homebrew Game Developer | Engineering and Research @VG_Interactive | @GreyBadge | Retro Computing | Polyglot File Creator | http://vigrey.com | #nesdev</li>
 </ul>
 </td></tr>
@@ -810,7 +810,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <b><a href="https://twitter.com/K1ng__J0hn">@K1ng__J0hn</a> (Aldo_)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>🏥🍯🩺🕵️‍♂️🔍💻 Threat Intel 👉 Healthcare /🔺️\ !=🤖</li>
+<li>🏥🍯🩺🕵️‍♂️🔍💻 Threat Intel 👉 Healthcare /🔺️\ !=🤖 lvl 3🍍🧙‍♂️</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1293548511821209601/vceLClTM_200x200.jpg"></a></td><td>
@@ -1106,7 +1106,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotless)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>hacking the planet at http://ired.team
 buy me a vinyl at http://patreon.com/iredteam</li>
 </ul>
@@ -1126,7 +1126,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/_xpn_"><img src="https://pbs.twimg.com/profile_images/1255832094284156928/etZZckud_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester)</b><br />
+<b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester {AFK})</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>|| RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com || AETR at @TrustedSec ||</li>
@@ -1518,7 +1518,7 @@ bear by http://fnnch.com</li>
 <tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1201320309921480705/z3R9hZHL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>Security Infrastructure @Novi @Facebook. Formerly Tech Lead @Anchorage, Security @Docker, Security Intern @Apple. Striving for a world with stronger locks</li>
 </ul>
 </td></tr>
@@ -1785,7 +1785,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure geek and director of product at https://joyent.com</li>
 </ul>
 </td></tr>
