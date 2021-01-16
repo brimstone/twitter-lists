@@ -377,8 +377,8 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1347373628069871617/BK9ElcAE_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/Remin4nt">@Remin4nt</a> (Reminant)</b><br />
+<tr><td><a href="https://twitter.com/Remin4nt"><img src="https://pbs.twimg.com/profile_images/1350028714889732098/LWB5gPLE_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/Remin4nt">@Remin4nt</a> (Mitch)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Studying Cert IV Cyber Security. Junior Penetration Tester | Content Editor @SecBlueTeam | eJPT</li>
@@ -387,7 +387,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kafkaesqu3">@kafkaesqu3</a> (kafkaesque)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>the enemy knows the system</li>
 </ul>
 </td></tr>
@@ -551,7 +551,10 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <b><a href="https://twitter.com/_superhero1">@_superhero1</a> (superhero1)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>📺 YouTube http://youtube.com/superhero1 | 📸 Twitch http://twitch.com/sup3rhero1 | 👋 Discord http://discord.gg/CP7cYFs | ☕️❤️ http://ko-fi.com/superhero1</li>
+<li>YouTube http://youtube.com/superhero1
+Twitch http://twitch.com/sup3rhero1
+Discord http://discord.gg/CP7cYFs
+Donations / VIP / Memberships / 1:1 sessions http://ko-fi.com/superhero1</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ropnop"><img src="https://pbs.twimg.com/profile_images/1017215550550880256/CglPvrog_200x200.jpg"></a></td><td>
@@ -755,7 +758,7 @@ This account is not a support channel for Red Team Ops.</li>
 <tr><td><a href="https://twitter.com/Ben0xA"><img src="https://pbs.twimg.com/profile_images/1061463329363902464/So7g4cgA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Ben0xA">@Ben0xA</a> (Ben Ten (0xA))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Christian, Penetration Tester, Defender, Developer, Gamer, Not PowerShell (nps) & nps_payload Creator, PoLRBear Project @polrbearproject || Views are my own!</li>
 </ul>
 </td></tr>
@@ -1425,7 +1428,7 @@ Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</l
 <tr><td><a href="https://twitter.com/kbajza13"><img src="https://pbs.twimg.com/profile_images/1328830380267294722/3egisbZR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kbajza13">@kbajza13</a> (Karen Bajza)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>Community @Databricks | #diversityintech | Upcycler @ http://weatheredwarehouse.com
 Thoughts are my own.</li>
 </ul>
@@ -1649,7 +1652,7 @@ VP Engineering @ Aula Education</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>Student | Teacher | Engineer</li>
 </ul>
 </td></tr>
