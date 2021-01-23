@@ -102,7 +102,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/CounterHackSec"><img src="https://pbs.twimg.com/profile_images/1349767068636180481/DqYS-KFt_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CounterHackSec">@CounterHackSec</a> (Counter Hack)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>The official Twitter handle for Counter Hack’s pen test and cybersecurity consulting team. | Producers of #holidayhack and @kringlecon</li>
 </ul>
 </td></tr>
@@ -144,7 +144,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/KringleCon"><img src="https://pbs.twimg.com/profile_images/1324754147573297158/Q3t4GFr1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/KringleCon">@KringleCon</a> (KringleCon)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The world's most fun and festive hacking challenge is back! 🎁 #holidayhack by @counterhacksec + @sansinstitute</li>
 </ul>
 </td></tr>
@@ -560,7 +560,7 @@ Donations / VIP / Memberships / 1:1 sessions http://ko-fi.com/superhero1</li>
 <tr><td><a href="https://twitter.com/ropnop"><img src="https://pbs.twimg.com/profile_images/1017215550550880256/CglPvrog_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ropnop">@ropnop</a> (Ronnie Flathers)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>security guy, pentester, researcher. i sometimes blog and code based on motivation/caffeine levels. Principal Security Engineer @Marqeta</li>
 </ul>
 </td></tr>
@@ -613,7 +613,7 @@ Patreon: http://patreon.com/MalwareTech, YT: http://youtube.com/MalwareTechBlog<
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -635,7 +635,7 @@ Moderator at http://netsecfocus.com. SANS Netwars Champion 2017-2019!  Red Teame
 <tr><td><a href="https://twitter.com/BSidesAugusta"><img src="https://pbs.twimg.com/profile_images/1072304366760198151/TO5ROoRM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BSidesAugusta">@BSidesAugusta</a> (BSidesAugusta)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>BSidesAugusta (GA) Official Twitter Account.
 Conference - Oct 2, 2021</li>
 </ul>
@@ -906,7 +906,7 @@ Always on Twitter hiatus.</li>
 <tr><td><a href="https://twitter.com/jessploit"><img src="https://pbs.twimg.com/profile_images/1063620918415548427/6yXsU7Np_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessploit">@jessploit</a> (Jessica)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team, black dress, she/her</li>
 </ul>
 </td></tr>
@@ -935,7 +935,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/sethlaw"><img src="https://pbs.twimg.com/profile_images/1284151225122844674/V060BAPe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sethlaw">@sethlaw</a> (SeThLaW)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>appsec, mobile, hack, fix, rinse, repeat. Co-host of @absoluteappsec, founder of @redpointsec.</li>
 </ul>
 </td></tr>
@@ -1130,7 +1130,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/_xpn_"><img src="https://pbs.twimg.com/profile_images/1255832094284156928/etZZckud_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester {AFK})</b><br />
+<b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester)</b><br />
 <ul>
 <li>Last Tweet: 2 weeks ago</li>
 <li>|| RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com || AETR at @TrustedSec ||</li>
@@ -1160,7 +1160,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
@@ -1357,7 +1357,7 @@ http://hackthebox.eu/profile/1496</li>
 <tr><td><a href="https://twitter.com/kh4st3x"><img src="https://pbs.twimg.com/profile_images/921602831823536129/ri5EBAMa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kh4st3x">@kh4st3x</a> (khast3x 📡)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>Research in #Infosec and #OSINT - Password Necromancer - Already following you with a bot</li>
 </ul>
 </td></tr>
