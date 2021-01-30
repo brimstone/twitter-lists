@@ -109,7 +109,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/CounterHackSec"><img src="https://pbs.twimg.com/profile_images/1349767068636180481/DqYS-KFt_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CounterHackSec">@CounterHackSec</a> (Counter Hack)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The official Twitter handle for Counter Hack’s pen test and cybersecurity consulting team. | Producers of #holidayhack and @kringlecon</li>
 </ul>
 </td></tr>
@@ -357,7 +357,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/minis_io"><img src="https://pbs.twimg.com/profile_images/983764998123028480/xVia91Rk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/minis_io">@minis_io</a> (minis_io)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
@@ -613,7 +613,7 @@ Patreon: http://patreon.com/MalwareTech, YT: http://youtube.com/MalwareTechBlog<
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -799,7 +799,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1352305962380619776/mSJs4zUc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pentest Architect @cobalt_io, Creator of Hacking How-To, Offensive Security Researcher, CTFer, OSCE, OSCP, OSWP👩🏼‍💻🏃🏼‍♀️</li>
 </ul>
 </td></tr>
@@ -913,7 +913,7 @@ Always on Twitter hiatus.</li>
 <tr><td><a href="https://twitter.com/pierrebrunetti"><img src="https://pbs.twimg.com/profile_images/1993974501/62535_437802804443_813659443_4917572_4471451_n_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pierrebrunetti">@pierrebrunetti</a> (Pierre Brunetti)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Security addict</li>
 </ul>
 </td></tr>
@@ -935,7 +935,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/NationalCCDC"><img src="https://pbs.twimg.com/profile_images/524200979235745792/2Ur1Aat8_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/NationalCCDC">@NationalCCDC</a> (National CCDC)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Where education meets operation</li>
 </ul>
 </td></tr>
@@ -1014,7 +1014,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1305830923095674880/fBlLmtjf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer丨Onewheel rider #onewheel 丨Author of Red Team Development and Operations http://redteam.guide</li>
 </ul>
 </td></tr>
@@ -1136,7 +1136,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 <li>With Rapid7 technology, services, and research, organizations around the globe can break down barriers, accelerate innovation, and securely advance.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/_xpn_"><img src="https://pbs.twimg.com/profile_images/1255832094284156928/etZZckud_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/_xpn_"><img src="https://pbs.twimg.com/profile_images/1355285971428929542/GKc0Bt_Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1171,7 +1171,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/torproject"><img src="https://pbs.twimg.com/profile_images/1319338724497313792/k35hOb9H_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/torproject"><img src="https://pbs.twimg.com/profile_images/1355291911544729601/vPyVtGbr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/torproject">@torproject</a> (The Tor Project)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1491,7 +1491,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/laurelcomics"><img src="https://pbs.twimg.com/profile_images/422324760165359616/k5iuymHv_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/laurelcomics">@laurelcomics</a> (Laurel)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Comic book artist, working for @Docker</li>
 </ul>
 </td></tr>
