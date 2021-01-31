@@ -158,7 +158,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/cpl3h"><img src="https://pbs.twimg.com/profile_images/1240826119995047937/CDgYAiv2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cpl3h">@cpl3h</a> (cpl)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Intelligence - 1
 Wisdom - 1
 Charisma - 1
@@ -298,7 +298,7 @@ http://www.GirlsWhoHack.com</li>
 <b><a href="https://twitter.com/stokfredrik">@stokfredrik</a> (STÖK ✌️)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Hi.. im that hacker that your friends told you about. I create Cybersecurity Awareness / Educational Content and hacks all the things.</li>
+<li>Hi.. im that hacker that your friends told you about. I create Cybersecurity Awareness / Educational Content and hacks all the things. -VBZSQD-</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
@@ -536,7 +536,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -1724,7 +1724,7 @@ French, Wine lover. Soccer Fan.</li>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Co-founder and CEO @Anchorage</li>
+<li>Co-founder and CEO @Anchorage  #bitcoin</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/arnaudporterie"><img src="https://pbs.twimg.com/profile_images/539682022403239936/v0lkwSvo_200x200.jpeg"></a></td><td>
