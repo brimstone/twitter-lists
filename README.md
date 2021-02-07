@@ -311,7 +311,7 @@ http://www.GirlsWhoHack.com</li>
 <tr><td><a href="https://twitter.com/ppentestlabs"><img src="https://pbs.twimg.com/profile_images/889447391488856064/tID0pEIx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ppentestlabs">@ppentestlabs</a> (Practical Pentest Labs)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>For every #infosec enthusiast interested in learning the art of vulnerability discovery, exploitation & #hacking. | We teach valuable skills not just ideas.</li>
 </ul>
 </td></tr>
@@ -350,7 +350,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/ippsec"><img src="https://pbs.twimg.com/profile_images/859140652617142272/z79HkNvx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ippsec">@ippsec</a> (ippsec)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -364,7 +364,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>pop shells not alert()
 
 "If you don’t think you are a newb, you’re not trying hard enough" - @hdmoore</li>
@@ -1147,7 +1147,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 <b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>|| RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com || Adversary Emulation at @TrustedSec ||</li>
+<li>79 y/o || RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com || Adversary Emulation at @TrustedSec ||</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1352985242601218049/q2STtiWO_200x200.jpg"></a></td><td>
@@ -1157,7 +1157,7 @@ buy me a vinyl at http://patreon.com/iredteam</li>
 <li>SIGINT Marine at the turn of the century. I break software for fun and occasional profit. Sponsor me on GitHub: https://github.com/sponsors/secretsquirrel</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1340052361423806466/ESSXTp-d_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1358148858732294144/wA1NhbXq_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hackerfantastic">@hackerfantastic</a> (Hacker Fantastic 📡)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1434,7 +1434,7 @@ Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</l
 <tr><td><a href="https://twitter.com/neugebar"><img src="https://pbs.twimg.com/profile_images/674751035693506560/iRK0zefZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Sometimes I do computer stuff so complicated that I can't explain it to my parents. European citizen in the UK. Opinions are my own.</li>
 </ul>
 </td></tr>
@@ -1689,7 +1689,7 @@ French, Wine lover. Soccer Fan.</li>
 <b><a href="https://twitter.com/thaJeztah">@thaJeztah</a> (Sebastiaan van Stijn)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Sr. Francisco at @docker</li>
+<li>Sr. Francisco at @docker he/him</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/estesp"><img src="https://pbs.twimg.com/profile_images/1216121585536569344/uA1mRoU2_200x200.jpg"></a></td><td>
