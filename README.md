@@ -656,7 +656,7 @@ Moderator at http://netsecfocus.com. SANS Netwars Champion 2017-2019!  Red Teame
 <tr><td><a href="https://twitter.com/BSidesAugusta"><img src="https://pbs.twimg.com/profile_images/1072304366760198151/TO5ROoRM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BSidesAugusta">@BSidesAugusta</a> (BSidesAugusta)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>BSidesAugusta (GA) Official Twitter Account.
 Conference - Oct 2, 2021</li>
 </ul>
@@ -686,7 +686,7 @@ Conference - Oct 2, 2021</li>
 <b><a href="https://twitter.com/harmj0y">@harmj0y</a> (Will)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Technical architect @SpecterOps. Code:  Empire | BloodHound | GhostPack | PowerSploit | Veil-Framework. One time I broke forest trusts with @tifkin_</li>
+<li>Technical architect @SpecterOps. Code: GhostPack | Empire | BloodHound | PowerSploit | Veil-Framework. One time I broke forest trusts with @tifkin_</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bsidesatl"><img src="https://pbs.twimg.com/profile_images/971459099308232704/hMDSC78b_200x200.jpg"></a></td><td>
@@ -953,8 +953,8 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <li>Last Tweet: this week</li>
 <li>🌷 Open Source Creator & Writer. 💫 Follow me to see me nerd out about computer science ✨
 
-Curr: @Monzo @realtryhackme
-Discord http://discord.skerritt.blog</li>
+Curr: Backend @Monzo prev: @realtryhackme
+http://discord.skerritt.blog</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kees_cook"><img src="https://pbs.twimg.com/profile_images/1258428092072132609/Me6V6RQe_200x200.jpg"></a></td><td>
@@ -998,7 +998,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1589,7 +1589,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/JesseAdametz"><img src="https://pbs.twimg.com/profile_images/1126176738646478848/nVp2cisx_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/JesseAdametz">@JesseAdametz</a> (Jesse Adametz)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Engineering Manager @segment. Opinions my own. Tweets delete after 30 days. http://pronoun.is/he.</li>
 </ul>
 </td></tr>
@@ -1614,7 +1614,7 @@ Thoughts are my own.</li>
 <li>Paid Digital Marketing Manager @salesforce. Attracting more engaged customers and driving revenue is my jam. Love yoga and cats too. Opinions are all mine!</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1345097268509044736/e9hFL2Uz_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1370111483846090754/tgXWSNKm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan 🦣)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1780,7 +1780,7 @@ French, Wine lover. Soccer Fan.</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>#blacklivesmatter
-The second word in #devrel is relations. Our profession is built on relationships.</li>
+Our profession is built on relationships.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1311385675812474881/6TziLfUs_200x200.jpg"></a></td><td>
