@@ -386,7 +386,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/aspwning"><img src="https://pbs.twimg.com/profile_images/1372894926225084423/l0biSEw7_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/aspwning">@aspwning</a> (ᴘᴡɴ)</b><br />
+<b><a href="https://twitter.com/aspwning">@aspwning</a> (ᴘᴡɴ💎)</b><br />
 <ul>
 <li>Last Tweet: last week</li>
 <li>Jr. Moderator @hackthebox_eu | Studying Cert IV Cyber Security & eCPPT. Junior Penetration Tester | Content Editor @SecBlueTeam | First bug bounty as P1 | eJPT</li>
@@ -467,7 +467,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/0xdade">@0xdade</a> (dade)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>I rap computers and make hack songs. he/him</li>
+<li>I rap computers and make hack music. he/him</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/fullmetalcache"><img src="https://pbs.twimg.com/profile_images/786509611020980224/fIWXyWIC_200x200.jpg"></a></td><td>
@@ -949,7 +949,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bee_sec_san"><img src="https://pbs.twimg.com/profile_images/1343564774991421442/Hq70Z_DZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/bee_sec_san">@bee_sec_san</a> (🐝 Bee / Brandon 🌃)</b><br />
+<b><a href="https://twitter.com/bee_sec_san">@bee_sec_san</a> (🐝 Bee 🌃)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>🌷 Dev @monzo Community @realtryhackme💫
@@ -1185,7 +1185,7 @@ Hire me to crack passwords for you & your team!</li>
 <li>SIGINT Marine at the turn of the century. I break software for fun and occasional profit. Sponsor me on GitHub: https://github.com/sponsors/secretsquirrel</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1372035406276001794/i-whNAf6_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1373297498085818370/LFGZKOh9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hackerfantastic">@hackerfantastic</a> (Hacker Fantastic)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1794,7 +1794,7 @@ Our profession is built on relationships.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1311385675812474881/6TziLfUs_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/ewindisch">@ewindisch</a> (April E Windisch)</b><br />
+<b><a href="https://twitter.com/ewindisch">@ewindisch</a> (null)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Principal Engineer. Founder/CTO IOpipe acq. 2019. TBLGQ+ 🏳️‍🌈🏳️‍⚧️ she/her</li>
