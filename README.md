@@ -78,7 +78,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/SecSkittles"><img src="https://pbs.twimg.com/profile_images/1261069769102422016/qhC3a1Q-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SecSkittles">@SecSkittles</a> (Zach “Slittles” Priddy)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Defcon Black Badge Holder and ever changing rainbow...</li>
 </ul>
 </td></tr>
@@ -222,7 +222,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/_dirkjan"><img src="https://pbs.twimg.com/profile_images/941026484130545664/J8QlOYL8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_dirkjan">@_dirkjan</a> (Dirk-jan)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker at @foxit. Connecter of dots. Likes to play around with security and Python.</li>
 </ul>
 </td></tr>
@@ -376,13 +376,6 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1374367470249738240/hTGfGwTZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: this week</li>
-<li>Infrastructure Specialist, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -399,17 +392,17 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/aspwning"><img src="https://pbs.twimg.com/profile_images/1378659547112345605/TddI4xdr_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/aspwning">@aspwning</a> (ミッチ)</b><br />
+<tr><td><a href="https://twitter.com/aspwning"><img src="https://pbs.twimg.com/profile_images/1380294504893214720/LlINmxQY_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/aspwning">@aspwning</a> (pwn)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Jr. Moderator @hackthebox_eu | Studying Cert IV Cyber Security | #eJPT | Junior Penetration Tester | First bug bounty as P1 | #WorldOfWarcraft player</li>
+<li>Jr. Moderator @hackthebox_eu | Studying Cert IV Cyber Security :: Script Kiddie</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kafkaesqu3">@kafkaesqu3</a> (kafkaesque)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>the enemy knows the system</li>
 </ul>
 </td></tr>
@@ -1031,7 +1024,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1869,7 +1862,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure geek and director of product at https://joyent.com</li>
 </ul>
 </td></tr>
