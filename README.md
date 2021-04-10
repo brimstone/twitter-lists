@@ -165,7 +165,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/cpl3h"><img src="https://pbs.twimg.com/profile_images/1240826119995047937/CDgYAiv2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cpl3h">@cpl3h</a> (cpl)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Intelligence - 1
 Wisdom - 1
 Charisma - 1
@@ -215,7 +215,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/oooverflow"><img src="https://pbs.twimg.com/profile_images/1262503045566324736/tdTlejdv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/oooverflow">@oooverflow</a> (Overflow)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>The new(b) organizers of DEF CON CTF!</li>
 </ul>
 </td></tr>
@@ -689,7 +689,7 @@ Conference - Oct 2, 2021</li>
 <b><a href="https://twitter.com/byt3bl33d3r">@byt3bl33d3r</a> (Marcello)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>I penetrate things (phrasing). When I'm tired of penetrating, I code. It's a vicious cycle. Doing cyber @spacex. Founder of @porchetta_ind.</li>
+<li>I penetrate things (phrasing). When I'm tired of penetrating, I code. It's a vicious cycle. Cyber Posture Chiropractor @spacex. Founder of @porchetta_ind.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/VulnHub"><img src="https://pbs.twimg.com/profile_images/503644334588039168/iH_pnqKE_200x200.png"></a></td><td>
@@ -972,7 +972,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bee_sec_san"><img src="https://pbs.twimg.com/profile_images/1343564774991421442/Hq70Z_DZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/bee_sec_san">@bee_sec_san</a> (🐝 Bee 🇨🇦🇬🇧)</b><br />
+<b><a href="https://twitter.com/bee_sec_san">@bee_sec_san</a> (🐝 Bee 🇨🇦🇬🇧 (Taylor's Version))</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>🌷 Dev @monzo Community @realtryhackme💫
@@ -1166,7 +1166,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1335343271351099395/BkbgGWQX_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Sam Croley, http://keybase.io/chick3nman
 Austin based password cracker, researcher;
 Team @hashcat Member/Contributor;
@@ -1344,7 +1344,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/evacide">@evacide</a> (Eva)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Director of Cybersecurity @EFF/ Tech advisor at @freedomofpress @callisto and more/ My tweets are my own, not my employers’</li>
+<li>Director of Cybersecurity @EFF / My tweets are my own, not my employers’</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
@@ -1399,7 +1399,7 @@ http://hackthebox.eu/profile/1496</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Snubs"><img src="https://pbs.twimg.com/profile_images/1347644418862538756/VVYkBkia_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/Snubs">@Snubs</a> (Shannon Morse wears a mask responsibly)</b><br />
+<b><a href="https://twitter.com/Snubs">@Snubs</a> (Shannon Morse)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Content Creator ➳ Morse Code ➳ #ThreatWire ➳ @SailorSnubs | Photographer, infosec educator, tech reviewer, feminist, pet mom #セーラームーン🌙 is life. She/Her.</li>
@@ -1571,10 +1571,10 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1369533695745400832/lU3v_PAs_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (Betty Junod)</b><br />
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (well actually.....)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>opinions, feelings, bread.</li>
+<li>opinions, feelings, bread</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/coreos"><img src="https://pbs.twimg.com/profile_images/378800000217543291/92f941aa760503ef8552a9fbc77ef9b6_200x200.png"></a></td><td>
@@ -1826,7 +1826,7 @@ Our profession is built on relationships.</li>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>http://replicate.ai / previously: @docker, @guardian, @govuk</li>
 </ul>
 </td></tr>
