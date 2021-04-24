@@ -383,13 +383,6 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1374367470249738240/hTGfGwTZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: this week</li>
-<li>Infrastructure Specialist, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -406,7 +399,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/aspwning"><img src="https://pbs.twimg.com/profile_images/1383340586321670147/T6BCF3Do_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/aspwning"><img src="https://pbs.twimg.com/profile_images/1385739205653893121/tXszL5za_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/aspwning">@aspwning</a> (Mitch)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -752,7 +745,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/DonnieMarcoFoto"><img src="https://pbs.twimg.com/profile_images/1367212576946421760/PXSTvQP3_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DonnieMarcoFoto">@DonnieMarcoFoto</a> (🏴󠁧󠁢󠁷󠁬󠁳󠁿 Marc Hill)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Cymro #republicofwales #annibyniaeth #indywales</li>
 </ul>
 </td></tr>
@@ -880,7 +873,7 @@ Users/Ritter/desktop/notblack0ps/Reciprocity/</li>
 <b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Instructor @INE | Podcaster @ITSPmagazine | @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @tribeofhackers | @pentesterblue coauthor</li>
+<li>Instructor @INE | @ITSPmagazine Podcaster | @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @tribeofhackers | @pentesterblue coauthor</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BSidesBHAM"><img src="https://pbs.twimg.com/profile_images/1049737000927068160/PRg9kj7V_200x200.jpg"></a></td><td>
@@ -897,7 +890,7 @@ Users/Ritter/desktop/notblack0ps/Reciprocity/</li>
 <li>NaaS ⚔️(No as a Service), InfraSec @Truss_Works, alumna of @18F & #nasa, overcommitted underachiever, PhD in Horribleness. she/🦇/🏳️‍🌈</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1294923902942994432/O37fwYZA_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1385500216195829760/IGDWfWaz_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/itsC0rg1">@itsC0rg1</a> (Niru Ragupathy / itsc0rg1 🐶)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1863,7 +1856,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
