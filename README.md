@@ -25,7 +25,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/porchetta_ind"><img src="https://pbs.twimg.com/profile_images/1287980977193508866/Dw4wBJGj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/porchetta_ind">@porchetta_ind</a> (Porchetta Industries)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>A community that provides support to Open Source Infosec/hacking tool developers and helps them succeed with their own Github Sponsorships.</li>
 </ul>
 </td></tr>
@@ -138,7 +138,9 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <b><a href="https://twitter.com/thecybermentor">@thecybermentor</a> (Heath Adams)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Husband | Vet | Founder @TCMSecurity | YouTuber http://bit.ly/2NVHesu | Streamer http://twitch.tv/thecybermentor | Teacher (170k students!) https://bit.ly/33xEVFg</li>
+<li>Husband | Vet | Founder @TCMSecurity | YouTuber | Professor | Disrupting the education industry via TCM Academy and #CPEH
+
+https://linktr.ee/thecybermentor</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ShitSecure"><img src="https://pbs.twimg.com/profile_images/1081167263200411648/yhdqoDeA_200x200.jpg"></a></td><td>
@@ -388,13 +390,6 @@ See you at DC29!</li>
 <ul>
 <li>Last Tweet: February</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
-</ul>
-</td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1374367470249738240/hTGfGwTZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (Michael Q (McL0v1n))</b><br />
-<ul>
-<li>Last Tweet: this week</li>
-<li>Senior IT Consultant (@blacksailsit), InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
@@ -1164,7 +1159,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/ElonkaDunin"><img src="https://pbs.twimg.com/profile_images/197713791/2003Crypto_1__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ElonkaDunin">@ElonkaDunin</a> (Elonka Dunin)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Agile Evangelist, Game Developer, Cryptographer, Geocacher, Author, Wikipedian, Public Speaker, Nola Kaye. New book Dec 2020: http://codebreaking-guide.com</li>
 </ul>
 </td></tr>
@@ -1231,7 +1226,7 @@ Hire me to crack passwords for you & your team!</li>
 <b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>3133 y/o || RedTeamer and Infosec Researcher || Research at http://blog.xpnsec.com || Adversary Emulation at @TrustedSec ||</li>
+<li>3133 y/o || Red Teamer and InfoSec Researcher || Research at https://blog.xpnsec.com || Adversary Emulation at @TrustedSec ||</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1352985242601218049/q2STtiWO_200x200.jpg"></a></td><td>
@@ -1341,7 +1336,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1028541105292230656/rpbWWlQL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (Samy Kamkar)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | @openpathsec</li>
 </ul>
 </td></tr>
@@ -1377,7 +1372,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/evacide">@evacide</a> (Eva)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Director of Cybersecurity @EFF / My tweets are my own, not my employers’ / I did a TED talk once: https://www.ted.com/talks/eva_galperin_what_you_need_to_know_a</li>
+<li>Director of Cybersecurity @EFF / My tweets are my own, not my employers’ / I did a TED talk once</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
@@ -1869,7 +1864,7 @@ Our profession is built on relationships.</li>
 <tr><td><a href="https://twitter.com/mjbright"><img src="https://pbs.twimg.com/profile_images/459440997563244544/1bnT0HaD_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/mjbright">@mjbright</a> (mjbright)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Trainer, Consultant, Developer at @mjbright Consulting. Passionate about Containers, Orchestration, Serverless, Micro-services and 
 Unikernels.</li>
 </ul>
