@@ -11,7 +11,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/tmpout"><img src="https://pbs.twimg.com/profile_images/1361836075044462595/bUqtK3DT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/tmpout">@tmpout</a> (tmp.0ut)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>ELF Research Group</li>
 </ul>
 </td></tr>
@@ -99,7 +99,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/pdiscoveryio"><img src="https://pbs.twimg.com/profile_images/1194977737305280517/ydlJDIV1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pdiscoveryio">@pdiscoveryio</a> (ProjectDiscovery.io)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Through Intelligent Automation</li>
 </ul>
 </td></tr>
@@ -326,7 +326,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1021527761817673729/OzeFmMXy_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Science, Technology and Stuffed Animals! Follow me on my STEAM adventures!🦄
 Founder, CEO
 http://www.GirlsWhoHack.com</li>
@@ -433,13 +433,13 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (Mitch)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Moderator @hackthebox_eu | Studying Cert IV Cyber Security :: スクリプトキディ| eJPT certified | Working towards OSCP & PenTest+</li>
+<li>Moderator @hackthebox_eu</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kafkaesqu3">@kafkaesqu3</a> (kafkaesque)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>the enemy knows the system</li>
 </ul>
 </td></tr>
@@ -540,7 +540,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/Snowden"><img src="https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Snowden">@Snowden</a> (Edward Snowden)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I used to work for the government. Now I work for the public. President at @FreedomofPress.</li>
 </ul>
 </td></tr>
@@ -1042,7 +1042,7 @@ http://discord.skerritt.blog</li>
 <tr><td><a href="https://twitter.com/kees_cook"><img src="https://pbs.twimg.com/profile_images/1258428092072132609/Me6V6RQe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kees_cook">@kees_cook</a> (Kees Cook)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Free Software Hacker
 he/him</li>
 </ul>
@@ -1900,7 +1900,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/solomonstre"><img src="https://pbs.twimg.com/profile_images/1374956369804070917/duDPJIRd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder of Docker, now working on something new. He/him. I follow lots of people because I have a lot to learn.</li>
 </ul>
 </td></tr>
