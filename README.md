@@ -130,7 +130,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1371211167583113216/Qg8DXU97_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team Village |  Join us on http://discord.gg/redteamvillage & Youtube & Twitch  #RedTeamVillage  http://RedTeamVillage.io</li>
 </ul>
 </td></tr>
@@ -389,6 +389,13 @@ Infosec nerd and DC706 co-founder.</li>
 <li>Have your passwords been compromised? Find out by searching through over 12 billion records and 10,000 data breaches.</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/_batsec_"><img src="https://pbs.twimg.com/profile_images/1213607935609384962/6aCgz35U_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/_batsec_">@_batsec_</a> (batsec)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>18 | RedTeam @MDSecLabs | @the_secret_club</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/teamides"><img src="https://pbs.twimg.com/profile_images/1120802528654872576/wKgP16v-_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/teamides">@teamides</a> (Team Ides: Indie DEF CON Badges)</b><br />
 <ul>
@@ -413,13 +420,6 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1374367470249738240/hTGfGwTZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n (Michael Q))</b><br />
-<ul>
-<li>Last Tweet: this week</li>
-<li>Senior IT Consultant (@blacksailsit), InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -440,7 +440,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (Mitch (미치))</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Moderator @hackthebox_eu | 모두에게 안녕 | Hacker</li>
+<li>Moderator @hackthebox_eu | 모두에게 안녕</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -576,7 +576,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <b><a href="https://twitter.com/maddiestone">@maddiestone</a> (Maddie Stone)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Security Researcher @Google Project Zero | Reverse engineering is my favorite. Love all things bytes, assembly, and glitter. My opinions are my own. she/her.</li>
+<li>Security Researcher @Google | Reverse engineering is my favorite. Love all things bytes, assembly, and glitter. My opinions are my own. she/her.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1371400450818342912/jvGBzFWz_200x200.jpg"></a></td><td>
@@ -639,7 +639,7 @@ Fanboy of trusted&mdsec</li>
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -938,7 +938,7 @@ Users/Ritter/desktop/notblack0ps/Reciprocity/</li>
 <b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Instructor @INE | @ITSPmagazine Podcaster | @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @tribeofhackers | @pentesterblue coauthor</li>
+<li>@ITSPmagazine Podcaster | @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @tribeofhackers Red Team | @pentesterblue coauthor</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BSidesBHAM"><img src="https://pbs.twimg.com/profile_images/1049737000927068160/PRg9kj7V_200x200.jpg"></a></td><td>
@@ -1421,7 +1421,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>🇲🇽 • Keyboards • Coffee • Drumming • Archery • Woodworking • Army Vet - 15X •  Hacker Crap • Self-Hating Red Teamer
+<li>🇲🇽 • Keyboards • Coffee • Drums • Archery • Woodwork • Army Vet - 15X • Walmart RedTeam • Legitimate Businesses Practice 
 
 http://hackthebox.eu/profile/1496</li>
 </ul>
@@ -1472,7 +1472,7 @@ http://hackthebox.eu/profile/1496</li>
 <b><a href="https://twitter.com/Snubs">@Snubs</a> (Shannon Morse says GO GET VACCINATED)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Content Creator ➳ Morse Code ➳ #ThreatWire ➳ @SailorSnubs | Photographer, infosec educator, tech reviewer, feminist, pet mom #セーラームーン🌙 is life. She/Her.</li>
+<li>Content Creator ➳ Morse Code ➳ #ThreatWire ➳ @SailorSnubs |  Photographer, infosec educator, tech reviewer, feminist, pet mom #セーラームーン🌙 is life. She/Her.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ioerror"><img src="https://pbs.twimg.com/profile_images/510535958807068672/Xk-mjIxF_200x200.jpeg"></a></td><td>
@@ -1521,7 +1521,7 @@ http://hackthebox.eu/profile/1496</li>
 <b><a href="https://twitter.com/todb">@todb</a> (Toⓓ Beardslⓔy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Election security nerd. Metasploit Collaborator. Shmethical Hacker. Friend of DeSoto. $DOGE guy. Podcasts: http://securitynationpodcast.com & http://podsothoth.club (He/Him)</li>
+<li>Cyber nerd. Metasploit Collaborator. Shmethical Hacker. Friend of DeSoto. $DOGE guy. Podcasts: http://securitynationpodcast.com & http://podsothoth.club (He/Him)</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Hak5"><img src="https://pbs.twimg.com/profile_images/916034713206243328/g2crEqKm_200x200.jpg"></a></td><td>
