@@ -25,7 +25,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/ptswarm"><img src="https://pbs.twimg.com/profile_images/1280533914352857092/jdiJ_BkE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/ptswarm">@ptswarm</a> (PT SWARM)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Positive Technologies Offensive Team</li>
 </ul>
 </td></tr>
@@ -161,7 +161,7 @@ http://linktr.ee/thecybermentor</li>
 <b><a href="https://twitter.com/gabsmashh">@gabsmashh</a> (gabsmashh | Advanced Persistent Brunette)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>☁️ security engineer | genetic scientist | avenger | NYU grad student | #MalwareTechPodcast host | @hacknotcrime advocate | @MARFORCYBER auxiliarist</li>
+<li>☁️ security engineer | genetic scientist | NYU grad student | #MalwareTechPodcast host | @hacknotcrime advocate | @MARFORCYBER auxiliarist | avenger</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/OverTheWireCTF"><img src="https://pbs.twimg.com/profile_images/1188000911962136576/R2j-5pwi_200x200.png"></a></td><td>
@@ -199,7 +199,7 @@ Luck - 10</li>
 <tr><td><a href="https://twitter.com/darkstar7471"><img src="https://pbs.twimg.com/profile_images/1165408845759438848/Q7mIhY-n_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Dark)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>@realTryHackMe Content Director and Community Manager | Penetration Tester | ILG
 jon@tryhackme.com, http://darkstar7471.com
 
@@ -436,8 +436,8 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninrocks"><img src="https://pbs.twimg.com/profile_images/1397698046134079488/rMAw-zCK_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (Mitch)</b><br />
+<tr><td><a href="https://twitter.com/pwninrocks"><img src="https://pbs.twimg.com/profile_images/1397811358087868427/AXEoOPAD_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (神pwn)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Moderator @hackthebox_eu | 虎穴に入らずんば虎子を得ず。| http://github.com/pwnmew</li>
@@ -610,7 +610,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/0xAshFox"><img src="https://pbs.twimg.com/profile_images/1248531140245204993/SfhW2Rn4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xAshFox">@0xAshFox</a> (AshF0x)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Just a guy trying to get into CyberSecurity. 
 Teaching myself with books and the internet 💻 #nahomie. I stream pretty often too.</li>
 </ul>
@@ -622,7 +622,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1294321609759772672/_47MvDIz_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1397837541223518209/nqIMh-cJ_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -702,7 +702,7 @@ managed by http://NAC-ISSA.org volunteers
 <b><a href="https://twitter.com/cobalt_io">@cobalt_io</a> (Cobalt)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>http://Cobalt.io provides a Pentest as a Service (PtaaS) platform that modernizes the traditional penetration testing model. #appsec #security</li>
+<li>Cobalt provides a Pentest as a Service (PtaaS) platform that modernizes the traditional penetration testing model. #appsec #security</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/MalwareTechBlog"><img src="https://pbs.twimg.com/profile_images/1324063182483152896/Pdz08DC7_200x200.jpg"></a></td><td>
@@ -723,7 +723,7 @@ Discord and Social Media: http://linktr.ee/MalwareTech</li>
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -838,7 +838,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/MrUn1k0d3r"><img src="https://pbs.twimg.com/profile_images/1191478690678525954/vwWQC76f_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MrUn1k0d3r">@MrUn1k0d3r</a> (Mr.Un1k0d3r)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I don't know how to search on Google so I do research on my own and tweet about it. Hacking as a life style</li>
 </ul>
 </td></tr>
@@ -1085,7 +1085,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/syndrowm"><img src="https://pbs.twimg.com/profile_images/1255921692875972608/XO7ggGPa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/syndrowm">@syndrowm</a> (syndrowm)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team, CTF, CCDC, Brown Belt, #RedTeamFit --
 
 Founding Team @RandoriAttack</li>
@@ -1150,7 +1150,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1305830923095674880/fBlLmtjf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer丨Cobalt Strike Tech Director丨Author of Red Team Development and Operations http://redteam.guide 丨Don't let perfect be the enemy of good</li>
 </ul>
 </td></tr>
@@ -1341,7 +1341,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/lordsaibat"><img src="https://pbs.twimg.com/profile_images/1270295688912547841/80ibgOKU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lordsaibat">@lordsaibat</a> (lordsaibat)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Deputy Ciso, I broke stuff before (pentester), I automate builds (terraform), and I try to help move the industry. Friend to all. SANS MSISE Grad. @Novahackers</li>
 </ul>
 </td></tr>
@@ -1623,7 +1623,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1278596345385926657/YymujN-C_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer)</b><br />
+<b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer @ 🐳 #DockerCon 2021)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Engineer @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his)</li>
@@ -1783,7 +1783,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Expert misplacer of things.
 VP Engineering @ Aula Education</li>
 </ul>
