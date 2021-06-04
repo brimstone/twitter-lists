@@ -78,7 +78,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/agetool"><img src="https://pbs.twimg.com/profile_images/1209404883826302981/w_8vhjOa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/agetool">@agetool</a> (age — simple, modern file encryption)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.</li>
 </ul>
 </td></tr>
@@ -113,7 +113,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/theluemmel"><img src="https://pbs.twimg.com/profile_images/1335706480729878528/Neq9V0iL_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/theluemmel">@theluemmel</a> (LuemmelSec)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Husband, Father, IT-Guy, Security-Noob, OSCP, CRTO
 Likes sports, cars and his downhill bike
 HTB: http://bit.ly/3lNUqQj
@@ -174,7 +174,7 @@ http://linktr.ee/thecybermentor</li>
 <tr><td><a href="https://twitter.com/RealTryHackMe"><img src="https://pbs.twimg.com/profile_images/1068232511602466816/zC_Xsvui_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RealTryHackMe">@RealTryHackMe</a> (TryHackMe)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>An online platform that makes it easy to break into and upskill in cyber security, all through your browser. Discord: http://discord.gg/tryhackme</li>
 </ul>
 </td></tr>
@@ -252,7 +252,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/_dirkjan"><img src="https://pbs.twimg.com/profile_images/941026484130545664/J8QlOYL8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_dirkjan">@_dirkjan</a> (Dirk-jan)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Hacker at @foxit. Connecter of dots. Likes to play around with security and Python.</li>
 </ul>
 </td></tr>
@@ -442,7 +442,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninrocks"><img src="https://pbs.twimg.com/profile_images/1399976676415533059/lS5eyYl5_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwninrocks"><img src="https://pbs.twimg.com/profile_images/1400280742177824770/935RV8P2_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (pwn)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -482,7 +482,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>CPO @CorelliumHQ | Security Researcher | Founder @azeria_labs | ♡ Arm Assembly, Mobile & IoT Security |  Flipping Bits as a Service</li>
+<li>CPO @CorelliumHQ | Security Researcher | Founder @azeria_labs | ♡ Arm Assembly, Mobile & IoT Security | Flipping Bits as a Service</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
@@ -495,7 +495,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Tyl0us"><img src="https://pbs.twimg.com/profile_images/1276924130974208007/P6nrGRgw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Tyl0us">@Tyl0us</a> (Matt Eidelberg)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer. Computer/Comic Book Nerd. I spend my free time breaking EDRs and playing with malware.</li>
 </ul>
 </td></tr>
@@ -616,7 +616,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/0xAshFox"><img src="https://pbs.twimg.com/profile_images/1248531140245204993/SfhW2Rn4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xAshFox">@0xAshFox</a> (AshF0x)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Just a guy trying to get into CyberSecurity. 
 Teaching myself with books and the internet 💻 #nahomie. I stream pretty often too.</li>
 </ul>
@@ -1213,7 +1213,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/WillCaruana"><img src="https://pbs.twimg.com/profile_images/829552857468825601/V3N5pPgs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/WillCaruana">@WillCaruana</a> (Will C newest ANDnXOR intern)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>I'm a security hobbyist, maker of things, high voltage enthusiast and a hacker of cars. (he/him) You can call me at 617-440-8667</li>
 </ul>
 </td></tr>
@@ -1787,7 +1787,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/crosbymichael"><img src="https://pbs.twimg.com/profile_images/1307085699317932033/C-gr3QYc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/crosbymichael">@crosbymichael</a> (Michael Crosby)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Building things that help others build things #runc @containerd https://github.com/crosbymichael</li>
 </ul>
 </td></tr>
@@ -1888,7 +1888,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO @Anchorage  #bitcoin</li>
 </ul>
 </td></tr>
