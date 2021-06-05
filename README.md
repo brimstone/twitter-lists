@@ -18,7 +18,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/PvJBlueTeam"><img src="https://pbs.twimg.com/profile_images/1394073474180816900/7S7qvr4q_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/PvJBlueTeam">@PvJBlueTeam</a> (PvJBlueTeam)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>All the blue things for the PvJ Crew #PvJ #CTF</li>
 </ul>
 </td></tr>
@@ -199,7 +199,7 @@ Luck - 10</li>
 <tr><td><a href="https://twitter.com/darkstar7471"><img src="https://pbs.twimg.com/profile_images/1165408845759438848/Q7mIhY-n_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Dark)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>@realTryHackMe Content Director and Community Manager | Penetration Tester | ILG
 jon@tryhackme.com, http://darkstar7471.com
 
@@ -267,7 +267,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <b><a href="https://twitter.com/securitytrails">@securitytrails</a> (SecurityTrails)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Uncover your organization’s attack surface with an ASRv2 Free Account: https://securitytrails.com/corp/uncover-your-attack-surface</li>
+<li>Uncover your organization’s attack surface with an ASR Free account: http://securitytrails.com/corp/uncover-y…</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/1njection"><img src="https://pbs.twimg.com/profile_images/1103079999115063296/24gqk4HE_200x200.jpg"></a></td><td>
@@ -419,13 +419,6 @@ See you at DC29!</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1395620457219452929/oUlrZId1_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: this week</li>
-<li>Senior IT Consultant, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -442,11 +435,12 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninrocks"><img src="https://pbs.twimg.com/profile_images/1400280742177824770/935RV8P2_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (pwn)</b><br />
+<tr><td><a href="https://twitter.com/pwninrocks"><img src="https://pbs.twimg.com/profile_images/1400699863092711426/IORxJRLW_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/pwninrocks">@pwninrocks</a> (Michio)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Moderator @hackthebox_eu | http://github.com/pwnmew | レトロ•ハッカー</li>
+<li>중재자 @hackthebox_eu | http://github.com/pwnmew | 
+해커</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -560,7 +554,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/atl2600"><img src="https://pbs.twimg.com/profile_images/716953598303870976/eWyPXP_k_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/atl2600">@atl2600</a> (Atlanta 2600)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -707,7 +701,7 @@ managed by http://NAC-ISSA.org volunteers
 <li>BSides Nashville returns in 2021 - Organized by @jsamardak, @FinnBreland, @GodFix, & many more. info@bsidesnash.org</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/cobalt_io"><img src="https://pbs.twimg.com/profile_images/1273967174613434368/ygRixJHF_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/cobalt_io"><img src="https://pbs.twimg.com/profile_images/1400838221387366401/9A_pcZhX_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/cobalt_io">@cobalt_io</a> (Cobalt)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -804,7 +798,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/dichotomy1"><img src="https://pbs.twimg.com/profile_images/2450512797/smk5o66ne93ogxssi40i_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/dichotomy1">@dichotomy1</a> (dichotomy)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, husband, father, sometimes author.  I build things, I break things, and I'm -still- trying to figure everything out.</li>
 </ul>
 </td></tr>
@@ -898,7 +892,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/Oddvarmoe"><img src="https://pbs.twimg.com/profile_images/1086040634945761282/52YxArTk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Oddvarmoe">@Oddvarmoe</a> (Oddvar Moe)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Blogger | MVP | Speaker | Red teamer | Security researcher | Windows Security specialist | Total n00b and always learning
 
 Loves to share knowledge & inspire.</li>
@@ -947,7 +941,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/BrianRPhillips"><img src="https://pbs.twimg.com/profile_images/885325612465967105/3CWsJfq1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BrianRPhillips">@BrianRPhillips</a> (Brian Phillips)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
@@ -1120,7 +1114,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1322,7 +1316,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
@@ -1405,7 +1399,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1028541105292230656/rpbWWlQL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (Samy Kamkar)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | @openpathsec</li>
 </ul>
 </td></tr>
@@ -1731,7 +1725,7 @@ Thoughts are my own.</li>
 <li>Principal @ Wildlife 🎮  | X-Ops Head @ ▲  | X-Infra lead @ MELI | Docker Captain 🐋 | HashiCorp Ambassador | OSS ❤️. 🍔🍷⚽️⛵️🏋️🏂 and some 🕹️  🇦🇷</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1251584213133914118/r67vM_NV_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1400640407818563585/cP8dWOW9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DerkTheDaring">@DerkTheDaring</a> (Derek Parker)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1767,7 +1761,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BrandonPhilips"><img src="https://pbs.twimg.com/profile_images/1245762603848093703/dDDO-ib7_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips 💉💉⏳)</b><br />
+<b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips 💉💉🎉)</b><br />
 <ul>
 <li>Last Tweet: May</li>
 <li>Former CTO @CoreOS (acq. Red Hat 2018).
@@ -1896,7 +1890,7 @@ French, Wine lover. Soccer Fan.</li>
 <b><a href="https://twitter.com/arnaudporterie">@arnaudporterie</a> (Arnaud Porterie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Building something new 🚀 / ex Dep. CTO @Veepee_fr 🦋 / ex Engine lead @Docker 🐳 / Paris, SF, now Amsterdam 🇳🇱 / Photo enthusiast 📸 / It's pronounced Arno</li>
+<li>Founder @Echoes_HQ 🚀 / ex Dep. CTO @Veepee_fr 🦋 / ex Engine lead @Docker 🐳 / Paris, SF, now Amsterdam 🇳🇱 / Photo enthusiast 📸 / It's pronounced Arno</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/diogomonica"><img src="https://pbs.twimg.com/profile_images/1025855458978881536/Fen-YR9F_200x200.jpg"></a></td><td>
