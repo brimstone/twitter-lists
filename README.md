@@ -346,7 +346,7 @@ http://www.GirlsWhoHack.com</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/stokfredrik"><img src="https://pbs.twimg.com/profile_images/1119362834754883584/Y1BpRC_V_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/stokfredrik">@stokfredrik</a> (STÖK ✌️ 🏳️‍🌈)</b><br />
+<b><a href="https://twitter.com/stokfredrik">@stokfredrik</a> (STÖK ✌️)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Hi.. im that hacker that your friends told you about. I create Cybersecurity Awareness / Educational Content and hacks all the things at @truesec</li>
@@ -1029,7 +1029,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/g0tmi1k"><img src="https://pbs.twimg.com/profile_images/1221846479/logo__small_2__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/g0tmi1k">@g0tmi1k</a> (g0t mi1k)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>=)</li>
 </ul>
 </td></tr>
@@ -1266,7 +1266,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotheplanet)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>hacking the planet at https://www.ired.team buy me a vinyl at http://patreon.com/iredteam</li>
 </ul>
 </td></tr>
