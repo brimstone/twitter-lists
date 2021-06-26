@@ -291,7 +291,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <b><a href="https://twitter.com/bohops">@bohops</a> (bohops)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>One of these days, I'll learn how to use a computer.  Thoughts and tweets are my own (hopefully).</li>
+<li>Infosec stuff.  Thoughts and tweets are my own (hopefully).</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
@@ -435,7 +435,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1407673083083726848/g1-hY1Dz_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1408438915246157830/bl_DhnWV_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -595,7 +595,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1371400450818342912/jvGBzFWz_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rootkovska">@rootkovska</a> (Joanna Rutkowska)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Long-term navigation @ http://golem.foundation & architect of @wildlandio. Previously @QubesOS & ITL founder. Distrusts computers. Freedom over safetyism.</li>
 </ul>
 </td></tr>
@@ -652,7 +652,7 @@ Fanboy of trusted&mdsec</li>
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -1124,7 +1124,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1259,7 +1259,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/_t1v0_"><img src="https://pbs.twimg.com/profile_images/1038091099758190592/p0oC0gTY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_t1v0_">@_t1v0_</a> (t1v0)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pen tester, security geek.  PvJ red team captain, Defcon black badge winner (IoT CTF).  Founder of Loudmouth Security and co-founder of Village Idiot Labs.</li>
 </ul>
 </td></tr>
@@ -1326,7 +1326,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
@@ -1647,7 +1647,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/kubernetesio"><img src="https://pbs.twimg.com/profile_images/511909265720614913/21_d3cvM_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kubernetesio">@kubernetesio</a> (Kubernetes)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#Kubernetes: open source production-grade container orchestration management. #CNCF #K8s</li>
 </ul>
 </td></tr>
