@@ -312,7 +312,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/PvJRedCell"><img src="https://pbs.twimg.com/profile_images/889494625320390657/mMWTHJ9c_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/PvJRedCell">@PvJRedCell</a> (PvJRedCell)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -408,7 +408,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/ippsec"><img src="https://pbs.twimg.com/profile_images/859140652617142272/z79HkNvx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ippsec">@ippsec</a> (ippsec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -417,6 +417,13 @@ See you at DC29!</li>
 <ul>
 <li>Last Tweet: February</li>
 <li>General geek (IT, #infosec, #pentest), #Author of Red Team Development and Operations https://redteam.guide/ James Tubberville</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Senior IT Consultant, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
@@ -435,7 +442,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1408438915246157830/bl_DhnWV_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1408666585183571971/XLGhsNOE_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -466,7 +473,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Op_nomad"><img src="https://pbs.twimg.com/profile_images/956785310016434176/EnEq4Czb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Op_nomad">@Op_nomad</a> (D.Snezhkov)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>“Countless words count less than the silent balance between yin and yang”  ― Lao Tzu, Tao Te Ching
 ☯ (That's before Lao discovered Twitter)</li>
 </ul>
@@ -769,7 +776,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/dafthack"><img src="https://pbs.twimg.com/profile_images/1022563584503672833/bCze_73-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/dafthack">@dafthack</a> (Beau Bullock)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pentester, trainer, and guitarist | Black Hills InfoSec #RedTeam | @BreakForge Training | Tool developer | Cyberpunk synthwave metal producer at @N0BANDW1DTH</li>
 </ul>
 </td></tr>
@@ -1054,7 +1061,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/jessploit"><img src="https://pbs.twimg.com/profile_images/1063620918415548427/6yXsU7Np_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessploit">@jessploit</a> (Jessica)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team, black dress, she/her</li>
 </ul>
 </td></tr>
@@ -1500,7 +1507,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1952,7 +1959,7 @@ Unikernels.</li>
 <b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Co-founder of Docker, now working on something new. He/him. I follow lots of people because I have a lot to learn.</li>
+<li>Co-founder of Docker, now working on something new: https://dagger.io. I follow lots of people because I have a lot to learn.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
