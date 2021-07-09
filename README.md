@@ -489,7 +489,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>CPO @CorelliumHQ | Security Researcher | Founder @azeria_labs | ♡ Arm Assembly, Mobile & IoT Security | Flipping Bits as a Service</li>
+<li>Insecurity Researcher | Founder @azeria_labs | CPO @CorelliumHQ | ♡ Arm Assembly, Mobile & IoT Security | Flipping Bits as a Service</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
@@ -847,7 +847,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/_RastaMouse"><img src="https://pbs.twimg.com/profile_images/475016758827298816/fbE3Td6S_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/_RastaMouse">@_RastaMouse</a> (Rasta Mouse)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -891,7 +891,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/BSidesLV"><img src="https://pbs.twimg.com/profile_images/1367207158312558597/TDCiOTdY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BSidesLV">@BSidesLV</a> (BSides Las Vegas)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>A virtual BSides Las Vegas will take place on July 31 – August 1, 2021</li>
 </ul>
 </td></tr>
@@ -938,7 +938,7 @@ https://www.buymeacoffee.com/nasbench</li>
 <tr><td><a href="https://twitter.com/sec_kc"><img src="https://pbs.twimg.com/profile_images/1292584428259213312/L0ZI9C5s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sec_kc">@sec_kc</a> (SecKC)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Kansas City’s monthly infosec conference. Patch Tuesday. #SecKCTheWorldAgain</li>
 </ul>
 </td></tr>
@@ -984,7 +984,7 @@ Healthcare CTI. 'Experienced' -Hendrix</li>
 <tr><td><a href="https://twitter.com/BSidesBHAM"><img src="https://pbs.twimg.com/profile_images/1049737000927068160/PRg9kj7V_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BSidesBHAM">@BSidesBHAM</a> (BSidesBirmingham (Alabama))</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Birmingham's grassroots Information Security conference</li>
 </ul>
 </td></tr>
@@ -1292,7 +1292,7 @@ Hire me to crack passwords for you & your team!</li>
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Linux Evangelist, Malwares , Kernel Dev , Security Enthusiast , Adventure freak . Jain, meditation , philanthropist & reformist.
 binitamshah at protonmail com</li>
 </ul>
@@ -1318,7 +1318,7 @@ binitamshah at protonmail com</li>
 <li>SIGINT Marine at the turn of the century. I break software for fun and occasional profit. Sponsor me on GitHub: https://github.com/sponsors/secretsquirrel</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1412881722392391686/-lNBYssK_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1413166747973296131/nS7OZH9o_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hackerfantastic">@hackerfantastic</a> (Hacker Fantastic)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1359,7 +1359,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/_decius_"><img src="https://pbs.twimg.com/profile_images/578577491935145985/Mvg9hVk6_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/_decius_">@_decius_</a> (Tom Cross)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Complete liberty of contradicting and disproving our opinion, is the very condition which justifies us in assuming its truth for purposes of action. - Mill</li>
 </ul>
 </td></tr>
@@ -1548,7 +1548,7 @@ he/him or they/them</li>
 <li>Research in #Infosec and #OSINT - Password Necromancer - Already following you with a bot</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/jack_daniel"><img src="https://pbs.twimg.com/profile_images/1404795753239875589/oWQvhHx-_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/jack_daniel"><img src="https://pbs.twimg.com/profile_images/1413288877109006339/p6g3ciZY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jack_daniel">@jack_daniel</a> (Jack Daniel)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
