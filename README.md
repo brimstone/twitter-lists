@@ -137,7 +137,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/CounterHackSec"><img src="https://pbs.twimg.com/profile_images/1349767068636180481/DqYS-KFt_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CounterHackSec">@CounterHackSec</a> (Counter Hack)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>The official Twitter handle for Counter Hack’s pen test and cybersecurity consulting team. | Producers of #holidayhack and @kringlecon</li>
 </ul>
 </td></tr>
@@ -274,7 +274,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <b><a href="https://twitter.com/securitytrails">@securitytrails</a> (SecurityTrails)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Uncover your organization’s attack surface with an ASR Free account: http://securitytrails.com/corp/uncover-y…</li>
+<li>Uncover your organization’s attack surface with an ASR Free account: https://securitytrails.com/corp/uncover-your-attack-surface</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/1njection"><img src="https://pbs.twimg.com/profile_images/1103079999115063296/24gqk4HE_200x200.jpg"></a></td><td>
@@ -304,7 +304,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/B00M_s1ang">@B00M_s1ang</a> (B00M#s1ang🐍)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>-Beaky Snake Geek-  Pen Tester | Bug Hunter | Certified Cyberpunk Lame-O...  Art by @majorashby  Banner by @mooexe
 https://medium.com/@B00Ms1ang</li>
 </ul>
@@ -643,7 +643,6 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 I do red and purple things. 
 Podcast host;
 SANS SEC 699 instructor;
- 
 http://redteamer.tips
 #redteamfit
 Fanboy of trusted&mdsec</li>
@@ -954,7 +953,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1408153564665597953/-8-NbhRv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 Offensive Security Researcher, CTFer, OSCE, OSCP, OSWP👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -981,6 +980,13 @@ Healthcare CTI. 'Experienced' -Hendrix</li>
 <li>@ITSPmagazine Podcaster | @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @tribeofhackers Red Team | @pentesterblue coauthor</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/phraaaaaaa"><img src="https://pbs.twimg.com/profile_images/1107775495507230720/hqqQX8o7_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/phraaaaaaa">@phraaaaaaa</a> (Francesco Soncina)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>OSCE // OSCP // Ethical Hacker & Red Teamer @ABNAMRO // Full Stack Developer // CTF Player @DonkeysTeam</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/BSidesBHAM"><img src="https://pbs.twimg.com/profile_images/1049737000927068160/PRg9kj7V_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BSidesBHAM">@BSidesBHAM</a> (BSidesBirmingham (Alabama))</b><br />
 <ul>
@@ -1005,7 +1011,7 @@ Healthcare CTI. 'Experienced' -Hendrix</li>
 <tr><td><a href="https://twitter.com/atdiy"><img src="https://pbs.twimg.com/profile_images/672794826648129536/P12kVOJN_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/atdiy">@atdiy</a> (Addie)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hellooo. Offline, I am a cardiovascular surgery nurse & research study coordinator. Online, I am a badge designer, electronicist, ham, & toymaker with @Tymkrs!</li>
 </ul>
 </td></tr>
@@ -1335,11 +1341,11 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/torproject"><img src="https://pbs.twimg.com/profile_images/1399828897869434883/Mccgqp62_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/torproject"><img src="https://pbs.twimg.com/profile_images/1413546418841608194/eKqpZMpV_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/torproject">@torproject</a> (The Tor Project)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1929,7 +1935,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/ManoMarks"><img src="https://pbs.twimg.com/profile_images/1334654464368603138/N1-c_IBh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ManoMarks">@ManoMarks</a> (Mano Marks is offline🏳️‍🌈)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>#blacklivesmatter
 Our profession is built on relationships.
 Currently on vacation, back in July</li>
