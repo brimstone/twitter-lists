@@ -452,7 +452,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1418203007934603269/mWPAA333_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1418705829448937472/3an0wuxv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -495,11 +495,11 @@ See you at DC29!</li>
 <li>design, build, teach threat-informed information security programs and techniques. Also: retweets of interesting classes, tools, research. They/them</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1378256367853654018/ISdooaUo_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1418448956573601793/8MTOtad1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Insecurity Researcher | Founder @azeria_labs | CPO @CorelliumHQ | ♡ Arm Assembly, Mobile & IoT Security | Flipping Bits as a Service</li>
+<li>♡ Arm Assembly, Mobile & IoT Exploitation | Flipping Bits as a Service</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
@@ -748,7 +748,7 @@ Discord and Social Media: http://linktr.ee/MalwareTech</li>
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -877,7 +877,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/Hexacorn"><img src="https://pbs.twimg.com/profile_images/1328318015730016258/wS-pPtw6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Hexacorn">@Hexacorn</a> (Adam)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Brain, Blue Fingers
 
 TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_piggie+my wife's art/writing blog @MariNomadie</li>
@@ -954,7 +954,7 @@ https://www.buymeacoffee.com/nasbench</li>
 <tr><td><a href="https://twitter.com/netmux"><img src="https://pbs.twimg.com/profile_images/804157984997867520/2gYcPHT4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/netmux">@netmux</a> (Netmux)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Dad-Husband-Vet-Passwords
 Operator Handbook: http://amazon.com/dp/B085RR67H5
 Hash Crack: http://amazon.com/dp/1793458618</li>
@@ -963,7 +963,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1408153564665597953/-8-NbhRv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 Offensive Security Researcher, CTFer, OSCE, OSCP, OSWP👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -978,7 +978,7 @@ github: https://github.com/gentilkiwi</li>
 <tr><td><a href="https://twitter.com/BrianRPhillips"><img src="https://pbs.twimg.com/profile_images/885325612465967105/3CWsJfq1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BrianRPhillips">@BrianRPhillips</a> (Brian Phillips)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
@@ -1146,7 +1146,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/syndrowm"><img src="https://pbs.twimg.com/profile_images/1255921692875972608/XO7ggGPa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/syndrowm">@syndrowm</a> (syndrowm)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team, CTF, CCDC, Brown Belt, #RedTeamFit --
 
 Founding Team @RandoriAttack</li>
@@ -1347,7 +1347,7 @@ binitamshah at protonmail com</li>
 <li>SIGINT Marine at the turn of the century. I break software for fun and occasional profit. Sponsor me on GitHub: https://github.com/sponsors/secretsquirrel</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1413166747973296131/nS7OZH9o_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1418612594433265664/0ALpJjWU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hackerfantastic">@hackerfantastic</a> (Hacker Fantastic)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1892,7 +1892,7 @@ French, Wine lover. Soccer Fan.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/thaJeztah"><img src="https://pbs.twimg.com/profile_images/744420110832537600/xTIkPdNv_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/thaJeztah">@thaJeztah</a> (Sebastiaan van Stijn)</b><br />
+<b><a href="https://twitter.com/thaJeztah">@thaJeztah</a> (Sebastiaan van Stijn 💉💉)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Sr. Francisco at @docker he/him</li>
