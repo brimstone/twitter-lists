@@ -366,7 +366,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Re4sonKernel">@Re4sonKernel</a> (Re4son Kernel)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Kindness is cool</li>
 </ul>
 </td></tr>
@@ -401,7 +401,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/_batsec_"><img src="https://pbs.twimg.com/profile_images/1213607935609384962/6aCgz35U_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_batsec_">@_batsec_</a> (batsec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team @mdseclabs | @the_secret_club</li>
 </ul>
 </td></tr>
@@ -459,7 +459,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1419582797144985600/DRWGktlf_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1420522410277625860/SdbV45Id_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -652,7 +652,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1419645091833020420/76pbPrPW_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1420315465792950273/Logv_m9i_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -908,7 +908,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/CurtBraz"><img src="https://pbs.twimg.com/profile_images/1272906195645456390/EatfQzwk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CurtBraz">@CurtBraz</a> (𝐂𝐮𝐫𝐭𝐢𝐬 𝐁𝐫𝐚𝐳𝐳𝐞𝐥𝐥)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Long time, passionate Cybersecurity researcher/blogger/pentester. Try to keep tweets technical/educational but occasionally tweet about http://misformalware.com 😉</li>
 </ul>
 </td></tr>
@@ -1242,7 +1242,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
@@ -1298,7 +1298,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/_t1v0_"><img src="https://pbs.twimg.com/profile_images/1038091099758190592/p0oC0gTY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_t1v0_">@_t1v0_</a> (t1v0)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pen tester, security geek.  PvJ red team captain, Defcon black badge winner (IoT CTF).  Founder of Loudmouth Security and co-founder of Village Idiot Labs.</li>
 </ul>
 </td></tr>
@@ -1344,7 +1344,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1407672153202376709/GYClL7eB_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ausernamedjosh">@ausernamedjosh</a> (Josh Pitts)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>SIGINT Marine at the turn of the century. I break software for fun and occasional profit. Sponsor me on GitHub: https://github.com/sponsors/secretsquirrel</li>
 </ul>
 </td></tr>
@@ -1560,7 +1560,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/zfasel"><img src="https://pbs.twimg.com/profile_images/1290294578126434307/LlaqRSvu_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/zfasel">@zfasel</a> (Zack Fasel)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Head Janitor at @UrbaneSec. #ScotchAndBubbles Mixologist. @DEFCON CFP Board. @ShmooCon Master of Party. @_dc312_’s Ogden. Travels too much, sleeps too little.</li>
 </ul>
 </td></tr>
@@ -1693,7 +1693,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1278596345385926657/YymujN-C_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer 💉)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Manager, Engineering @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his)</li>
 </ul>
 </td></tr>
@@ -1858,7 +1858,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/kelseyhightower"><img src="https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kelseyhightower">@kelseyhightower</a> (Kelsey Hightower)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Minimalist</li>
 </ul>
 </td></tr>
@@ -1951,7 +1951,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/diogomonica"><img src="https://pbs.twimg.com/profile_images/1025855458978881536/Fen-YR9F_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/diogomonica">@diogomonica</a> (Diogo Mónica)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-Founder and President @Anchorage, Security Lead @Docker, previously led Platform Security @Square, PhD in CS (https://diogomonica.com)</li>
 </ul>
 </td></tr>
@@ -2031,7 +2031,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/calavera"><img src="https://pbs.twimg.com/profile_images/1151579040861474816/JUyTmeV4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/calavera">@calavera</a> (David Calavera)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Vegan. O’Reilly author. Follow my dog on IG</li>
 </ul>
 </td></tr>
