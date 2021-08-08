@@ -39,7 +39,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rapiddns">@rapiddns</a> (rapiddns)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Bug Bounty Hunter.  #bugbountytips
 
 The http://rapiddns.io is a free, open and unlimited dns query tool. It makes easy to query subdomains or sites of the same IP.</li>
@@ -92,7 +92,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/SecSkittles"><img src="https://pbs.twimg.com/profile_images/1261069769102422016/qhC3a1Q-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SecSkittles">@SecSkittles</a> (Zach “Slittles” Priddy)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Defcon Black Badge Holder and ever changing rainbow...</li>
 </ul>
 </td></tr>
@@ -113,7 +113,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/theluemmel"><img src="https://pbs.twimg.com/profile_images/1335706480729878528/Neq9V0iL_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/theluemmel">@theluemmel</a> (LuemmelSec)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Husband, Father, IT-Guy, Security-Noob
 Likes sports, cars, downhill
 Blog: http://bit.ly/3r0UFL7
@@ -452,8 +452,8 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1423618623277436934/7ju_OTTp_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1423989140568174598/k5J9x7XL_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwn @ HTB)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Moderator @hackthebox_eu | Penetration Tester | Skid Web Dev | Learning web app | eJPT | 안녕하세요 👋</li>
@@ -667,7 +667,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -739,7 +739,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -818,7 +818,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/dichotomy1"><img src="https://pbs.twimg.com/profile_images/2450512797/smk5o66ne93ogxssi40i_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/dichotomy1">@dichotomy1</a> (dichotomy)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, husband, father, sometimes author.  I build things, I break things, and I'm -still- trying to figure everything out.</li>
 </ul>
 </td></tr>
@@ -832,7 +832,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/0gtweet"><img src="https://pbs.twimg.com/profile_images/1039603297475284992/Q_xU-Abj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0gtweet">@0gtweet</a> (Grzegorz Tworek)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>My own research, unless stated otherwise. Not necessarily "safe when taken as directed".
 GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 </ul>
@@ -929,10 +929,7 @@ Loves to share knowledge & inspire.</li>
 <b><a href="https://twitter.com/nas_bench">@nas_bench</a> (Nasreddine Bencherchali)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Avid learner. Passionate about all things #Malware #DFIR #ThreatHunting and in love with #WindowsInternals
-
-Support me
-https://www.buymeacoffee.com/nasbench</li>
+<li>Avid learner. Passionate about all things #Malware #DFIR #ThreatHunting and in love with #WindowsInternals</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/sec_kc"><img src="https://pbs.twimg.com/profile_images/1292584428259213312/L0ZI9C5s_200x200.jpg"></a></td><td>
@@ -951,7 +948,7 @@ Operator Handbook: http://amazon.com/dp/B085RR67H5
 Hash Crack: http://amazon.com/dp/1793458618</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1408153564665597953/-8-NbhRv_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1423922564494135296/jZNKPNsX_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
 <li>Last Tweet: July</li>
@@ -984,7 +981,7 @@ laundering information for magic since 2013
 unconstructive, cry baby, all sizzle, hypocrite</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1384254218161201155/gVnKIqX3_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1424169836779909120/3TG1YyTQ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1736,7 +1733,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1201320309921480705/z3R9hZHL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Leading blockchain features for @Novi Blockchain Wallet at @Facebook. Previously @Anchorage, @Docker, @Apple. Striving for a world with stronger locks</li>
 </ul>
 </td></tr>
