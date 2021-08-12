@@ -39,7 +39,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rapiddns">@rapiddns</a> (rapiddns)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Bug Bounty Hunter.  #bugbountytips
 
 The http://rapiddns.io is a free, open and unlimited dns query tool. It makes easy to query subdomains or sites of the same IP.</li>
@@ -86,7 +86,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <b><a href="https://twitter.com/chompie1337">@chompie1337</a> (chompie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>content consumer, exploit dev, lead security researcher @graplsec, http://github.com/chompie1337, she/her</li>
+<li>content consumer, exploit dev + offsec, lead security researcher @graplsec, http://github.com/chompie1337, she/her</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lazzslayer"><img src="https://pbs.twimg.com/profile_images/1182493592851492866/6vHYmwbQ_200x200.jpg"></a></td><td>
@@ -408,7 +408,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/_batsec_"><img src="https://pbs.twimg.com/profile_images/1213607935609384962/6aCgz35U_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_batsec_">@_batsec_</a> (batsec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team @mdseclabs | @the_secret_club</li>
 </ul>
 </td></tr>
@@ -459,7 +459,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1425259388831342592/y0sWUbxs_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1425302780210671616/LdgOPQGk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwn @ HTB)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -619,7 +619,7 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1371400450818342912/jvGBzFWz_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rootkovska">@rootkovska</a> (Joanna Rutkowska)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Long-term navigation @ http://golem.foundation & architect of @wildlandio. Previously @QubesOS & ITL founder. Distrusts computers. Freedom over safetyism.</li>
 </ul>
 </td></tr>
@@ -868,7 +868,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/MrUn1k0d3r"><img src="https://pbs.twimg.com/profile_images/1191478690678525954/vwWQC76f_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MrUn1k0d3r">@MrUn1k0d3r</a> (Mr.Un1k0d3r)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I don't know how to search on Google so I do research on my own and tweet about it. Hacking as a life style</li>
 </ul>
 </td></tr>
@@ -1193,7 +1193,7 @@ Founding Team @RandoriAttack</li>
 <li>appsec \ web to http://http.ninja:00000000000000000000000000080///////////////////////// @MDSecLabs | a delimiter character fan | RT/LK can be accidental or !</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1393350588771995656/hjnAsPjQ_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1425538942871425029/6FkK44f2_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/HackingDave">@HackingDave</a> (Dave Kennedy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1429,7 +1429,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/hdmoore"><img src="https://pbs.twimg.com/profile_images/1077956843790430208/WPHMpErd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hdmoore">@hdmoore</a> (HD Moore)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Black Lives Matter | Co-founder & CEO of Rumble Network Discovery (he/him)</li>
 </ul>
 </td></tr>
@@ -1562,7 +1562,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/nousie"><img src="https://pbs.twimg.com/profile_images/1323661661379723264/JCov9eeH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nousie">@nousie</a> (nous is vaccinated, masked, and socially distant)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>specialist in post-traumatic growth, crafter, bon vivant, explorer, erbsenzähler, glitter distribution vector, pastry chef, BSidesLV COO & ExecProd, PM, she/her</li>
 </ul>
 </td></tr>
@@ -1688,7 +1688,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1278596345385926657/YymujN-C_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer 💉 💉)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Manager, Engineering @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his)</li>
 </ul>
 </td></tr>
@@ -1730,7 +1730,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Docker"><img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Docker">@Docker</a> (Docker)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#Docker helps developers bring their ideas to life by conquering the complexity of app development.</li>
 </ul>
 </td></tr>
@@ -1751,7 +1751,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Quintus23M"><img src="https://pbs.twimg.com/profile_images/449878853008121857/vB8ftpRd_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/Quintus23M">@Quintus23M</a> (Dieter Reuter)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>All about Kubernetes Container Security, retired #DockerCaptain 🐳 & Docker Pirate @HypriotTweets, use #containers on Linux, macOS, ARM+IoT. Tweets are my own!</li>
 </ul>
 </td></tr>
