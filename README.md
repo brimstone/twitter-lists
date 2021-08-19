@@ -33,8 +33,8 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/porchetta_ind"><img src="https://pbs.twimg.com/profile_images/1287980977193508866/Dw4wBJGj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/porchetta_ind">@porchetta_ind</a> (Porchetta Industries)</b><br />
 <ul>
-<li>Last Tweet: July</li>
-<li>A community that provides support to Open Source Infosec/hacking tool developers and helps them succeed with their own Github Sponsorships.</li>
+<li>Last Tweet: this week</li>
+<li>A centralized platform for organizations to support the developers of Open Source Infosec/Hacking tools.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
@@ -107,7 +107,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/pdiscoveryio"><img src="https://pbs.twimg.com/profile_images/1194977737305280517/ydlJDIV1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pdiscoveryio">@pdiscoveryio</a> (ProjectDiscovery.io)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Through Intelligent Automation</li>
 </ul>
 </td></tr>
@@ -121,7 +121,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/theluemmel"><img src="https://pbs.twimg.com/profile_images/1335706480729878528/Neq9V0iL_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/theluemmel">@theluemmel</a> (LuemmelSec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Husband, Father, IT-Guy, Security-Noob
 
 Blog: http://bit.ly/3r0UFL7
@@ -217,7 +217,7 @@ Luck - 10</li>
 <tr><td><a href="https://twitter.com/darkstar7471"><img src="https://pbs.twimg.com/profile_images/1165408845759438848/Q7mIhY-n_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Dark)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>@realTryHackMe Content Director and Community Manager | Penetration Tester | ILG
 jon@tryhackme.com, http://darkstar7471.com
 
@@ -353,7 +353,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/wishperactual"><img src="https://pbs.twimg.com/profile_images/883823010313945089/RCaP3ZDH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/wishperactual">@wishperactual</a> (wishper)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>IT loremaster | infosec games | tyro pyro | cybernetic psychologist | groks mycroftxxx</li>
 </ul>
 </td></tr>
@@ -374,7 +374,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Re4sonKernel">@Re4sonKernel</a> (Re4son Kernel)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Kindness is cool</li>
 </ul>
 </td></tr>
@@ -430,6 +430,13 @@ See you at DC29!</li>
 <li></li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/notshenetworks"><img src="https://pbs.twimg.com/profile_images/1394083706583851015/P3D-ZbgJ_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/notshenetworks">@notshenetworks</a> (shenetworks)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Network Engineer • shenetworks @ tiktok (she/her) Sometimes I tweet about tech • All tweets are my own</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/minis_io"><img src="https://pbs.twimg.com/profile_images/983764998123028480/xVia91Rk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/minis_io">@minis_io</a> (minis_io)</b><br />
 <ul>
@@ -447,7 +454,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>pop shells not alert()
 
 "If you don’t think you are a newb, you’re not trying hard enough" - @hdmoore</li>
@@ -463,7 +470,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1425669370043256833/sr8q0L04_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwn @ HTB)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Moderator @hackthebox_eu | Penetration Tester | Skid Web Dev | Learning web app | eJPT | 안녕하세요 👋</li>
 </ul>
 </td></tr>
@@ -503,11 +510,11 @@ See you at DC29!</li>
 <li>design, build, teach threat-informed information security programs and techniques. Also: retweets of interesting classes, tools, research. They/them</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1422121643758002176/sQMaAtrv_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1428100365975687168/bnlnMDUh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>♡ Arm Assembly, RE, Mobile & IoT Exploitation | Flipping Bits as a Service | Creator of @azeria_labs |</li>
+<li>sneaky bit flipper</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
@@ -968,7 +975,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/gentilkiwi"><img src="https://pbs.twimg.com/profile_images/1140290718482817025/3NILFaXQ_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/gentilkiwi">@gentilkiwi</a> (🥝 Benjamin Delpy)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>a kiwi coding mimikatz, kekeo, wanakiwi, etc.
 github: https://github.com/gentilkiwi</li>
 </ul>
@@ -1108,7 +1115,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/Flangvik"><img src="https://pbs.twimg.com/profile_images/733608601210720256/8l9JgdYe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Flangvik">@Flangvik</a> (Melvin langvik)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security consultant at @TrustedSec , member of 5H3LL, and voice in 🇳🇴@5h3llcast 🇳🇴 . Opinions are my own and not the views of my employer.</li>
 </ul>
 </td></tr>
@@ -1126,7 +1133,7 @@ http://discord.skerritt.blog</li>
 <tr><td><a href="https://twitter.com/kees_cook"><img src="https://pbs.twimg.com/profile_images/1258428092072132609/Me6V6RQe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kees_cook">@kees_cook</a> (Kees Cook)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Free Software Hacker
 he/him</li>
 </ul>
@@ -1537,7 +1544,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1565,7 +1572,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/nousie"><img src="https://pbs.twimg.com/profile_images/1323661661379723264/JCov9eeH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nousie">@nousie</a> (nous is vaccinated, masked, and socially distant)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>specialist in post-traumatic growth, crafter, bon vivant, explorer, erbsenzähler, glitter distribution vector, pastry chef, BSidesLV COO & ExecProd, PM, she/her</li>
 </ul>
 </td></tr>
@@ -1741,7 +1748,7 @@ Thoughts are my own.</li>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
 <ul>
 <li>Last Tweet: last week</li>
-<li>Leading blockchain features for @Novi Blockchain Wallet at @Facebook. Previously @Anchorage, @Docker, @Apple. Striving for a world with stronger locks</li>
+<li>Leading blockchain features for @Novi Wallet (@Facebook). Previously Tech Lead at @Anchorage, @Docker, @Apple. Striving for a world with stronger locks</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/moby"><img src="https://pbs.twimg.com/profile_images/862725081037811712/uy5CEy7T_200x200.jpg"></a></td><td>
@@ -1849,7 +1856,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Expert misplacer of things. Humble engineering leader helping teams collaborate and ship. Former VP Eng turned exec tech consultant http://lauratacho.com</li>
 </ul>
 </td></tr>
@@ -1907,14 +1914,14 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/SteveSSingh"><img src="https://pbs.twimg.com/profile_images/1309276664321302529/8Rq8rKLv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SteveSSingh">@SteveSSingh</a> (Steve Singh)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Managing Director @MadronaVentures, Chairman @CenterSpendOps, @GetStratify, @spotnana, @talend & Director @WAFDbank @clarihq @vndly</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/michellenoorali"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/michellenoorali">@michellenoorali</a> (Michelle Noorali)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Software Eng @Microsoft \\ Making distributed systems digestible \\ @helmpack @draftcreate @cnab_spec @smi_spec @openservicemesh \\ opinions my own</li>
 </ul>
 </td></tr>
@@ -1993,7 +2000,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
@@ -2021,14 +2028,14 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/progrium"><img src="https://pbs.twimg.com/profile_images/1385962714447581186/5GvSszFJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/progrium">@progrium</a> (Jeff Lindsay 💀🚜)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Indie maker of many things. Incidentally pioneered SHDH, webhooks, Hacker Dojo, TIGSource, OpenStack, Twilio, Docker, Dokku. Follow your curiosity. @progriumHQ</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/calavera"><img src="https://pbs.twimg.com/profile_images/1151579040861474816/JUyTmeV4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/calavera">@calavera</a> (David Calavera)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Vegan. O’Reilly author. Follow my dog on IG</li>
 </ul>
 </td></tr>
