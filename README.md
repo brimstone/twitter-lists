@@ -26,7 +26,7 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/ptswarm"><img src="https://pbs.twimg.com/profile_images/1280533914352857092/jdiJ_BkE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/ptswarm">@ptswarm</a> (PT SWARM)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Positive Technologies Offensive Team</li>
 </ul>
 </td></tr>
@@ -139,7 +139,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1371211167583113216/Qg8DXU97_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team Village |  Join us on http://redteamvillage.io/discord . Check our next events at: http://redteamvillage.io</li>
 </ul>
 </td></tr>
@@ -344,7 +344,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1410263581204041731/JYvBammO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Hacking, Election Security and teaching STEAM! 🦄
 Founder, CEO
 http://GirlsWhoHack.com http://SecureOpenVote.com</li>
@@ -447,14 +447,14 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/pwnEIP"><img src="https://pbs.twimg.com/profile_images/784830607247413249/CX9svMoq_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnEIP">@pwnEIP</a> (pwneip)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Managing Senior Operator @Bishopfox, @SANSInstitute Instructor, #DEFCON @RedTeamVillage_ organizer, @DerpConInfosec founder. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>pop shells not alert()
 
 "If you don’t think you are a newb, you’re not trying hard enough" - @hdmoore</li>
@@ -534,7 +534,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/CoreAdvisories"><img src="https://pbs.twimg.com/profile_images/1388152509148041216/SCaXj20m_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CoreAdvisories">@CoreAdvisories</a> (CoreLabs Research)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>@CoreSecurity and Cobalt Strike's CoreLabs Research team is dedicated to researching and anticipating future security trends. Follow for technical updates.</li>
 </ul>
 </td></tr>
@@ -555,7 +555,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Farah_Hawaa"><img src="https://pbs.twimg.com/profile_images/1184042303461060608/T_jjNqxJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Farah_Hawaa">@Farah_Hawaa</a> (Farah Hawa)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>noobiest of the noobs | content creator | AppSec @Bugcrowd | she/her | personal account</li>
 </ul>
 </td></tr>
@@ -663,11 +663,11 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/Infosecjen"><img src="https://pbs.twimg.com/profile_images/1306675033989951489/0Xgs-ikI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosecjen">@Infosecjen</a> (Guv'nah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1433933635799838722/sEtGVF1r_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1435751026053713920/sGfmmwGi_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -759,7 +759,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -852,7 +852,7 @@ Conference - Oct 2, 2021</li>
 <tr><td><a href="https://twitter.com/0gtweet"><img src="https://pbs.twimg.com/profile_images/1039603297475284992/Q_xU-Abj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0gtweet">@0gtweet</a> (Grzegorz Tworek)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>My own research, unless stated otherwise. Not necessarily "safe when taken as directed".
 GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 </ul>
@@ -888,7 +888,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/Hexacorn"><img src="https://pbs.twimg.com/profile_images/1328318015730016258/wS-pPtw6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Hexacorn">@Hexacorn</a> (Adam)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Brain, Blue Fingers
 
 TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_piggie+my wife's art/writing blog @MariNomadie</li>
@@ -904,7 +904,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/badsectorlabs"><img src="https://pbs.twimg.com/profile_images/961624727814135810/LWtbHAAD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/badsectorlabs">@badsectorlabs</a> (Bad Sector Labs)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Weekly Cybersecurity news, techniques, exploits, and tools every Monday at http://blog.badsectorlabs.com</li>
 </ul>
 </td></tr>
@@ -971,7 +971,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1435252314022023168/rhDxHUnu_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 Offensive Security Researcher, CTFer, OSCE, OSCP, OSWP👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -1292,7 +1292,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/georgiaweidman"><img src="https://pbs.twimg.com/profile_images/1160297622877290497/53Np_AlD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/georgiaweidman">@georgiaweidman</a> (Georgia Weidman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Author: Penetration Testing http://www.nostarch.com/pentesting Founder: @bulbsecurity & @shevirahsec Professor: @UMUC & @tulane Fellow: @NewAmerica</li>
 </ul>
 </td></tr>
@@ -1320,7 +1320,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotheplanet)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>hacking the planet at https://www.ired.team buy me a vinyl at http://patreon.com/iredteam</li>
 </ul>
 </td></tr>
@@ -1394,7 +1394,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/_decius_"><img src="https://pbs.twimg.com/profile_images/578577491935145985/Mvg9hVk6_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/_decius_">@_decius_</a> (Tom Cross)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Complete liberty of contradicting and disproving our opinion, is the very condition which justifies us in assuming its truth for purposes of action. - Mill</li>
 </ul>
 </td></tr>
@@ -1607,7 +1607,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/Hak5"><img src="https://pbs.twimg.com/profile_images/916034713206243328/g2crEqKm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Hak5">@Hak5</a> (Hak5)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Award winning podcasts, leading pentest gear, & inclusive community since 2005.
 
 Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</li>
@@ -1621,7 +1621,7 @@ Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</l
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/953081975929110528/3NipXrBH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie Howard)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>why have a bad day when you can have a great one ☀️
 
 eng @Tango_HQ, ex-@Anchorage, @Docker
@@ -1667,10 +1667,10 @@ Thoughts are my own.</li>
 <li></li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/goconvox"><img src="https://pbs.twimg.com/profile_images/1247583265227026437/dpEPHsnL_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/goconvox"><img src="https://pbs.twimg.com/profile_images/1435688268465680386/aKmWtKbU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/goconvox">@goconvox</a> (Convox)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Free and Open-source PaaS that runs on any cloud. Zero maintenance, total privacy.  The fastest and easiest way to deploy a production ready application.</li>
 </ul>
 </td></tr>
@@ -1856,7 +1856,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Expert misplacer of things. Humble engineering leader helping teams collaborate and ship. Former VP Eng turned exec tech consultant http://lauratacho.com</li>
 </ul>
 </td></tr>
