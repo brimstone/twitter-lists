@@ -87,7 +87,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <b><a href="https://twitter.com/chompie1337">@chompie1337</a> (chompie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>content consumer, exploit dev + offsec, lead security researcher @graplsec, http://github.com/chompie1337, she/her</li>
+<li>content consumer, vr/exploit dev/offsec, lead security researcher @graplsec, http://github.com/chompie1337, she/her</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lazzslayer"><img src="https://pbs.twimg.com/profile_images/1182493592851492866/6vHYmwbQ_200x200.jpg"></a></td><td>
@@ -469,11 +469,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1438389679703818242/QecmsjG-_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1438744529788567552/6HSUy1dJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Moderator @hackthebox_eu | Penetration Tester | Skid Web Dev | eJPT | 1 of the Australia HackTheBox Organiser @hackthebox_aus</li>
+<li>Moderator @hackthebox_eu | Penetration Tester | Skid Web Dev | eJPT, OSCP Student | 1 of the Australia HackTheBox Organiser @hackthebox_aus</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -669,7 +669,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1436808721192013824/IzOzaQov_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1438990028030431232/3rqjbqHF_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -761,7 +761,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -1142,7 +1142,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/NationalCCDC"><img src="https://pbs.twimg.com/profile_images/1376575565067599877/t-Dwvz_v_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/NationalCCDC">@NationalCCDC</a> (National CCDC)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Where education meets operation</li>
 </ul>
 </td></tr>
@@ -1294,7 +1294,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/georgiaweidman"><img src="https://pbs.twimg.com/profile_images/1160297622877290497/53Np_AlD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/georgiaweidman">@georgiaweidman</a> (Georgia Weidman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Author: Penetration Testing http://www.nostarch.com/pentesting Founder: @bulbsecurity & @shevirahsec Professor: @UMUC & @tulane Fellow: @NewAmerica</li>
 </ul>
 </td></tr>
@@ -1316,7 +1316,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Hashcat Discord: https://discord.gg/HFS523HGBT</li>
+<li>Hashcat Discord: http://discord.gg/hashcat</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
@@ -1441,7 +1441,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/hdmoore"><img src="https://pbs.twimg.com/profile_images/1077956843790430208/WPHMpErd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hdmoore">@hdmoore</a> (HD Moore)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Black Lives Matter | Chairman & Founding CTO of Rumble Network Discovery (he/him)</li>
 </ul>
 </td></tr>
@@ -1714,7 +1714,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/laurelcomics"><img src="https://pbs.twimg.com/profile_images/422324760165359616/k5iuymHv_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/laurelcomics">@laurelcomics</a> (Laurel)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Comic book artist, working for @Docker</li>
 </ul>
 </td></tr>
@@ -1749,7 +1749,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1201320309921480705/z3R9hZHL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Leading blockchain features for @Novi Wallet (@Facebook). Previously Tech Lead at @Anchorage, @Docker, @Apple. Striving for a world with stronger locks</li>
 </ul>
 </td></tr>
@@ -1777,11 +1777,11 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/JesseAdametz"><img src="https://pbs.twimg.com/profile_images/1126176738646478848/nVp2cisx_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/JesseAdametz">@JesseAdametz</a> (Jesse Adametz)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Engineering Manager @segment. Opinions my own. Tweets delete after 30 days. http://pronoun.is/he.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/marcosnils"><img src="https://pbs.twimg.com/profile_images/1429768194978455558/3KBvyROS_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/marcosnils"><img src="https://pbs.twimg.com/profile_images/1438681729577914373/y4uCXDot_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/marcosnils">@marcosnils</a> (Marcos Nils)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
