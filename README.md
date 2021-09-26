@@ -452,6 +452,13 @@ See you at DC29!</li>
 <li>Managing Senior Operator @Bishopfox, @SANSInstitute Instructor, #DEFCON @RedTeamVillage_ organizer, @DerpConInfosec founder. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -468,7 +475,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1440276920470364161/AD3PisqO_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1441720411805208584/5_j7FoYG_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -668,7 +675,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1441184363018788866/Iljkw73p_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1441832968809369602/SJ56G_ii_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -972,7 +979,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1441512096747778057/b6tPuBtR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 | Hacker | Reversing Binary in Wild | OSCE, OSCP, OSWP | OSEE coming soon… | Public Speaker | 👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -1021,8 +1028,8 @@ Condition: all of them</li>
 <li>Birmingham's grassroots Information Security conference</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1425171120643248129/0hUwEWBQ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/mzbat">@mzbat</a> (bat cravensworth)</b><br />
+<tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1441834903855714314/ZVx8Qul-_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/mzbat">@mzbat</a> (bat)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>NaaS ⚔️(No as a Service) formerly @Truss_Works @18F #NASA + overcommitted underachiever, PhD in Horribleness. she/🦇/🏳️‍🌈</li>
@@ -1125,11 +1132,14 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <b><a href="https://twitter.com/bee_sec_san">@bee_sec_san</a> (Bee 🐙🌌)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Infra @monzo Community @tryhackme 
-Creator of Ciphey, Rustscan, Name-That-Hash, PyWhat, Search-That-Hash
+<li>🏗 @monzo 
+🎭 @realtryhackme 
+✍ http://skerritt.blog
+🐙 http://github.com/bee-san
 
-👇Discord Community👇
-http://discord.skerritt.blog</li>
+Tweets about finance, cyber sec, code
+
+👇Discord Community👇</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kees_cook"><img src="https://pbs.twimg.com/profile_images/1258428092072132609/Me6V6RQe_200x200.jpg"></a></td><td>
@@ -1587,7 +1597,7 @@ he/him or they/them</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/jack_daniel"><img src="https://pbs.twimg.com/profile_images/1413288877109006339/p6g3ciZY_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/jack_daniel">@jack_daniel</a> (Jack Daniel - is often offline)</b><br />
+<b><a href="https://twitter.com/jack_daniel">@jack_daniel</a> (Jack Daniel, world's oldest, bitterest millennial)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Supporting community-focused projects including Security BSides, Shoulders of Infosec, Security Voices podcast, & more via Tiki Tonk LLC. And Cocktails (he/him)</li>
@@ -1938,14 +1948,14 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/AshlynnPolini"><img src="https://pbs.twimg.com/profile_images/886987063442128896/AWeNaanD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AshlynnPolini">@AshlynnPolini</a> (Ashlynn Polini)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Building dope experiences at @netlify @jamstackconf - -previously @dockercon</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO Anchorage Digital @Anchorage #bitcoin</li>
 </ul>
 </td></tr>
