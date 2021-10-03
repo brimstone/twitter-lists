@@ -121,7 +121,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/theluemmel"><img src="https://pbs.twimg.com/profile_images/1335706480729878528/Neq9V0iL_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/theluemmel">@theluemmel</a> (LuemmelSec)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Husband, Father, IT-Guy, Security-Noob
 
 Blog: http://bit.ly/3r0UFL7
@@ -172,7 +172,7 @@ Cyber Security Consultant | OSCP, Pentest+</li>
 <tr><td><a href="https://twitter.com/ShitSecure"><img src="https://pbs.twimg.com/profile_images/1081167263200411648/yhdqoDeA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ShitSecure">@ShitSecure</a> (S3cur3Th1sSh1t)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Pentesting, scripting, pwning!</li>
 </ul>
 </td></tr>
@@ -345,7 +345,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1410263581204041731/JYvBammO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Hacking, Election Security and teaching STEAM! 🦄
 Founder, CEO
 http://GirlsWhoHack.com http://SecureOpenVote.com</li>
@@ -647,10 +647,10 @@ Author of http://BOF.NET, SharpBlock, SweetPotato
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ViGreyTech"><img src="https://pbs.twimg.com/profile_images/1414404441948790789/aXFteCWQ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey)</b><br />
+<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey (but Spooky) 👻🎃💀)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>#NES #GB Homebrew Game Developer | Engineering + Research @VG_Interactive | @GreyBadge | Retro Computing | Polyglot File Creator | http://vigrey.com | nb | #nesdev</li>
+<li>#NES #GB Homebrew Game Developer | Engineering + Research @VG_Interactive | @GreyBadge | Retro Computing | Polyglot File Creator | http://vigrey.com | nb | #nes</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xAshFox"><img src="https://pbs.twimg.com/profile_images/1248531140245204993/SfhW2Rn4_200x200.jpg"></a></td><td>
@@ -668,7 +668,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1442808161191153671/UXeRUjeH_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1444223239740264449/u9wZh8lF_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -689,7 +689,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -760,7 +760,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -972,7 +972,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1441512096747778057/b6tPuBtR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 | Hacker | Reversing Binary in Wild | OSCE, OSCP, OSWP | OSEE coming soon… | Public Speaker | 👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -1335,7 +1335,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Linux Evangelist, Malwares , Kernel Dev , Security Enthusiast , Adventure freak , sarcasm. Jain, meditation & philanthropist .
 binitamshah at protonmail com</li>
 </ul>
@@ -1371,7 +1371,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/alexlevinson"><img src="https://pbs.twimg.com/profile_images/804201044192305152/TdBgIzBB_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/alexlevinson">@alexlevinson</a> (Alex Levinson)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Head of Security @Scale_AI. Former Red Team @Uber, @Lares_, @Zynga. Keeper of Keys @CCDCRedTeam and @nationalCPTC. Author of GSCRIPT. #InfoSec #RedTeam #Golang</li>
 </ul>
 </td></tr>
@@ -1656,7 +1656,7 @@ BLM</li>
 <tr><td><a href="https://twitter.com/neugebar"><img src="https://pbs.twimg.com/profile_images/674751035693506560/iRK0zefZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Sometimes I do computer stuff so complicated that I can't explain it to my parents. European citizen in the UK. Opinions are my own.</li>
 </ul>
 </td></tr>
@@ -1706,7 +1706,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1437732608062988288/4PcJe3nc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Manager, Engineering @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his)</li>
 </ul>
 </td></tr>
@@ -1857,7 +1857,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/bcantrill"><img src="https://pbs.twimg.com/profile_images/618537697670397952/gW9iQsvF_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bcantrill">@bcantrill</a> (Bryan Cantrill)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CTO of @oxidecomputer. Nom de guerre: Colonel Data Corruption.</li>
 </ul>
 </td></tr>
@@ -1871,7 +1871,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/kelseyhightower"><img src="https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kelseyhightower">@kelseyhightower</a> (Kelsey Hightower)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Minimalist</li>
 </ul>
 </td></tr>
@@ -1964,7 +1964,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/diogomonica"><img src="https://pbs.twimg.com/profile_images/1427010152163590147/VohE4v8x_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/diogomonica">@diogomonica</a> (Diogo Mónica)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Co-Founder and President @Anchorage, ex-@Docker, ex-@Square, PhD in CS. I claim neither infallibility nor finality.</li>
 </ul>
 </td></tr>
@@ -2044,7 +2044,7 @@ Unikernels.</li>
 <b><a href="https://twitter.com/calavera">@calavera</a> (David Calavera)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Vegan. O’Reilly author. Follow my dog on IG</li>
+<li>Vegan. O’Reilly author. Ex CTO at Netlify, I work at Twilio now</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
