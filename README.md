@@ -11,7 +11,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/tmpout"><img src="https://pbs.twimg.com/profile_images/1361836075044462595/bUqtK3DT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/tmpout">@tmpout</a> (tmp.0ut)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>ELF Research Group</li>
 </ul>
 </td></tr>
@@ -107,7 +107,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/pdiscoveryio"><img src="https://pbs.twimg.com/profile_images/1194977737305280517/ydlJDIV1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pdiscoveryio">@pdiscoveryio</a> (ProjectDiscovery.io)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Through Intelligent Automation</li>
 </ul>
 </td></tr>
@@ -139,7 +139,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1371211167583113216/Qg8DXU97_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Red Team Village |  Join us on http://redteamvillage.io/discord . Check our next events at: http://redteamvillage.io</li>
 </ul>
 </td></tr>
@@ -452,13 +452,6 @@ See you at DC29!</li>
 <li>Managing Senior Operator @Bishopfox, @SANSInstitute Instructor, #DEFCON @RedTeamVillage_ organizer, @DerpConInfosec founder. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: September</li>
-<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -535,7 +528,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Tyl0us"><img src="https://pbs.twimg.com/profile_images/1276924130974208007/P6nrGRgw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Tyl0us">@Tyl0us</a> (Matt Eidelberg)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer. Computer/Comic Book Nerd. I spend my free time breaking EDRs and playing with malware.</li>
 </ul>
 </td></tr>
@@ -696,7 +689,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -767,7 +760,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -1009,7 +1002,7 @@ condition: all of them</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1424169836779909120/3TG1YyTQ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
+<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie speaking @HouSecCon)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Pentester |🎙 @ITSPmagazine Podcaster 🎙| @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @pentesterblue coauthor</li>
@@ -1148,7 +1141,7 @@ Inventor of Ciphey, RustScan, PyWhat.
 <tr><td><a href="https://twitter.com/kees_cook"><img src="https://pbs.twimg.com/profile_images/1258428092072132609/Me6V6RQe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kees_cook">@kees_cook</a> (Kees Cook)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Free Software Hacker
 he/him</li>
 </ul>
@@ -1170,7 +1163,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/syndrowm"><img src="https://pbs.twimg.com/profile_images/1255921692875972608/XO7ggGPa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/syndrowm">@syndrowm</a> (syndrowm)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Red Team, CTF, CCDC, Brown Belt, #RedTeamFit --
 
 Founding Team @RandoriAttack</li>
@@ -1228,7 +1221,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/inj3ct0r"><img src="https://pbs.twimg.com/profile_images/938372675646476288/N06qF9Ob_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/inj3ct0r">@inj3ct0r</a> (0day Exploit Database 🌴)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#0day, #Exploit, #Vulnerability, #Exploits, #Vulnerabilities, #Zeroday #ShellUpload #Shell #RCE #LPE #SQLInjection within mirror 🕵️‍♂️TOR 🌎 http://cutt.ly/iWq40Zb</li>
 </ul>
 </td></tr>
@@ -1410,7 +1403,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/_decius_"><img src="https://pbs.twimg.com/profile_images/578577491935145985/Mvg9hVk6_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/_decius_">@_decius_</a> (Tom Cross)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Complete liberty of contradicting and disproving our opinion, is the very condition which justifies us in assuming its truth for purposes of action. - Mill</li>
 </ul>
 </td></tr>
@@ -1441,7 +1434,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/natashenka"><img src="https://pbs.twimg.com/profile_images/1221284302912028673/6sXOJCzx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/natashenka">@natashenka</a> (Natalie Silvanovich)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Tamagotchi Hacker. Google Project Zero. She/her.</li>
 </ul>
 </td></tr>
@@ -1763,7 +1756,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1201320309921480705/z3R9hZHL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nassim Eddequiouaq)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Leading blockchain features for @Novi Wallet (@Facebook). Previously Tech Lead at @Anchorage, @Docker, @Apple. Striving for a world with stronger locks</li>
 </ul>
 </td></tr>
@@ -1951,7 +1944,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/AshlynnPolini"><img src="https://pbs.twimg.com/profile_images/886987063442128896/AWeNaanD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AshlynnPolini">@AshlynnPolini</a> (Ashlynn Polini)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Building dope experiences at @netlify @jamstackconf - -previously @dockercon</li>
 </ul>
 </td></tr>
@@ -2058,7 +2051,7 @@ Unikernels.</li>
 <tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>VP Product @snyksec. @openpolicyagent Conftest maintainer. Developer, designer, product. Open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
 </ul>
 </td></tr>
