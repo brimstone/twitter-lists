@@ -207,7 +207,7 @@ Cyber Security Consultant | HTB WinBARs | OSCP, Pentest+</li>
 <tr><td><a href="https://twitter.com/cpl3h"><img src="https://pbs.twimg.com/profile_images/1240826119995047937/CDgYAiv2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cpl3h">@cpl3h</a> (cpl)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Intelligence - 1
 Wisdom - 1
 Charisma - 1
@@ -527,7 +527,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/Tyl0us">@Tyl0us</a> (Matt Eidelberg)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Red Teamer. Computer/Comic Book Nerd. I spend my free time breaking EDRs and playing with malware.</li>
+<li>Red Teamer/Implant Dev. Computer/Comic Book Nerd. I spend my free time breaking EDRs and playing with malware.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/CoreAdvisories"><img src="https://pbs.twimg.com/profile_images/1388152509148041216/SCaXj20m_200x200.jpg"></a></td><td>
@@ -666,7 +666,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1446611396636991492/fDwvLvxo_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1446687910099505158/MXDVg2-s_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -968,7 +968,7 @@ Operator Handbook: http://amazon.com/dp/B085RR67H5
 Hash Crack: http://amazon.com/dp/1793458618</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1444759420966252552/zy-KG-jl_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1446832611641409540/IdO6e_kx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1000,7 +1000,7 @@ condition: all of them</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1424169836779909120/3TG1YyTQ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie speaking @HouSecCon)</b><br />
+<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Pentester |🎙 @ITSPmagazine Podcaster 🎙| @schoolpwn Founder | @innocentorg Ambassador | @hacknotcrime Advocate | @pentesterblue coauthor</li>
@@ -1009,7 +1009,7 @@ condition: all of them</li>
 <tr><td><a href="https://twitter.com/phraaaaaaa"><img src="https://pbs.twimg.com/profile_images/1107775495507230720/hqqQX8o7_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/phraaaaaaa">@phraaaaaaa</a> (Francesco Soncina)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>OSCE // OSCP // Ethical Hacker & Red Teamer @ABNAMRO // Full Stack Developer // CTF Player @DonkeysTeam</li>
 </ul>
 </td></tr>
@@ -1884,7 +1884,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Student | Teacher | Engineer</li>
 </ul>
 </td></tr>
@@ -1928,7 +1928,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/michellenoorali"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/michellenoorali">@michellenoorali</a> (Michelle Noorali)</b><br />
 <ul>
-<li>Last Tweet: September</li>
+<li>Last Tweet: this week</li>
 <li>Software Eng @Microsoft \\ Making distributed systems digestible \\ @helmpack @draftcreate @cnab_spec @smi_spec @openservicemesh \\ opinions my own</li>
 </ul>
 </td></tr>
@@ -1975,7 +1975,7 @@ French, Wine lover. Soccer Fan.</li>
 Our profession is built on relationships.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/s0urceress"><img src="https://pbs.twimg.com/profile_images/1433990920937082880/N7pSsmhp_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/s0urceress"><img src="https://pbs.twimg.com/profile_images/1446954759332708359/Hx537fqh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/s0urceress">@s0urceress</a> (innocent garbage file)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -2026,7 +2026,7 @@ Unikernels.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lizrice"><img src="https://pbs.twimg.com/profile_images/954316637313929216/yfD_T_c3_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/lizrice">@lizrice</a> (Liz Rice 🐝)</b><br />
+<b><a href="https://twitter.com/lizrice">@lizrice</a> (Liz Rice 🐝 is virtually at #kubecon)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Open Source @isovalent / @ciliumproject / #CNCF TOC chair / #KubeCon emeritus chair / O'Reilly author / #AWS hero / #Golang #GDE / music @insidernine / cycling</li>
