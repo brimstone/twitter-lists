@@ -473,7 +473,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1449962992440086528/wDv7hiZy_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1452053093521104896/PjVkE6fh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1225,7 +1225,7 @@ Founding Team @RandoriAttack</li>
 <b><a href="https://twitter.com/inj3ct0r">@inj3ct0r</a> (0day Exploit Database 🌴)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>#0day, #Exploit, #Vulnerability, #Exploits, #Vulnerabilities, #Zeroday #ShellUpload #Shell #RCE #LPE #SQLInjection within mirror 🕵️‍♂️TOR 🌎 http://cutt.ly/iWq40Zb</li>
+<li>#0day, #Exploit, #Vulnerability, #Exploits, #Vulnerabilities, #Zeroday #ShellUpload #Shell #RCE #XSS #SQLi #Shellcode within mirror 🕵️‍♂️TOR 🌎 http://cutt.ly/iWq40Zb</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1416548353400348676/MtZXH2_z_200x200.jpg"></a></td><td>
