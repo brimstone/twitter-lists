@@ -187,7 +187,7 @@ Cyber Security Consultant | HTB with WinBARs | OSCP, Pentest+</li>
 <b><a href="https://twitter.com/gabsmashh">@gabsmashh</a> (gabsmashh 🎃)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>security engineer | genetic scientist | neoclassical pentester | NYU grad student | #MalwareTechPodcast host | @hacknotcrime advocate | @MARFORCYBER auxiliarist</li>
+<li>engineer @RSAsecurity | genetic scientist | @NYUGlobalCyber grad student | #MalwareTechPodcast host | @hacknotcrime advocate | @MARFORCYBER auxiliarist</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/OverTheWireCTF"><img src="https://pbs.twimg.com/profile_images/1188000911962136576/R2j-5pwi_200x200.png"></a></td><td>
@@ -484,8 +484,8 @@ ALWAYS CREDIT PEOPLE for the work you derive inspiration from, and say thanks.</
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1454104734818734081/794OoVhl_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1454427191979089921/l3SQIbsk_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwn)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Moderator @hackthebox_eu | 침투 테스터 | Au Event Organiser @hackthebox_aus | eJPT | Studying OSCP</li>
@@ -767,7 +767,7 @@ managed by http://NAC-ISSA.org volunteers
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/MalwareTechBlog"><img src="https://pbs.twimg.com/profile_images/1324063182483152896/Pdz08DC7_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/MalwareTechBlog">@MalwareTechBlog</a> (MetawareTech)</b><br />
+<b><a href="https://twitter.com/MalwareTechBlog">@MalwareTechBlog</a> (MalwareTech)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>AKA Marcus Hutchins. Tweets about Cybersecurity, Malware, Hacking, Programming, and Infosec. Contact Info / Social Media: http://linktr.ee/MalwareTech</li>
@@ -856,7 +856,7 @@ Conference - Oct 1, 2022</li>
 <tr><td><a href="https://twitter.com/dichotomy1"><img src="https://pbs.twimg.com/profile_images/2450512797/smk5o66ne93ogxssi40i_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/dichotomy1">@dichotomy1</a> (dichotomy)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, husband, father, sometimes author.  I build things, I break things, and I'm -still- trying to figure everything out.</li>
 </ul>
 </td></tr>
@@ -1092,7 +1092,7 @@ Healthcare🍯</li>
 http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hacks4pancakes"><img src="https://pbs.twimg.com/profile_images/1432252422135631880/VkVbvQVA_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hacks4pancakes"><img src="https://pbs.twimg.com/profile_images/1454592471988641794/10VfZWx7_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hacks4pancakes">@hacks4pancakes</a> (Lesley (the Vampire Slayer))</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1274,7 +1274,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
@@ -1331,7 +1331,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/_t1v0_"><img src="https://pbs.twimg.com/profile_images/1038091099758190592/p0oC0gTY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_t1v0_">@_t1v0_</a> (t1v0)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Pen tester, security geek.  PvJ red team captain, Defcon black badge winner (IoT CTF).  Founder of Loudmouth Security and co-founder of Village Idiot Labs.</li>
 </ul>
 </td></tr>
