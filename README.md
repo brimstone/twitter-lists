@@ -446,6 +446,13 @@ Stay Healthy!
 See you at DC29!</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/grazhacks"><img src="https://pbs.twimg.com/profile_images/1288109130507419648/GwQ6WEWV_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/grazhacks">@grazhacks</a> (obfus-KATE-d)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Self-taught web app wizard; salty as heck. Bikepacker. Foodie. Nerd. Tired parent. 🦊 by trade but all opinions here are mine. She/they pronouns.</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/ippsec"><img src="https://pbs.twimg.com/profile_images/859140652617142272/z79HkNvx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ippsec">@ippsec</a> (ippsec)</b><br />
 <ul>
@@ -496,7 +503,7 @@ See you at DC29!</li>
 
 Be kind to one another.
 
-Non-manchild.</li>
+Screaming at a compiler, somewhere.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/huntsec_AL"><img src="https://pbs.twimg.com/profile_images/824313675448274944/TFnCUbkh_200x200.jpg"></a></td><td>
@@ -506,7 +513,7 @@ Non-manchild.</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1456267022954680327/mqVsrHxB_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1456614874042159113/qHO-KUKV_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwning)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -754,7 +761,7 @@ Christian, content creator, Pentest+, OSCP
 <tr><td><a href="https://twitter.com/ropnop"><img src="https://pbs.twimg.com/profile_images/1017215550550880256/CglPvrog_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ropnop">@ropnop</a> (Ronnie Flathers)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>security guy, pentester, researcher. i sometimes blog and code based on motivation/caffeine levels. Principal Security Engineer @Marqeta</li>
 </ul>
 </td></tr>
@@ -902,7 +909,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/DonnieMarcoFoto"><img src="https://pbs.twimg.com/profile_images/1436401991438176290/l0fo2tky_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DonnieMarcoFoto">@DonnieMarcoFoto</a> (🏴󠁧󠁢󠁷󠁬󠁳󠁿 Marc Hill)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Cymro #republicofwales #annibyniaeth #indywales</li>
 </ul>
 </td></tr>
@@ -967,7 +974,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/Ben0xA"><img src="https://pbs.twimg.com/profile_images/1061463329363902464/So7g4cgA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Ben0xA">@Ben0xA</a> (Ben Ten (0xA))</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Christian, Penetration Tester, Defender, Developer, Gamer, Not PowerShell (nps) & nps_payload Creator, PoLRBear Project @polrbearproject || Views are my own!</li>
 </ul>
 </td></tr>
@@ -1013,7 +1020,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1446832611641409540/IdO6e_kx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 | Hacker | Reversing Binary in Wild | OSCE, OSCP, OSWP | OSEE coming soon… | Public Speaker | 👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -1052,7 +1059,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/phraaaaaaa"><img src="https://pbs.twimg.com/profile_images/1107775495507230720/hqqQX8o7_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/phraaaaaaa">@phraaaaaaa</a> (Francesco Soncina)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>OSCE // OSCP // Ethical Hacker & Red Teamer @ABNAMRO // Full Stack Developer // CTF Player @DonkeysTeam</li>
 </ul>
 </td></tr>
@@ -1067,7 +1074,7 @@ Tweets are my own and not the views of my employer</li>
 <b><a href="https://twitter.com/mzbat">@mzbat</a> (Mz. Batington, PhD in Horribleness)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>HBIC (Head Bat in Charge) ⚔️ Director at @KrebsStamos | Hacker | Artist | Maker | Track Star | 2goth4u | Formerly @Truss_Works @18F #NASA | she🦇🏳️‍🌈BLM</li>
+<li>HBIC (Head Bat in Charge) ⚔️ Director at @KrebsStamos | Hacker | Artist | Dumb Jokes | Track Star | 2goth4u | Formerly @Truss_Works @18F #NASA | she🦇🏳️‍🌈BLM</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1385500216195829760/IGDWfWaz_200x200.jpg"></a></td><td>
@@ -1210,7 +1217,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/ExploitDB"><img src="https://pbs.twimg.com/profile_images/932975822926991360/xHkf5nKr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ExploitDB">@ExploitDB</a> (Exploit Database)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>The Exploit Database – ultimate archive of #Exploits, #Shellcodes & Security #Papers/#eZines. Follow @GoogleHacking @PaperDatabase @ShellcodeDB @RootDatabase</li>
 </ul>
 </td></tr>
@@ -1571,7 +1578,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/TychoTithonus">@TychoTithonus</a> (Royce Williams)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Just doing my undue diligence. ISP vet, hash cracker (Team @hashcat), security demi-boffin, security key stan, AK license plate geek. He.❤️:⚛👨‍👩‍👧🛡🙊🌻🌶🍫</li>
+<li>Just doing my undue diligence. ISP vet, Team @hashcat, security demi-boffin, security key stan, AK license plate geek. Views his.❤️:⚛👨‍👩‍👧🛡🙊🌻🗽💻✏🎥🍦🌶🍫</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/brimston3"><img src="https://pbs.twimg.com/profile_images/728436076/meatheadhelmet_200x200.jpg"></a></td><td>
@@ -1591,7 +1598,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1822,7 +1829,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/JesseAdametz"><img src="https://pbs.twimg.com/profile_images/1126176738646478848/nVp2cisx_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/JesseAdametz">@JesseAdametz</a> (Jesse Adametz)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Senior Engineering Manager @twilio @segment. Opinions my own. Tweets delete after 30 days. http://pronoun.is/he.</li>
 </ul>
 </td></tr>
@@ -1848,7 +1855,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1397593304439562244/_MOLl7nW_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan ☸️ KubeCon)</b><br />
+<b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan 🦣)</b><br />
 <ul>
 <li>Last Tweet: October</li>
 <li>sr 👩‍💻🥑 @vmware #kubernetes #tanzu · @dekkagaijin ♡ · electrical eng @georgiatech · ex @amazon @intel @docker · opinions: mine</li>
