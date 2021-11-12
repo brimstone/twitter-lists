@@ -114,7 +114,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/0xTib3rius"><img src="https://pbs.twimg.com/profile_images/1248694316421308418/WNTp-x05_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xTib3rius">@0xTib3rius</a> (Tib3rius)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Web App (mostly) Hacker @WhiteOakSec | AutoRecon Dev | YouTube: http://is.gd/0o0GDW | Twitch: http://is.gd/aPafUV | Udemy: http://is.gd/Nhceps | Discord: http://is.gd/5wdfRz (he/him) 🇺🇸</li>
 </ul>
 </td></tr>
@@ -167,7 +167,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/0xdeaddood"><img src="https://pbs.twimg.com/profile_images/1172876675014627329/0HVo1tNP_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xdeaddood">@0xdeaddood</a> (leandro)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security researcher focused on authentication & identity 🇦🇷🇪🇪. Impacket 🚀🌕.</li>
 </ul>
 </td></tr>
@@ -221,7 +221,7 @@ Cyber Security Consultant | HTB with WinBARs | OSCP, Pentest+</li>
 <tr><td><a href="https://twitter.com/KringleCon"><img src="https://pbs.twimg.com/profile_images/1455577316088635403/rK57ZEeN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/KringleCon">@KringleCon</a> (KringleCon)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The world's most fun and festive hacking challenge! 🎁 #holidayhack by @counterhacksec + @sansinstitute</li>
 </ul>
 </td></tr>
@@ -292,7 +292,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/_dirkjan"><img src="https://pbs.twimg.com/profile_images/941026484130545664/J8QlOYL8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_dirkjan">@_dirkjan</a> (Dirk-jan)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Hacker at @foxit. Connecter of dots. Likes to play around with security and Python.</li>
 </ul>
 </td></tr>
@@ -366,7 +366,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1410263581204041731/JYvBammO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Hacking, Election Security and teaching STEAM! 🦄
 Founder, CEO
 http://GirlsWhoHack.com http://SecureOpenVote.com</li>
@@ -480,6 +480,13 @@ See you at DC29!</li>
 <li>Managing Senior Operator @Bishopfox, @SANSInstitute Instructor, #DEFCON @RedTeamVillage_ organizer, @DerpConInfosec founder. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -505,11 +512,11 @@ Screaming at a compiler, somewhere.</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1456978077083258891/zyU_H786_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1458806818272993281/DUhhO0PD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (Pwning)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Moderator @hackthebox_eu</li>
+<li>Moderator @hackthebox_eu | Intern @saferinternetpr | eJPT & OSCP Student</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -529,7 +536,7 @@ Screaming at a compiler, somewhere.</li>
 <tr><td><a href="https://twitter.com/infosecn1nja"><img src="https://pbs.twimg.com/profile_images/987690768570634240/hA2MGa7a_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/infosecn1nja">@infosecn1nja</a> (Rahmat Nurfauzi)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Researcher/Red/Purple Teaming/Adversary Simulation/Threat Hunter. Contributors of Atomic Red Team, PS Empire, Mitre ATT&CK Framework, LOLBas, and more.</li>
 </ul>
 </td></tr>
@@ -551,7 +558,7 @@ Screaming at a compiler, somewhere.</li>
 <tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1455743184512983043/MoEcy7-x_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>sneaky bit flipper | @azeria_labs</li>
 </ul>
 </td></tr>
@@ -775,7 +782,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/bsidesnash"><img src="https://pbs.twimg.com/profile_images/1212497460318343170/MWXdYaNY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bsidesnash">@bsidesnash</a> (bsidesnash)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>BSides Nashville returns in April 2, 2022 - Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more. info@bsidesnash.org</li>
 </ul>
 </td></tr>
@@ -797,7 +804,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li><i>Protected</i></li>
 <li>Hacking with @elttam and @thegooniesctf</li>
 </ul>
 </td></tr>
@@ -1119,10 +1126,10 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/pwnpnw"><img src="https://pbs.twimg.com/profile_images/1282765760620720128/w7kXpTqh_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwnpnw">@pwnpnw</a> (mcgyver)</b><br />
+<b><a href="https://twitter.com/pwnpnw">@pwnpnw</a> (Eric McIntyre)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li></li>
+<li>Director Hacker Operations Center @RandoriSecurity</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/g0tmi1k"><img src="https://pbs.twimg.com/profile_images/1221846479/logo__small_2__200x200.jpg"></a></td><td>
@@ -1371,7 +1378,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Linux Evangelist, Malwares , Kernel Dev , Security Enthusiast , liberation, sarcasm. Jain, meditation & philanthropist .
 binitamshah at protonmail com</li>
 </ul>
@@ -1407,14 +1414,14 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/alexlevinson"><img src="https://pbs.twimg.com/profile_images/804201044192305152/TdBgIzBB_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/alexlevinson">@alexlevinson</a> (Alex Levinson)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Head of Security @Scale_AI. Former Red Team @Uber, @Lares_, @Zynga. Keeper of Keys @CCDCRedTeam and @nationalCPTC. Author of GSCRIPT. #InfoSec #RedTeam #Golang</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
@@ -1685,7 +1692,7 @@ BLM</li>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
 </ul>
 </td></tr>
@@ -1900,7 +1907,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Expert misplacer of things. Humble engineering leader helping teams collaborate and ship. Former VP Eng turned exec tech consultant http://lauratacho.com</li>
 </ul>
 </td></tr>
@@ -1928,7 +1935,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/vcoisne"><img src="https://pbs.twimg.com/profile_images/1217958037656227840/To56Am9x_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/vcoisne">@vcoisne</a> (Victor Coisne)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Building the next generation of CMS at @strapijs #HeadlessCMS #JAMstack. Prev. Community  @docker 
 
 French, Wine lover. Soccer Fan.</li>
