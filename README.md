@@ -1112,7 +1112,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <b><a href="https://twitter.com/hacks4pancakes">@hacks4pancakes</a> (Lesley Carhart)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>ICS DFIR @dragosinc, martial artist, gamer, marksman, humanist, Lvl14 Neutral Good rogue. I tweet *very serious* things about infosec. Thoughts mine. She/they.</li>
+<li>ICS DFIR @dragosinc, martial artist, marksman, humanist, Lvl14 Neutral Good rogue, USAF Ret. Tweets *very serious* things about infosec. Thoughts mine. They/she</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/pwnpnw"><img src="https://pbs.twimg.com/profile_images/1282765760620720128/w7kXpTqh_200x200.jpg"></a></td><td>
@@ -1196,7 +1196,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/sethlaw"><img src="https://pbs.twimg.com/profile_images/1284151225122844674/V060BAPe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sethlaw">@sethlaw</a> (SeThLaW)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>appsec, mobile, hack, fix, rinse, repeat. Co-host of @absoluteappsec, founder of @redpointsec.</li>
 </ul>
 </td></tr>
@@ -1502,7 +1502,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1028541105292230656/rpbWWlQL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (Samy Kamkar)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | @openpathsec</li>
 </ul>
 </td></tr>
@@ -1555,7 +1555,7 @@ he/him or they/them</li>
 <li>Kerberoast Guy • @RedSiege CEO • SANS 560 Author, Senior Instructor • Hater of Pants • Packer co-owner with @matt0177 • Work Req: http://redsiege.com/#contact</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/_MG_"><img src="https://pbs.twimg.com/profile_images/1415027319031226369/PXVorBQB_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/_MG_"><img src="https://pbs.twimg.com/profile_images/1467239890072981505/w4tk9fPw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_MG_">@_MG_</a> (_MG_)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1988,7 +1988,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/AshlynnPolini"><img src="https://pbs.twimg.com/profile_images/886987063442128896/AWeNaanD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AshlynnPolini">@AshlynnPolini</a> (Ashlynn Polini Pericacho)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Building dope experiences at @oktetohq- -previously @dockercon, @netlify @jamstackconf</li>
 </ul>
 </td></tr>
@@ -2023,7 +2023,7 @@ Our profession is built on relationships.
 Proudly sharing content my team creates</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1466511054331129866/NYtWdFx5_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1467286497686691843/9wEl0E5r_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ewindisch">@ewindisch</a> (erica windisch 🏳️‍🌈☁️👩🏻‍💻)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -2054,7 +2054,7 @@ Proudly sharing content my team creates</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
