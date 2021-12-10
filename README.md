@@ -349,7 +349,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/PvJRedCell"><img src="https://pbs.twimg.com/profile_images/889494625320390657/mMWTHJ9c_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/PvJRedCell">@PvJRedCell</a> (PvJRedCell)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -393,7 +393,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Re4sonKernel">@Re4sonKernel</a> (Re4son Kernel)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Kindness is cool</li>
 </ul>
 </td></tr>
@@ -477,10 +477,17 @@ See you at DC29!</li>
 <li>@SANSInstitute Instructor/author, @RedTeamVillage_ organizer, @DerpConInfosec founder, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>pop shells not alert() | "If you don’t think you are a newb, you’re not trying hard enough" - @hdmoore</li>
 </ul>
 </td></tr>
@@ -615,7 +622,7 @@ Screaming at a compiler, somewhere.</li>
 <li>Pentester, researcher, developer, hunter, cat video enthusiast</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pry0cc"><img src="https://pbs.twimg.com/profile_images/1250431636526657547/h3zGSeiR_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pry0cc"><img src="https://pbs.twimg.com/profile_images/1469056813001805826/ltLVT4E8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pry0cc">@pry0cc</a> (pry // Ben Bidmead)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -690,7 +697,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/0xAshFox"><img src="https://pbs.twimg.com/profile_images/1248531140245204993/SfhW2Rn4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xAshFox">@0xAshFox</a> (AshF0x // Peer)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Just a guy trying to get into CyberSecurity. 
 Teaching myself with books and the internet 💻 #nahomie. I stream pretty often too.</li>
 </ul>
@@ -860,7 +867,7 @@ Conference - Oct 1, 2022</li>
 <tr><td><a href="https://twitter.com/harmj0y"><img src="https://pbs.twimg.com/profile_images/793682606814400512/-g84gQSC_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/harmj0y">@harmj0y</a> (Will Schroeder)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Technical architect @SpecterOps. Coding towards chaotic good. One time I broke forest trusts with @tifkin_</li>
 </ul>
 </td></tr>
@@ -1147,7 +1154,7 @@ https://www.alteredsecurity.com/</li>
 <tr><td><a href="https://twitter.com/jessploit"><img src="https://pbs.twimg.com/profile_images/1063620918415548427/6yXsU7Np_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessploit">@jessploit</a> (Jessica)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>___ team, black dress, she/her</li>
 </ul>
 </td></tr>
@@ -1189,7 +1196,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/NationalCCDC"><img src="https://pbs.twimg.com/profile_images/1376575565067599877/t-Dwvz_v_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/NationalCCDC">@NationalCCDC</a> (National CCDC)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Where education meets operation</li>
 </ul>
 </td></tr>
@@ -1268,7 +1275,7 @@ Founding Team @RandoriAttack</li>
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1416548353400348676/MtZXH2_z_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer丨Cobalt Strike Tech Director丨Author of Red Team Development and Operations http://redteam.guide 丨Don't let perfect be the enemy of good</li>
 </ul>
 </td></tr>
@@ -1690,7 +1697,7 @@ BLM</li>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
 </ul>
 </td></tr>
@@ -1698,7 +1705,7 @@ BLM</li>
 <b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Sometimes I do computer stuff so complicated that I can't explain it to my parents. European citizen in the UK. Opinions are my own.</li>
+<li>Software Engineer, European citizen in the UK. Opinions are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kbajza13"><img src="https://pbs.twimg.com/profile_images/1397306755370020864/GvE6VMIi_200x200.jpg"></a></td><td>
@@ -1817,7 +1824,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/TheBurce"><img src="https://pbs.twimg.com/profile_images/3608800919/127fddf9d75fb953be523680f595d43b_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/TheBurce">@TheBurce</a> (Jenny Burcio)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -1890,7 +1897,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/jessfraz"><img src="https://pbs.twimg.com/profile_images/1465855910253789184/YRYiSu77_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessfraz">@jessfraz</a> (Jessie Frazelle)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>👩🏻‍💻 @oxidecomputer, 📝 @ACMQueue, 👩🏻‍🔬 @KittyCADInc</li>
 </ul>
 </td></tr>
@@ -1911,7 +1918,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/rhein_wein"><img src="https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rhein_wein">@rhein_wein</a> (Laura Tacho 🌮)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Expert misplacer of things. Humble engineering leader helping teams collaborate and ship. Former VP Eng turned exec tech consultant http://lauratacho.com</li>
 </ul>
 </td></tr>
@@ -1976,7 +1983,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/michellenoorali"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/michellenoorali">@michellenoorali</a> (Michelle Noorali)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Software Engineer \\ Making distributed systems digestible \\ @helmpack @draftcreate @cnab_spec @smi_spec @openservicemesh \\ opinions my own</li>
 </ul>
 </td></tr>
@@ -2056,7 +2063,7 @@ Proudly sharing content my team creates</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
