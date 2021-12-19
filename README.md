@@ -499,11 +499,11 @@ Screaming at a compiler, somewhere.</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1471851720900636678/FjLkFrMb_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwn (미치))</b><br />
+<tr><td><a href="https://twitter.com/MalwareExploit"><img src="https://pbs.twimg.com/profile_images/1472180617919881226/UPWCe3Cv_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/MalwareExploit">@MalwareExploit</a> (pwn)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Technical Customer Support @hackthebox_eu | eJPT | OSCP Student | @AlphaPwners Member | @Hackthebox_au Organiser</li>
+<li>Technical Customer Support @HackTheBox_eu | OSCP Student</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -845,6 +845,13 @@ Conference - Oct 1, 2022</li>
 <ul>
 <li>Last Tweet: November</li>
 <li>Vulnerable by Design</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/Evil_Mog"><img src="https://pbs.twimg.com/profile_images/1367712710817837056/3_0Xj7NM_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/Evil_Mog">@Evil_Mog</a> (EvilMog)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>X-Force Red Hacker, Team Hashcat, Bishop of the Church of Wifi, THOTCON Gold Badged, Derbycon, DEFCON, & SkyDogCON Black Badged. Views != Employers</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/HackSysTeam"><img src="https://pbs.twimg.com/profile_images/2650360783/29d04d32f96fbfcee08bb665379053c8_200x200.png"></a></td><td>
@@ -1430,7 +1437,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/dc404"><img src="https://pbs.twimg.com/profile_images/1241047490033602561/s2g3dviU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/dc404">@dc404</a> (dc404)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>🌐 Atlanta's DefCon Group
 📍~Manuel's Tavern~ Big Blue Button
 📅 Third Saturday
@@ -1499,7 +1506,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1028541105292230656/rpbWWlQL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (samy kamkar)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | @openpathsec</li>
 </ul>
 </td></tr>
