@@ -18,7 +18,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/PvJBlueTeam"><img src="https://pbs.twimg.com/profile_images/1394073474180816900/7S7qvr4q_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/PvJBlueTeam">@PvJBlueTeam</a> (PvJBlueTeam)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>All the blue things for the PvJ Crew #PvJCTF
 Instagram @pvjblueteam</li>
 </ul>
@@ -591,6 +591,13 @@ Screaming at a compiler, somewhere.</li>
 <li>noobiest of the noobs | content creator | AppSec @Bugcrowd | she/her | personal account</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/LiveOverflow"><img src="https://pbs.twimg.com/profile_images/804126168869961728/KNGXVh_6_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/LiveOverflow">@LiveOverflow</a> (LiveOverflow 🔴)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>wannabe hacker... he/him</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/n00py1"><img src="https://pbs.twimg.com/profile_images/1232572477252833281/exZaCuz4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/n00py1">@n00py1</a> (n00py)</b><br />
 <ul>
@@ -659,7 +666,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato
 <tr><td><a href="https://twitter.com/maddiestone"><img src="https://pbs.twimg.com/profile_images/1120335305549152260/pRCcZqJm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/maddiestone">@maddiestone</a> (Maddie Stone)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Researcher - Google Project Zero | Reverse engineering is my favorite. Love all things bytes, assembly, and glitter. My opinions are my own. she/her.</li>
 </ul>
 </td></tr>
@@ -695,7 +702,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/Infosecjen"><img src="https://pbs.twimg.com/profile_images/1473981378106691595/0DF52URp_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosecjen">@Infosecjen</a> (Guv'nah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
@@ -1026,11 +1033,11 @@ Tweets are my own and not the views of my employer</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Exe_Decision"><img src="https://pbs.twimg.com/profile_images/1474107532373159936/EaQVFAHR_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/Exe_Decision">@Exe_Decision</a> (∆∆∆)</b><br />
+<tr><td><a href="https://twitter.com/Exe_Decision"><img src="https://pbs.twimg.com/profile_images/1474439143551684608/chcFxMTU_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/Exe_Decision">@Exe_Decision</a> (Elias Grodin)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>👹</li>
+<li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1424169836779909120/3TG1YyTQ_200x200.jpg"></a></td><td>
@@ -1295,7 +1302,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
@@ -1790,7 +1797,7 @@ Thoughts are my own.</li>
 <li>#Docker helps developers bring their ideas to life by conquering the complexity of app development.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1448351204019376129/wMcLV78D_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1474292876540465154/VBBpabym_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nass - nassyweazy.eth)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -2095,7 +2102,7 @@ Proudly sharing content my team creates</li>
 <tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>VP Product @snyksec. @openpolicyagent Conftest maintainer. Developer, designer, product. Open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
 </ul>
 </td></tr>
