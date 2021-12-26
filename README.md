@@ -165,8 +165,8 @@ Into: volunteering, security, food, traveling, books and videogames | (she/her) 
 <li>Security researcher focused on authentication & identity 🇦🇷🇪🇪. Impacket 🚀🌕.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/thecybermentor"><img src="https://pbs.twimg.com/profile_images/1344677586018951168/xHNwDJXR_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/thecybermentor">@thecybermentor</a> (Heath Adams)</b><br />
+<tr><td><a href="https://twitter.com/thecybermentor"><img src="https://pbs.twimg.com/profile_images/1474712818142400516/dH4E1f6N_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/thecybermentor">@thecybermentor</a> (Heath "Resting Grinch Face" Adams)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Husband | Vet | Founder @TCMSecurity | YouTuber | Professor | Disrupting the education industry via TCM Academy and #PNPT
@@ -573,7 +573,7 @@ Screaming at a compiler, somewhere.</li>
 <tr><td><a href="https://twitter.com/iDigitalFlame"><img src="https://pbs.twimg.com/profile_images/1359241790277246987/5LFR72rK_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/iDigitalFlame">@iDigitalFlame</a> (iDigitalFlame)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#RedTeam, #hacker, #programmer, #gamer and #gymrat. Conference junkie. #ProsVJoes Gold Team and #BSidesDE / #BSidesLV staff. Tweets are my own.</li>
 </ul>
 </td></tr>
@@ -2060,7 +2060,7 @@ Proudly sharing content my team creates</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
