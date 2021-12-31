@@ -293,7 +293,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/pretechst"><img src="https://pbs.twimg.com/profile_images/1268518173386702854/nAuVoEqc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pretechst">@pretechst</a> (Tom H)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Social/Tech/Gaming System Junkie. Likes Tech&SE&RPG&HipHop&Language&Psych&Hacks&Linux. Multiple BrainVMs installed. Opinions are all me.</li>
 </ul>
 </td></tr>
@@ -457,7 +457,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/notshenetworks">@notshenetworks</a> (shenetworks)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Struggling Network Engineer • shenetworks @ tiktok (she/her) Sometimes I tweet about tech • All tweets are my own and mostly satirical</li>
+<li>Struggling Network Engineer • shenetworks @ tiktok • Sometimes I tweet about tech • All tweets are my own and mostly satirical (She/Her)</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/minis_io"><img src="https://pbs.twimg.com/profile_images/983764998123028480/xVia91Rk_200x200.jpg"></a></td><td>
@@ -472,6 +472,13 @@ See you at DC29!</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>@SANSInstitute Instructor/author, @RedTeamVillage_ organizer, @DerpConInfosec founder, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: last week</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
@@ -509,7 +516,7 @@ Screaming at a compiler, somewhere.</li>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kafkaesqu3">@kafkaesqu3</a> (kafkaesque)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>the enemy knows the system</li>
 </ul>
 </td></tr>
@@ -552,7 +559,7 @@ Screaming at a compiler, somewhere.</li>
 <tr><td><a href="https://twitter.com/ArchStrike"><img src="https://pbs.twimg.com/profile_images/959433700059549697/Dnow967w_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ArchStrike">@ArchStrike</a> (ArchStrike)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li>Last Tweet: this week</li>
 <li>An Arch Linux repository for security professionals and enthusiasts done the Arch Way and optimized for i686, x86_64, ARMv6, ARMv7, and ARMv8.</li>
 </ul>
 </td></tr>
@@ -727,7 +734,7 @@ https://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -812,7 +819,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/TJ_Null"><img src="https://pbs.twimg.com/profile_images/1313642495008538634/FivVwx-P_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/TJ_Null">@TJ_Null</a> (Tony)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Community Manager for @offsectraining
 Moderator at http://netsecfocus.com. SANS Netwars Champion. Red Teamer in Disguise. @hacknotcrime Advocate. Opinions are my own.</li>
 </ul>
@@ -1301,7 +1308,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
@@ -1395,7 +1402,7 @@ binitamshah at protonmail com</li>
 <b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester 🐇)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>3133 y/o || Red Teamer and InfoSec Researcher || Research at https://blog.xpnsec.com || Targeted Ops at @TrustedSec ||</li>
+<li>UNC1194 member || Red Teamer and InfoSec Researcher || Research at http://blog.xpnsec.com || Targeted Ops at @TrustedSec ||</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1451321379400392713/fEhsZFlI_200x200.jpg"></a></td><td>
@@ -1547,7 +1554,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>🇲🇽 • Keyboards • Coffee • Drums • Archery • Woodwork • Army Vet - 15X • Self Hating Red Teamer • Golang • Legitimate Businesses Practice</li>
 </ul>
 </td></tr>
@@ -1568,7 +1575,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/taviso"><img src="https://pbs.twimg.com/profile_images/955203083054624769/MGg_NHLb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/taviso">@taviso</a> (Tavis Ormandy)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Vulnerability researcher at Google. This is a personal stream, opinions expressed are mine.</li>
 </ul>
 </td></tr>
@@ -1582,11 +1589,11 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/brimston3"><img src="https://pbs.twimg.com/profile_images/728436076/meatheadhelmet_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/brimston3">@brimston3</a> (matt)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Armchair architect × Agent of creativity &amp; humor × Future compatible × Sysadmin finding poetry in code × AGPLv3 enthusiast × Timezone believer × he/him</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/ijoshuadavis"><img src="https://pbs.twimg.com/profile_images/1032472483725623296/53tKlL_7_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/ijoshuadavis"><img src="https://pbs.twimg.com/profile_images/1476711196858462215/puIPSFd4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ijoshuadavis">@ijoshuadavis</a> (Joshua L. Davis)</b><br />
 <ul>
 <li>Last Tweet: March</li>
