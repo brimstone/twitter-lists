@@ -151,11 +151,10 @@ HTB: http://bit.ly/3lNUqQj</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/sylv3on_"><img src="https://pbs.twimg.com/profile_images/1481776247558578176/tjJzpdGj_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/sylv3on_">@sylv3on_</a> (Ash 🖤)</b><br />
+<b><a href="https://twitter.com/sylv3on_">@sylv3on_</a> (Ash✨)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Security Consultant @bishopfox 🦊💜 | @hacknotcrime advocate | 
-Into: volunteering, security, food, traveling, books and videogames | (she/her) 💕</li>
+<li>Security Consultant @bishopfox 🦊💜 | @hacknotcrime advocate | Into: volunteering, security, food, traveling, books and gaming | (she/her) 💕</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xdeaddood"><img src="https://pbs.twimg.com/profile_images/1172876675014627329/0HVo1tNP_200x200.jpg"></a></td><td>
@@ -474,13 +473,6 @@ See you at DC29!</li>
 <li>@SANSInstitute Instructor/author, @RedTeamVillage_ organizer, @DerpConInfosec founder, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: 2021</li>
-<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -741,13 +733,13 @@ https://redteamer.tips
 <li>Sentient one-liner grepping the Internet for signs of intelligence.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/_superhero1"><img src="https://pbs.twimg.com/profile_images/1478675130133925889/Hx8xCR6K_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/_superhero1">@_superhero1</a> (superhero1)</b><br />
+<tr><td><a href="https://twitter.com/_superhero1"><img src="https://pbs.twimg.com/profile_images/1482109355898155018/rMvJLfij_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/_superhero1">@_superhero1</a> (Sebastian Stohr)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>📺 http://rce.to/yt 🎥 http://rce.to/tw 📸 http://rce.to/ig 💬 http://rce.to/ds ☕ http://rce.to/kf 👕 http://rce.to/m
+<li>📺 http://rce.to/yt | 🎥 http://rce.to/tw | 📸 http://rce.to/ig | 💬 http://rce.to/ds | ☕ http://rce.to/kf | 👕 http://rce.to/se
 
-I create educational content on IT security, Capture the Flag & Bug Bounty #infosec</li>
+I create educational content on IT security, CTFs & Bug Bounty #infosec</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ropnop"><img src="https://pbs.twimg.com/profile_images/1017215550550880256/CglPvrog_200x200.jpg"></a></td><td>
@@ -816,8 +808,8 @@ VC @forgepointcap</li>
 <b><a href="https://twitter.com/TJ_Null">@TJ_Null</a> (Tony)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Community Manager for @offsectraining
-Moderator at http://netsecfocus.com. SANS Netwars Champion. Red Teamer in Disguise. @hacknotcrime Advocate. Opinions are my own.</li>
+<li>Community Manager for @offsectraining.
+Blog at https://netsecfocus.com. SANS Netwars Champion. Blue Teamer in Disguise.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/_r00k_"><img src="https://pbs.twimg.com/profile_images/1381663803717283841/2mUTa2oP_200x200.png"></a></td><td>
@@ -1071,7 +1063,7 @@ Tweets are my own and not the views of my employer</li>
 <li>Birmingham's grassroots Information Security conference</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1481264693587193860/DIqmfUIV_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1482071216882126856/V46mVOCk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/mzbat">@mzbat</a> (ialtag)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1233,7 +1225,7 @@ Founding Team @RandoriAttack @RandoriSecurity</li>
 <tr><td><a href="https://twitter.com/_deanwilliams"><img src="https://pbs.twimg.com/profile_images/862668069835034624/-D5kGVqb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#OSCP, #GWAPT, Application Developer, Database Administrator, Wannabe Snowboarder & Imposter Syndrome Sufferer.</li>
 </ul>
 </td></tr>
@@ -1265,7 +1257,7 @@ Founding Team @RandoriAttack @RandoriSecurity</li>
 <li>🐛🔥 • A http://http.ninja • Appsec Researcher • Pentester • works @MDSecLabs • Another Semicolon Fan • MoSpace plz donate 😍: https://uk.movember.com/mospace/14558674</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1471626750685765636/fKKCX5mH_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1482015175226048514/3Rtatm8e_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/HackingDave">@HackingDave</a> (Dave Kennedy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1376,7 +1368,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1335343271351099395/BkbgGWQX_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Sam Croley, http://keybase.io/chick3nman Austin based password cracker, researcher; Team @hashcat Member/Contributor; Hire me to crack passwords for your team!</li>
 </ul>
 </td></tr>
@@ -1384,7 +1376,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotheplanet)</b><br />
 <ul>
 <li>Last Tweet: 2021</li>
-<li>hacking the planet at https://www.ired.team buy me a vinyl at http://patreon.com/iredteam</li>
+<li>hacking the planet at http://ired.team buy me a vinyl via http://patreon.com/iredteam or Bitcoin address 3Bi5xgtwUU9BfMejW7PQwhoMFA19x8Q7yp</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
@@ -1558,7 +1550,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
-<li>Last Tweet: 2021</li>
+<li>Last Tweet: this week</li>
 <li>🇲🇽 • Keyboards • Coffee • Drums • Archery • Woodwork • Army Vet - 15X • Self Hating Red Teamer • Golang • Legitimate Businesses Practice</li>
 </ul>
 </td></tr>
@@ -2078,7 +2070,7 @@ Proudly sharing content my team creates</li>
 <b><a href="https://twitter.com/BretFisher">@BretFisher</a> (Bret Fisher)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Creator of #Docker Mastery & #Kubernetes Mastery👨‍🏫 #DevOps sysadmin🤓 #Docker Captain🐳 beach life🏖 Navy veteran⚓️ Stream weekly https://bret.live 🔴 he/him</li>
+<li>Creator of #Docker Mastery & #Kubernetes Mastery👨‍🏫 #DevOps sysadmin🤓 #Docker Captain🐳 beach life🏖 Navy veteran⚓️ Stream weekly http://bret.live 🔴 he/him</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
