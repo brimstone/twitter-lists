@@ -40,7 +40,7 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/rapiddns"><img src="https://pbs.twimg.com/profile_images/1243927320911466498/7dgbWFhH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rapiddns">@rapiddns</a> (rapiddns)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Bug Bounty Hunter.  #bugbountytips
 
 The http://rapiddns.io is a free, open and unlimited dns query tool. It makes easy to query subdomains or sites of the same IP.</li>
@@ -139,7 +139,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1371211167583113216/Qg8DXU97_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Red Team Village |  Join us on http://redteamvillage.io/discord . Check our next events at: http://redteamvillage.io</li>
 </ul>
 </td></tr>
@@ -150,7 +150,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <li>The official Twitter handle for Counter Hack’s pen test and cybersecurity consulting team. | Producers of #holidayhack and @kringlecon</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/sylv3on_"><img src="https://pbs.twimg.com/profile_images/1487198432938893320/3sTsdf41_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/sylv3on_"><img src="https://pbs.twimg.com/profile_images/1489260157506785288/_GXE8f8f_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sylv3on_">@sylv3on_</a> (Ash ♡)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -233,7 +233,7 @@ Luck - 10</li>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Dark)</b><br />
 <ul>
 <li>Last Tweet: January</li>
-<li>@realTryHackMe Content Director and Community Manager | Penetration Tester | ILG
+<li>Former @realTryHackMe Content Director and Community Manager | Penetration Tester
 jon@tryhackme.com, http://darkstar7471.com
 
 Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
@@ -359,7 +359,7 @@ https://medium.com/@B00Ms1ang</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1410263581204041731/JYvBammO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Hacking, Election Security and teaching STEAM! 🦄
 Founder, CEO
 http://GirlsWhoHack.com http://SecureOpenVote.com</li>
@@ -665,7 +665,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato
 <li>Security Researcher - Google Project Zero | Reverse engineering is my favorite. Love all things bytes, assembly, and glitter. My opinions are my own. she/her.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1371400450818342912/jvGBzFWz_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/rootkovska"><img src="https://pbs.twimg.com/profile_images/1489208350814490624/r9sE3UUT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/rootkovska">@rootkovska</a> (Joanna Rutkowska)</b><br />
 <ul>
 <li>Last Tweet: 2021</li>
@@ -743,7 +743,7 @@ https://redteamer.tips
 <tr><td><a href="https://twitter.com/_superhero1"><img src="https://pbs.twimg.com/profile_images/1482109355898155018/rMvJLfij_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_superhero1">@_superhero1</a> (Sebastian Stohr)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>📺 http://rce.to/yt | 🎥 http://rce.to/tw | 📸 http://rce.to/ig | 💬 http://rce.to/ds | ☕ http://rce.to/kf | 👕 http://rce.to/se
 
 I create educational content on IT security, CTFs & Bug Bounty #infosec</li>
@@ -776,7 +776,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/bsidesnash"><img src="https://pbs.twimg.com/profile_images/1212497460318343170/MWXdYaNY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bsidesnash">@bsidesnash</a> (bsidesnash)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>BSides Nashville returns in April 2, 2022 - Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more. info@bsidesnash.org</li>
 </ul>
 </td></tr>
@@ -974,7 +974,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/Oddvarmoe"><img src="https://pbs.twimg.com/profile_images/1086040634945761282/52YxArTk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Oddvarmoe">@Oddvarmoe</a> (Oddvar Moe)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Blogger | MVP | Speaker | Red teamer | Security researcher | Windows Security specialist | Total n00b and always learning
 
 Loves to share knowledge & inspire.</li>
@@ -1004,7 +1004,7 @@ Loves to share knowledge & inspire.</li>
 <tr><td><a href="https://twitter.com/netmux"><img src="https://pbs.twimg.com/profile_images/804157984997867520/2gYcPHT4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/netmux">@netmux</a> (Netmux)</b><br />
 <ul>
-<li>Last Tweet: 2021</li>
+<li>Last Tweet: this week</li>
 <li>Dad-Husband-Vet-Passwords
 Operator Handbook: http://amazon.com/dp/B085RR67H5
 Hash Crack: http://amazon.com/dp/1793458618</li>
@@ -1013,7 +1013,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1483078588144533517/tFBrikn__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Senior Solutions Architect @Hacker0x01 | Hacker | Reversing Binary in Wild | OSCE, SLAE64, OSCP, OSWP | OSEE coming soon… | Public Speaker | 👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -1071,7 +1071,7 @@ Tweets are my own and not the views of my employer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1488578729446154242/Z4kLV0RI_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/mzbat">@mzbat</a> (bat (Kimber’s version))</b><br />
+<b><a href="https://twitter.com/mzbat">@mzbat</a> (bat)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>⚔️ Hackerish ⚔️ | Overcommitted underachiever | she | PhD in Horribleness | #BLM | past #NASA & @Truss_Works & @18F | solivagant 🦇</li>
@@ -1080,7 +1080,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1385500216195829760/IGDWfWaz_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/itsC0rg1">@itsC0rg1</a> (Niru Ragupathy / itsc0rg1 🐶)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Foodie, anime fan, security engineer and gamer. My views are my own, do not reflect those of my past, present or future employers.</li>
 </ul>
 </td></tr>
@@ -1508,7 +1508,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/hdmoore"><img src="https://pbs.twimg.com/profile_images/1077956843790430208/WPHMpErd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hdmoore">@hdmoore</a> (HD Moore)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Black Lives Matter | Chairman & Founding CTO of Rumble Network Discovery (he/him)</li>
 </ul>
 </td></tr>
@@ -1724,7 +1724,7 @@ BLM</li>
 <tr><td><a href="https://twitter.com/neugebar"><img src="https://pbs.twimg.com/profile_images/674751035693506560/iRK0zefZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/neugebar">@neugebar</a> (Rolf Neugebauer)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Software Engineer, European citizen in the UK. Opinions are my own.</li>
 </ul>
 </td></tr>
@@ -1883,7 +1883,7 @@ I like computers & music.</li>
 <tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1397593304439562244/_MOLl7nW_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan 🦣)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>sr 👩‍💻🥑 @vmware #kubernetes #tanzu · @dekkagaijin ♡ · electrical eng @georgiatech · ex @amazon @intel @docker · opinions: mine</li>
 </ul>
 </td></tr>
@@ -1915,7 +1915,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/jessfraz"><img src="https://pbs.twimg.com/profile_images/1465855910253789184/YRYiSu77_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessfraz">@jessfraz</a> (Jessie Frazelle)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>👩🏻‍💻 @oxidecomputer, 📝 @ACMQueue, 👩🏻‍🔬 @KittyCADInc</li>
 </ul>
 </td></tr>
@@ -1957,7 +1957,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Engineering Culture Evangelist | Developer Experience Wrangler
 
 Chief Architect DevEx @ADP</li>
@@ -2047,9 +2047,8 @@ French, Wine lover. Soccer Fan.</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>#blacklivesmatter
-Google Cloud DevRel Manager
-Our profession is built on relationships.
-Proudly sharing content my team creates</li>
+Google DevRel Manager for internal platforms
+Our profession is built on relationships</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1485855731219894274/XTfpWgFu_200x200.jpg"></a></td><td>
