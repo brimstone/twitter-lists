@@ -84,7 +84,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/chompie1337"><img src="https://pbs.twimg.com/profile_images/1387118085358952449/Dl8crd3Q_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/chompie1337">@chompie1337</a> (chompie)</b><br />
+<b><a href="https://twitter.com/chompie1337">@chompie1337</a> (chompie @ offensivecon)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>content consumer; hacker; vr/exploit dev/offsec; lead security researcher @graplsec; she/her; english/español/italiano/学习中文</li>
@@ -473,13 +473,6 @@ See you at DC29!</li>
 <li>@SANSInstitute Instructor/author, @RedTeamVillage_ organizer, @DerpConInfosec founder, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: 2021</li>
-<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -502,7 +495,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1487581474115457026/v3pKay2T_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwninx">@pwninx</a> (Mitch)</b><br />
+<b><a href="https://twitter.com/pwninx">@pwninx</a> (pwninx)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>• Technical Customer Support @HackTheBox_eu • Road to OSCP</li>
@@ -575,7 +568,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/iDigitalFlame"><img src="https://pbs.twimg.com/profile_images/1359241790277246987/5LFR72rK_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/iDigitalFlame">@iDigitalFlame</a> (iDigitalFlame)</b><br />
 <ul>
-<li>Last Tweet: 2021</li>
+<li>Last Tweet: this week</li>
 <li>#RedTeam, #hacker, #programmer, #gamer and #gymrat. Conference junkie. #ProsVJoes Gold Team and #BSidesDE / #BSidesLV staff. Tweets are my own.</li>
 </ul>
 </td></tr>
@@ -1529,7 +1522,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1028541105292230656/rpbWWlQL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (samy kamkar)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | @openpathsec</li>
 </ul>
 </td></tr>
@@ -1718,7 +1711,7 @@ BLM</li>
 <b><a href="https://twitter.com/alexellisuk">@alexellisuk</a> (Alex Ellis)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Founder @openfaas + @inletsdev. CNCF Ambassador</li>
+<li>Founder @openfaas + @inletsdev. CNCF Ambassador. 💻🪚✍️</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
