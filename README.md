@@ -26,7 +26,7 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/ptswarm"><img src="https://pbs.twimg.com/profile_images/1280533914352857092/jdiJ_BkE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/ptswarm">@ptswarm</a> (PT SWARM)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Positive Technologies Offensive Team</li>
 </ul>
 </td></tr>
@@ -335,7 +335,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/B00M_s1ang">@B00M_s1ang</a> (B00M#s1ang🐍)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>-Beaky Snake Geek-  Pen Tester | Bug Hunter | Certified Cyberpunk Lame-O...  Art by @majorashby  Banner by @mooexe
 https://medium.com/@B00Ms1ang</li>
 </ul>
@@ -502,7 +502,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1491306966815494145/FindqDyk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (Mitch)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Technical Customer Support @HackTheBox_eu | eJPT</li>
 </ul>
 </td></tr>
@@ -530,7 +530,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Op_nomad"><img src="https://pbs.twimg.com/profile_images/956785310016434176/EnEq4Czb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Op_nomad">@Op_nomad</a> (D.Snezhkov)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: January</li>
 <li>“Countless words count less than the silent balance between yin and yang”  ― Lao Tzu, Tao Te Ching
 ☯ (That's before Lao discovered Twitter)</li>
 </ul>
@@ -685,7 +685,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ViGreyTech"><img src="https://pbs.twimg.com/profile_images/1452900920405250049/yub3P2Vn_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey 🌗)</b><br />
+<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey 🌘)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>#NES #GB Homebrew Game Developer | Engineering + Research @VG_Interactive | @GreyBadge | Retro Computing | Polyglot File Creator | http://vigrey.com | nb | #nes</li>
@@ -767,7 +767,7 @@ I create educational content on IT security, CTFs & Bug Bounty #infosec</li>
 <b><a href="https://twitter.com/codingo_">@codingo_</a> (Michael Skelton)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Senior Director of Security Operations @bugcrowd, Security Content @ http://youtube.com/codingo, @secTalks_GC co-organiser</li>
+<li>Senior Director of Security Operations @bugcrowd, Security Content @ http://youtube.com/codingo, @SecTalks_GC co-organiser</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BSidesHSV"><img src="https://pbs.twimg.com/profile_images/438732038019903488/bbN1cvTm_200x200.jpeg"></a></td><td>
@@ -923,7 +923,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/MrUn1k0d3r"><img src="https://pbs.twimg.com/profile_images/1191478690678525954/vwWQC76f_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MrUn1k0d3r">@MrUn1k0d3r</a> (Mr.Un1k0d3r)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I don't know how to search on Google so I do research on my own and tweet about it. Hacking as a life style</li>
 </ul>
 </td></tr>
@@ -1108,7 +1108,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/AletheDenis"><img src="https://pbs.twimg.com/profile_images/1492670397304631297/zq_jvff__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AletheDenis">@AletheDenis</a> (ᗩᒪETᕼE)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: January</li>
 <li>Uh-Lee-th | Sr. Consultant @detectrespond | #BlackBadge @DefCon @tracelabs | @defcon209 | @InnocentOrg Ambassador | Followed by @ladygaga Yes, Really</li>
 </ul>
 </td></tr>
@@ -1145,7 +1145,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/pwnpnw"><img src="https://pbs.twimg.com/profile_images/1282765760620720128/w7kXpTqh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnpnw">@pwnpnw</a> (Eric McIntyre)</b><br />
 <ul>
-<li>Last Tweet: 2021</li>
+<li>Last Tweet: this week</li>
 <li>VP Hacker Operations @RandoriSecurity</li>
 </ul>
 </td></tr>
@@ -1159,7 +1159,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/nikhil_mitt"><img src="https://pbs.twimg.com/profile_images/1269208309845749761/h4nXF1u__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nikhil_mitt">@nikhil_mitt</a> (Nikhil Mittal)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, Infosec Researcher, Military Affairs & History, PowerShell, AD and Azure AD pwner, Creator of Nishang and others :)
 Founder @alteredsecurity</li>
 </ul>
@@ -1477,7 +1477,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/_decius_"><img src="https://pbs.twimg.com/profile_images/578577491935145985/Mvg9hVk6_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/_decius_">@_decius_</a> (Tom Cross)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Complete liberty of contradicting and disproving our opinion, is the very condition which justifies us in assuming its truth for purposes of action. - Mill</li>
 </ul>
 </td></tr>
@@ -1634,7 +1634,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
@@ -1731,7 +1731,7 @@ BLM</li>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
 </ul>
 </td></tr>
@@ -1936,7 +1936,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/crosbymichael"><img src="https://pbs.twimg.com/profile_images/1307085699317932033/C-gr3QYc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/crosbymichael">@crosbymichael</a> (Michael Crosby)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Building things that help others build things #runc @containerd https://github.com/crosbymichael</li>
 </ul>
 </td></tr>
@@ -2015,9 +2015,9 @@ French, Wine lover. Soccer Fan.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/michellenoorali"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/michellenoorali">@michellenoorali</a> (Michelle Dhanani)</b><br />
+<b><a href="https://twitter.com/michellenoorali">@michellenoorali</a> (Michelle (Noorali) Dhanani)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Software Engineer @fermyontech \\ Making distributed systems digestible \\ Previously: @microsoft @opendeis @engineyard \\ opinions my own</li>
 </ul>
 </td></tr>
@@ -2031,7 +2031,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/AshlynnPolini"><img src="https://pbs.twimg.com/profile_images/886987063442128896/AWeNaanD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AshlynnPolini">@AshlynnPolini</a> (Ashlynn Polini Pericacho)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Building dope experiences at @oktetohq- -previously @dockercon, @netlify @jamstackconf</li>
 </ul>
 </td></tr>
