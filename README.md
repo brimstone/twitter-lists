@@ -50,7 +50,7 @@ The http://rapiddns.io is a free, open and unlimited dns query tool. It makes ea
 <b><a href="https://twitter.com/_rybaz">@_rybaz</a> (Ryan Basden)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Manager of Renegade Labs @risk3sixty</li>
+<li>The revolution will not be demonetized.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/hackerscrolls"><img src="https://pbs.twimg.com/profile_images/1242031002874249216/FuJbsLzq_200x200.jpg"></a></td><td>
@@ -183,7 +183,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>The proud owner of two brain cells.
-I hack stuff and occasionally stream it. 
+I like breaking stuff
 
 Cyber Security Consultant | HTB with WinBARs | OSCP, Pentest+</li>
 </ul>
@@ -394,7 +394,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Re4sonKernel">@Re4sonKernel</a> (Re4son Kernel)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Kindness is cool</li>
 </ul>
 </td></tr>
@@ -503,7 +503,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (Mitch)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Technical Customer Support @HackTheBox_eu | eJPT</li>
+<li>Employee @HackTheBox_eu | eJPT & Studying OSCP</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -1108,7 +1108,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/AletheDenis"><img src="https://pbs.twimg.com/profile_images/1492670397304631297/zq_jvff__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AletheDenis">@AletheDenis</a> (ᗩᒪETᕼE)</b><br />
 <ul>
-<li>Last Tweet: 2020</li>
+<li><i>Protected</i></li>
 <li>Uh-Lee-th | Sr. Consultant at Critical Insight @detectrespond | #BlackBadge from @DefCon & @tracelabs | Future Cat Lady | Followed by @ladygaga - Yes, Really</li>
 </ul>
 </td></tr>
@@ -1279,7 +1279,7 @@ Founding Team @RandoriAttack @RandoriSecurity</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/MarcOverIP"><img src="https://pbs.twimg.com/profile_images/378800000195757182/0ef10dc351f1a1dfe669e1a4544f8c63_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/MarcOverIP">@MarcOverIP</a> (Marc Smeets)</b><br />
+<b><a href="https://twitter.com/MarcOverIP">@MarcOverIP</a> (Marc Smeets 🌻🇺🇦)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Does a thing or two with security @OutflankNL | RedELK developer | Petrolhead | Champagne lover | Don't Panic | Try Harder</li>
@@ -1583,7 +1583,7 @@ he/him or they/them</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/TimMedin"><img src="https://pbs.twimg.com/profile_images/1245162673672765440/En3ryCpO_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/TimMedin">@TimMedin</a> (Tim Medin)</b><br />
+<b><a href="https://twitter.com/TimMedin">@TimMedin</a> (Tim Medin 🇺🇦🌻 #StandWithUkraine)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Kerberoast Guy • @RedSiege CEO • SANS 560 Author, Senior Instructor • Hater of Pants • Packer co-owner with @matt0177 • Work Req: http://redsiege.com/#contact</li>
@@ -1916,7 +1916,7 @@ I like computers & music.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BrandonPhilips"><img src="https://pbs.twimg.com/profile_images/1410082818055544833/SgPIzqGf_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips 💉💉💉🎉)</b><br />
+<b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Founder/CTO @CoreOS (acq. Red Hat 2018).
