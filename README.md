@@ -501,11 +501,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1491306966815494145/FindqDyk_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwninx">@pwninx</a> (ᴘᴡɴɪɴ𝟿)</b><br />
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1502187149353156608/4PXd_i84_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/pwninx">@pwninx</a> (ᴘᴡɴɪɴ9)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
-<li>Employee @HackTheBox_eu | eJPT & Studying OSCP</li>
+<li>Last Tweet: this week</li>
+<li>ᴛᴇᴄʜɴɪᴄᴀʟ ᴄᴜsᴛᴏᴍᴇʀ sᴜᴘᴘᴏʀᴛ @ ʜᴀᴄᴋᴛʜᴇʙᴏx // ʜᴀᴄᴋ'ɴ sɪɴᴄᴇ 𝟸𝟶𝟷𝟼</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -655,7 +655,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato
 <b><a href="https://twitter.com/_r_netsec">@_r_netsec</a> (/r/netsec)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Follow for new posts submitted to the netsec subreddit. Automated, unofficial.</li>
+<li>Follow for new posts submitted to the netsec subreddit. Unofficial.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Infoseclabs"><img src="https://pbs.twimg.com/profile_images/631967490264858624/431pYT1P_200x200.jpg"></a></td><td>
@@ -948,7 +948,7 @@ TH/DFIR/RCE/Research+Wagyu/Katsu+puns/facetious. priv expat/travel blog @pickie_
 <tr><td><a href="https://twitter.com/badsectorlabs"><img src="https://pbs.twimg.com/profile_images/961624727814135810/LWtbHAAD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/badsectorlabs">@badsectorlabs</a> (Bad Sector Labs)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Weekly Cybersecurity news, techniques, exploits, and tools every Monday at http://blog.badsectorlabs.com</li>
 </ul>
 </td></tr>
@@ -1455,7 +1455,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
@@ -1539,7 +1539,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (samy kamkar)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>think bad, do good. | http://samy.pl | @openpathsec</li>
+<li>think bad, do good. | http://samy.pl | cofounder @openpathsec</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/TheColonial"><img src="https://pbs.twimg.com/profile_images/1479950341617553409/B6veX5zn_200x200.jpg"></a></td><td>
@@ -1580,7 +1580,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>🇲🇽 • Keyboards • Coffee • Drums • Archery • Woodwork • Army Vet - 15X • Self Hating Red Teamer • Golang • Legitimate Businesses Practice</li>
 </ul>
 </td></tr>
@@ -1804,7 +1804,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/laurelcomics"><img src="https://pbs.twimg.com/profile_images/422324760165359616/k5iuymHv_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/laurelcomics">@laurelcomics</a> (Laurel)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Comic book artist, working for @Docker</li>
 </ul>
 </td></tr>
@@ -2005,7 +2005,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/estesp"><img src="https://pbs.twimg.com/profile_images/1458063503756087302/AiEnhvbZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/estesp">@estesp</a> (estesp.utun3)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Principal Engineer for @AWS, #CNCF Ambassador, @containerd OSS maintainer, @OCI_ORG TOB chair, ex-@IBMCloud, father, husband, worship leader/guitarist, cyclist</li>
 </ul>
 </td></tr>
