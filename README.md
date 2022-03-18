@@ -141,7 +141,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1371211167583113216/Qg8DXU97_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Red Team Village |  Join us on http://redteamvillage.io/discord . Check our next events at: http://redteamvillage.io</li>
 </ul>
 </td></tr>
@@ -239,7 +239,7 @@ Luck - 10</li>
 <tr><td><a href="https://twitter.com/darkstar7471"><img src="https://pbs.twimg.com/profile_images/1165408845759438848/Q7mIhY-n_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Dark)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Former @realTryHackMe Content Director and Community Manager | Pentester
 darkstar7471@pm.me, http://darkstar7471.com
 
@@ -476,7 +476,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/pwnEIP"><img src="https://pbs.twimg.com/profile_images/1468297623186645002/9tmyN6v4_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnEIP">@pwnEIP</a> (pwneip)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
@@ -687,7 +687,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ViGreyTech"><img src="https://pbs.twimg.com/profile_images/1452900920405250049/yub3P2Vn_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey 🌔)</b><br />
+<b><a href="https://twitter.com/ViGreyTech">@ViGreyTech</a> (Vi Grey 🌕)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>#NES #GB Homebrew Game Developer | Engineering + Research @VG_Interactive | @GreyBadge | Retro Computing | Polyglot File Creator | http://vigrey.com | nb | #nes</li>
@@ -736,7 +736,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -1501,7 +1501,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/lordsaibat"><img src="https://pbs.twimg.com/profile_images/1270295688912547841/80ibgOKU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lordsaibat">@lordsaibat</a> (lordsaibat)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Deputy Ciso, I broke stuff before (pentester), I automate builds (terraform), and I try to help move the industry. Friend to all. SANS MSISE Grad. @Novahackers</li>
 </ul>
 </td></tr>
@@ -1524,7 +1524,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/carnal0wnage"><img src="https://pbs.twimg.com/profile_images/1102419012192034816/YxYs1bTt_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/carnal0wnage">@carnal0wnage</a> (Chris Gates)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Circumstances do not determine state of being. State of being determines your circumstances. Tweets are my own not my employer. red/purple teaming, some DFIR</li>
 </ul>
 </td></tr>
@@ -1595,7 +1595,7 @@ he/him or they/them</li>
 <b><a href="https://twitter.com/TimMedin">@TimMedin</a> (Tim Medin 🇺🇦🌻 #StandWithUkraine)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Kerberoast Guy • @RedSiege CEO • SANS 560 Author, Senior Instructor • Hater of Pants • Packer co-owner with @matt0177 • Work Req: http://redsiege.com/#contact</li>
+<li>Kerberoast Guy • @RedSiege CEO • SANS 560 Author, Senior Instructor • Hater of Pants • Packers owner • Work Req: http://redsiege.com/#contact</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/HackingLZ"><img src="https://pbs.twimg.com/profile_images/1345887738910932996/Ittp4LXf_200x200.jpg"></a></td><td>
@@ -1678,7 +1678,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/kh4st3x"><img src="https://pbs.twimg.com/profile_images/921602831823536129/ri5EBAMa_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kh4st3x">@kh4st3x</a> (khast3x 📡)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Research in #Infosec and #OSINT - Password Necromancer - Already following you with a bot</li>
 </ul>
 </td></tr>
@@ -1720,7 +1720,7 @@ Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</l
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/1479168180945752067/qQqxzFhs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie B. Howard)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>why have a bad day when you can have a great one ☀️
 
 eng @Tango_HQ, ex-@Anchorage, @Docker
@@ -1797,7 +1797,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1437732608062988288/4PcJe3nc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Manager, Engineering @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/his)</li>
 </ul>
 </td></tr>
@@ -1860,7 +1860,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Quintus23M"><img src="https://pbs.twimg.com/profile_images/449878853008121857/vB8ftpRd_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/Quintus23M">@Quintus23M</a> (Dieter Reuter)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>All about Kubernetes Container Security @NeuVector at @SUSE @Rancher_Labs, retired #DockerCaptain 🐳 & Docker Pirate @HypriotTweets (views are my own)</li>
 </ul>
 </td></tr>
@@ -1888,7 +1888,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1400640407818563585/cP8dWOW9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DerkTheDaring">@DerkTheDaring</a> (Derek Parker)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Engineering the Software. 
 
 Alumni of @RedHat, @coreos, @hashrocket. 
@@ -1938,7 +1938,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/jessfraz"><img src="https://pbs.twimg.com/profile_images/1465855910253789184/YRYiSu77_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessfraz">@jessfraz</a> (Jessie Frazelle)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>👩🏻‍💻 @oxidecomputer, 📝 @ACMQueue, 👩🏻‍🔬 @KittyCADInc</li>
 </ul>
 </td></tr>
@@ -2084,7 +2084,7 @@ Our profession is built on relationships</li>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>http://replicate.com / http://arxiv-vanity.com / previously: @docker, @guardian, @govuk</li>
 </ul>
 </td></tr>
@@ -2119,7 +2119,7 @@ Our profession is built on relationships</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure, devops, and security geek. Heading up product growth @blubracket. My views are my own, retweets≠endorsement, and all that.</li>
 </ul>
 </td></tr>
