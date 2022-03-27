@@ -96,7 +96,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <b><a href="https://twitter.com/lazzslayer">@lazzslayer</a> (lazzslayer)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Senior Security Consultant | HTB Ambassador | Co-Lead for Red Team Village | OSCP</li>
+<li>Senior Security Consultant | @hackthebox_eu Ambassador | Co-Lead for @redteamvillage_ | OSCP</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/SecSkittles"><img src="https://pbs.twimg.com/profile_images/1261069769102422016/qhC3a1Q-_200x200.jpg"></a></td><td>
@@ -611,7 +611,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/0xdade">@0xdade</a> (dade)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>I rap computers and make hack music. he/him</li>
+<li>Seasonal Influencer. he/him</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/fullmetalcache"><img src="https://pbs.twimg.com/profile_images/786509611020980224/fIWXyWIC_200x200.jpg"></a></td><td>
@@ -894,7 +894,7 @@ Conference - Oct 1, 2022</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/FuzzySec"><img src="https://pbs.twimg.com/profile_images/1412506430154973188/sDUrfZFm_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/FuzzySec">@FuzzySec</a> (b33f 🇺🇦✊)</b><br />
+<b><a href="https://twitter.com/FuzzySec">@FuzzySec</a> (b33f | 🇺🇦✊)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>意志 / Antiquarian @ IBM Adversary Simulation / Ex-TORE ⚔️🦅 / Undocumented / I rewrite pointers and read memory / Tempora mutantur, nos et mutamur in illis</li>
@@ -1137,7 +1137,7 @@ Tweets are my own and not the views of my employer</li>
 http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hacks4pancakes"><img src="https://pbs.twimg.com/profile_images/1494360389051691014/zNi24xVz_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hacks4pancakes"><img src="https://pbs.twimg.com/profile_images/1507745204043976710/zNZ4krmz_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hacks4pancakes">@hacks4pancakes</a> (Lesley Carhart)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1278,11 +1278,11 @@ Founding Team @RandoriAttack @RandoriSecurity</li>
 <li>Knowledge is power. France is bacon.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/irsdl"><img src="https://pbs.twimg.com/profile_images/1347633681800843264/CD5j1IDs_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/irsdl"><img src="https://pbs.twimg.com/profile_images/1507871051107155974/H5ReuvZ6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/irsdl">@irsdl</a> (Soroush Dalili)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>🐛🔥 • A http://http.ninja • Appsec Researcher • Pentester • works @MDSecLabs • Another Semicolon Fan • MoSpace plz donate 😍: https://uk.movember.com/mospace/14558674</li>
+<li>🐛🔥er • A http://http.ninja • Appsec Researcher • Pentester • works @MDSecLabs • Another Semicolon Fan</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/MarcOverIP"><img src="https://pbs.twimg.com/profile_images/378800000195757182/0ef10dc351f1a1dfe669e1a4544f8c63_200x200.png"></a></td><td>
@@ -1434,6 +1434,13 @@ binitamshah at protonmail com</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>With Rapid7 technology, services, and research, organizations around the globe can break down barriers, accelerate innovation, and securely advance.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/domchell"><img src="https://pbs.twimg.com/profile_images/1491096271238713350/zCwvFLeN_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/domchell">@domchell</a> (Dominic Chell)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Just your friendly neighbourhood red teamer @MDSecLabs | Creator of /r/redteamsec | http://mdsec.co.uk | http://nighthawkc2.io</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/_xpn_"><img src="https://pbs.twimg.com/profile_images/1439227722836889600/TPOb0znv_200x200.jpg"></a></td><td>
@@ -1637,7 +1644,7 @@ I speak only for myself.</li>
 <tr><td><a href="https://twitter.com/brimston3"><img src="https://pbs.twimg.com/profile_images/728436076/meatheadhelmet_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/brimston3">@brimston3</a> (matt)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Armchair architect × Agent of creativity &amp; humor × Future compatible × Sysadmin finding poetry in code × AGPLv3 enthusiast × Timezone believer × he/him</li>
 </ul>
 </td></tr>
@@ -1651,7 +1658,7 @@ I speak only for myself.</li>
 <tr><td><a href="https://twitter.com/jamesbower"><img src="https://pbs.twimg.com/profile_images/1031650832662634498/8oioAi0Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security Data Science | Threat Intelligence | Threat Research | CTF Creator | Follower of Christ</li>
 </ul>
 </td></tr>
