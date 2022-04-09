@@ -163,7 +163,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <b><a href="https://twitter.com/sylv3on_">@sylv3on_</a> (Ash ♡)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Security Consultant @bishopfox 🦊💜 | @hacknotcrime advocate | security, food, traveling, books, gaming | Opinions my own | (she/her) |👩🏻‍💻✨</li>
+<li>Security Consultant @bishopfox 🦊💜| 💟@dianainitiative | @hacknotcrime advocate | security, food, traveling, books, gaming | Opinions my own | 👩🏻‍💻✨</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xdeaddood"><img src="https://pbs.twimg.com/profile_images/1172876675014627329/0HVo1tNP_200x200.jpg"></a></td><td>
@@ -292,7 +292,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/_dirkjan"><img src="https://pbs.twimg.com/profile_images/941026484130545664/J8QlOYL8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_dirkjan">@_dirkjan</a> (Dirk-jan)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker at @OutsiderSec. Researches AD and Azure (AD) security. Likes to play around with Python and write tools that make work easier.</li>
 </ul>
 </td></tr>
@@ -575,7 +575,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/CoreAdvisories"><img src="https://pbs.twimg.com/profile_images/1388152509148041216/SCaXj20m_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/CoreAdvisories">@CoreAdvisories</a> (CoreLabs Research)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>@CoreSecurity and Cobalt Strike's CoreLabs Research team is dedicated to researching and anticipating future security trends. Follow for technical updates.</li>
 </ul>
 </td></tr>
@@ -722,7 +722,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <li>Offensive Security Unicorn. Interested in Security, Malware, Reverse Engineering, and Fashion. DEFCON. My thoughts are my own. Shitposter.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1490257099972317187/5_g_395C_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/Jean_Maes_1994"><img src="https://pbs.twimg.com/profile_images/1512475198884302852/dL-pauV1_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1058,7 +1058,7 @@ Tweets are my own and not the views of my employer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1501629233331728384/gly53kIx_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie speaking at APISecure)</b><br />
+<b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie speaking at @HathCon)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Tech Evangelist @cycognito | Pentester |🎙 @ITSPmagazine Podcaster 🎙| @schoolpwn & @dcg940 Founder | @pentesterblue coauthor | @tribeofhackers contributor</li>
@@ -1348,7 +1348,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <b><a href="https://twitter.com/CryptoGangsta">@CryptoGangsta</a> (Parsia)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Senior Security Engineer @EA. Mostly Harmless. 🇺🇸 in 🇨🇦. He/Him. I cosplay as a game hacker and I’d rather play videogames.</li>
+<li>Senior Security Engineer @EA. Mostly Harmless. 🇺🇸 in 🇨🇦. He/Him. I cosplay as a videogame hacker and I’d rather play games instead.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/1498415268552482826/GZeal-zJ_200x200.jpg"></a></td><td>
@@ -1489,7 +1489,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. Learn/mentor/contribute: https://metasploit.com/slack</li>
 </ul>
 </td></tr>
@@ -1911,7 +1911,9 @@ Thoughts are my own.</li>
 <b><a href="https://twitter.com/marcosnils">@marcosnils</a> (Marcos Nils)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Coder, problem solver, traveler and foodie. Often sometimes Twitter ranter. OSS ❤️. 🍔🍷⚽️⛵️🏋️🏂 and some 🕹️  🇦🇷</li>
+<li>dagger do all.
+
+@dagger_io</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1400640407818563585/cP8dWOW9_200x200.jpg"></a></td><td>
