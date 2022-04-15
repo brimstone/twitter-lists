@@ -23,6 +23,13 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 Instagram @pvjblueteam</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/mrd0x"><img src="https://pbs.twimg.com/profile_images/1477573096571912194/l5Ks1_zR_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/mrd0x">@mrd0x</a> (mr.d0x)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Security researcher | http://lots-project.com | http://malapi.io | http://filesec.io</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/ptswarm"><img src="https://pbs.twimg.com/profile_images/1280533914352857092/jdiJ_BkE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/ptswarm">@ptswarm</a> (PT SWARM)</b><br />
 <ul>
@@ -141,7 +148,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/RedTeamVillage_"><img src="https://pbs.twimg.com/profile_images/1371211167583113216/Qg8DXU97_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/RedTeamVillage_">@RedTeamVillage_</a> (RedTeamVillage)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Red Team Village |  Join us on http://redteamvillage.io/discord . Check our next events at: http://redteamvillage.io</li>
 </ul>
 </td></tr>
@@ -228,7 +235,7 @@ Cyber Security Consultant | HTB with WinBARs | OSCP, CPSA, Pentest+, AWS CCP</li
 <tr><td><a href="https://twitter.com/cpl3h"><img src="https://pbs.twimg.com/profile_images/1240826119995047937/CDgYAiv2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cpl3h">@cpl3h</a> (cpl)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Intelligence - 1
 Wisdom - 1
 Charisma - 1
@@ -438,7 +445,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/_batsec_"><img src="https://pbs.twimg.com/profile_images/1213607935609384962/6aCgz35U_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_batsec_">@_batsec_</a> (batsec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team @mdseclabs</li>
 </ul>
 </td></tr>
@@ -497,7 +504,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/the_bit_diddler"><img src="https://pbs.twimg.com/profile_images/1455656821851660300/zjgmG02T_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/the_bit_diddler">@the_bit_diddler</a> (sinusoid)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Aiming to be a better human.</li>
 </ul>
 </td></tr>
@@ -508,11 +515,13 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1511975725091663872/1loq88bV_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1514482105690226690/C_l1RikK_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (ᴘᴡɴ )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>ᴛᴇᴄʜɴɪᴄᴀʟ ᴄᴜsᴛᴏᴍᴇʀ sᴜᴘᴘᴏʀᴛ @ ʜᴀᴄᴋᴛʜᴇʙᴏx • ᴇᴊᴘᴛ</li>
+<li>ᴛᴇᴄʜɴɪᴄᴀʟ ᴄᴜsᴛᴏᴍᴇʀ sᴜᴘᴘᴏʀᴛ @ ʜᴀᴄᴋᴛʜᴇʙᴏx • ᴇᴊᴘᴛ
+
+✪ アニメ</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kafkaesqu3"><img src="https://pbs.twimg.com/profile_images/823617589293289472/qwuenR50_200x200.jpg"></a></td><td>
@@ -711,7 +720,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/Infosecjen"><img src="https://pbs.twimg.com/profile_images/1501208448763060237/wnnQEc6C_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosecjen">@Infosecjen</a> (Guv'nah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
@@ -726,8 +735,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <b><a href="https://twitter.com/Jean_Maes_1994">@Jean_Maes_1994</a> (Jean)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Cybersecurity researcher/
-I do cyber things @trustedsec and .../
+<li>I do cyber things @trustedsec / working on Cobalt Strike @helpsystemsmn /
 @sansoffensive SEC 699 instructor/SEC565 co- author/
 http://redteamer.tips
 #redteamfit</li>
@@ -738,6 +746,13 @@ http://redteamer.tips
 <ul>
 <li><i>Protected</i></li>
 <li>Manifests in various forms in the digital array. Jesus phreak. hacker. Speaker @ PhreakNiC, DefCon.</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/NahamSec"><img src="https://pbs.twimg.com/profile_images/1259918602758545408/hGABtwhL_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/NahamSec">@NahamSec</a> (Ben Sadeghipour)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Hacker & Content Creator 🇮🇷 |  #NahamCon Organizer | VP of Research  & Community @hadriansecurity |  Ex @Hacker0x01 | Resources: http://linktr.ee/nahamsec</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
@@ -792,7 +807,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/bsidesnash"><img src="https://pbs.twimg.com/profile_images/1212497460318343170/MWXdYaNY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bsidesnash">@bsidesnash</a> (bsidesnash)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>BSides Nashville returns in April 2, 2022: https://bsides-nashville-2022.sessionize.com/
 Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 </ul>
@@ -1425,7 +1440,7 @@ In the Austin, TX area? DM if you need a lift to the airport, or just wanna road
 <tr><td><a href="https://twitter.com/Chick3nman512"><img src="https://pbs.twimg.com/profile_images/1335343271351099395/BkbgGWQX_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Chick3nman512">@Chick3nman512</a> (Chick3nman 🐔)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Sam Croley, Austin based password cracker & security researcher; Team @hashcat Core Developer; Senior Penetration Tester/Security Engineer IV; DMs always open!</li>
 </ul>
 </td></tr>
@@ -1462,7 +1477,7 @@ binitamshah at protonmail com</li>
 <b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>UNC1194 member || Red Teamer and InfoSec Researcher || Research at http://blog.xpnsec.com || Targeted Ops at @TrustedSec ||</li>
+<li>UNC1194 member || Red Teamer and InfoSec Researcher || Research at http://blog.xpnsec.com || Targeted Ops at @TrustedSec || Polywork at http://polywork.xpnsec.com</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ausernamedjosh"><img src="https://pbs.twimg.com/profile_images/1500622546470948867/vtl6UZiD_200x200.jpg"></a></td><td>
@@ -1544,7 +1559,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/natashenka"><img src="https://pbs.twimg.com/profile_images/1221284302912028673/6sXOJCzx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/natashenka">@natashenka</a> (Natalie Silvanovich)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Tamagotchi Hacker. Google Project Zero. She/her.</li>
 </ul>
 </td></tr>
@@ -1833,7 +1848,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/DockerCon"><img src="https://pbs.twimg.com/profile_images/1491922967311392769/DlLmzLoU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DockerCon">@DockerCon</a> (DockerCon)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The #1 container industry conference for developers taking place online on May 10, 2022.</li>
 </ul>
 </td></tr>
@@ -1958,7 +1973,7 @@ I like computers & music.</li>
 <tr><td><a href="https://twitter.com/BrandonPhilips"><img src="https://pbs.twimg.com/profile_images/1410082818055544833/SgPIzqGf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BrandonPhilips">@BrandonPhilips</a> (Brandon Philips)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Founder/CTO @CoreOS (acq. Red Hat 2018).
 
 Interests in open source, kubernetes, containers, climate change, voting systems, and watches.
@@ -1969,7 +1984,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/jessfraz"><img src="https://pbs.twimg.com/profile_images/1465855910253789184/YRYiSu77_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/jessfraz">@jessfraz</a> (Jessie Frazelle)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>👩🏻‍💻 @oxidecomputer, 📝 @ACMQueue, 👩🏻‍🔬 @KittyCADInc</li>
 </ul>
 </td></tr>
@@ -2011,7 +2026,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Engineering Culture Evangelist | Developer Experience Wrangler
 
 Chief Architect DevEx @ADP</li>
@@ -2064,7 +2079,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/annieshin9"><img src="https://pbs.twimg.com/profile_images/598527430354083840/G0qBq1NI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/annieshin9">@annieshin9</a> (Annie Shin)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li><i>Protected</i></li>
 <li>coding fingers turn to twitter fingers. emotional eater turned emotional tweeter.</li>
 </ul>
 </td></tr>
@@ -2078,7 +2093,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO Anchorage Digital @Anchorage #bitcoin</li>
 </ul>
 </td></tr>
@@ -2109,7 +2124,7 @@ Our profession is built on relationships</li>
 <b><a href="https://twitter.com/ewindisch">@ewindisch</a> (𝕰𝖗𝖎𝖈𝖆𝖂𝖎𝖓𝖉𝖎𝖘𝖈𝖍)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>dev experience architect. maker and breaker. founder, security researcher, pioneer and advocate for cloud, containers, and serverless.</li>
+<li>inactive because I'm tired of harassment and doomscrolling</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
