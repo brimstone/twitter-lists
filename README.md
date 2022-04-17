@@ -545,6 +545,13 @@ See you at DC29!</li>
 <li>Security Researcher/Red/Purple Teaming/Adversary Simulation/Threat Hunter. Contributors of Atomic Red Team, PS Empire, Mitre ATT&CK Framework, LOLBas, and more.</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/hacker_"><img src="https://pbs.twimg.com/profile_images/1515307328786116611/RINA_DhL_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/hacker_">@hacker_</a> (Corben Leo)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>I try to hack stuff (legally ofc.)</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/Op_nomad"><img src="https://pbs.twimg.com/profile_images/956785310016434176/EnEq4Czb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Op_nomad">@Op_nomad</a> (D.Snezhkov)</b><br />
 <ul>
@@ -1518,7 +1525,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/dc404"><img src="https://pbs.twimg.com/profile_images/1241047490033602561/s2g3dviU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/dc404">@dc404</a> (dc404)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>🌐 Atlanta's DefCon Group
 📍~Manuel's Tavern~ Big Blue Button
 📅 Third Saturday
@@ -1631,7 +1638,7 @@ I speak only for myself.</li>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>🇲🇽 • Keyboards • Coffee • Drums • Archery • Woodwork • Army Vet - 15X • Self Hating Red Teamer • Golang • Legitimate Businesses Practice</li>
 </ul>
 </td></tr>
@@ -2117,7 +2124,8 @@ French, Wine lover. Soccer Fan.</li>
 <li>Last Tweet: this week</li>
 <li>#blacklivesmatter
 Google DevRel Manager for internal platforms
-Our profession is built on relationships</li>
+Our profession is built on relationships
+he/him</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1485855731219894274/XTfpWgFu_200x200.jpg"></a></td><td>
