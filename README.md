@@ -141,7 +141,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/BCSecurity1"><img src="https://pbs.twimg.com/profile_images/1146808348001669123/En4ill1Z_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BCSecurity1">@BCSecurity1</a> (BC Security)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Threat Emulation | Training | Red Team | Penetration Testing | Compliance | Discord: https://discord.gg/P8PZPyf</li>
 </ul>
 </td></tr>
@@ -526,7 +526,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/the_bit_diddler">@the_bit_diddler</a> (sinusoid)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Dumb human doing dumb things for dumb reasons.</li>
+<li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/huntsec_AL"><img src="https://pbs.twimg.com/profile_images/824313675448274944/TFnCUbkh_200x200.jpg"></a></td><td>
@@ -784,7 +784,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -1818,7 +1818,7 @@ BLM</li>
 <b><a href="https://twitter.com/alexellisuk">@alexellisuk</a> (Alex Ellis)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Founder @openfaas + @inletsdev. CNCF Ambassador. ✍️ 🪚</li>
+<li>Founder @openfaas + @inletsdev. CNCF Ambassador. (🇪🇸 @kubecon_)</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
@@ -1988,9 +1988,9 @@ I like computers & music.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1397593304439562244/_MOLl7nW_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan 🦣)</b><br />
+<b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan @KubeCon)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>👩‍💻🥑 @vmware #kubernetes #tanzu · @dekkagaijin ♡ · electrical eng @georgiatech · ex @amazon @intel @docker · opinions: mine</li>
 </ul>
 </td></tr>
