@@ -167,7 +167,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/securibee"><img src="https://pbs.twimg.com/profile_images/1307683682745024513/RU9H53pw_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/securibee">@securibee</a> (Bee like water 🐝)</b><br />
+<b><a href="https://twitter.com/securibee">@securibee</a> (𝕋𝕙𝕖 ℕ𝕠𝕥𝕠𝕣𝕚𝕠𝕦𝕤 𝔹.𝔼.𝔼. 🐝)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Curate. Iterate. Collaborate. Cross-pollinate. #HiveFive @Bugcrowd @resync_gg</li>
@@ -197,7 +197,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/optionalctf"><img src="https://pbs.twimg.com/profile_images/1085603555938045953/HgjxrHh8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/optionalctf">@optionalctf</a> (optional)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The proud owner of two brain cells.
 I like breaking stuff
 
@@ -242,7 +242,7 @@ Cyber Security Consultant | HTB with WinBARs | OSCP, CRT, Pentest+, AWS CCP</li>
 <tr><td><a href="https://twitter.com/cpl3h"><img src="https://pbs.twimg.com/profile_images/1240826119995047937/CDgYAiv2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cpl3h">@cpl3h</a> (cpl)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>Intelligence - 1
 Wisdom - 1
 Charisma - 1
@@ -343,7 +343,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 ¯\_(ツ)_/¯</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1532081248600051713/OGK5nxDf_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1534344913827024899/DIvn7E4S_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/corg_e">@corg_e</a> (corgi)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -747,7 +747,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/Infosecjen"><img src="https://pbs.twimg.com/profile_images/1501208448763060237/wnnQEc6C_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosecjen">@Infosecjen</a> (Guv'nah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
@@ -925,7 +925,7 @@ Conference - Oct 1, 2022</li>
 <tr><td><a href="https://twitter.com/byt3bl33d3r"><img src="https://pbs.twimg.com/profile_images/1465165239809298436/1PabR5UI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/byt3bl33d3r">@byt3bl33d3r</a> (Marcello)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>CyBeRsEcUrItY | Not afraid to put down with some THICC malware on disk | Ranch Legalization Activist | Founder of @porchetta_ind | pronouns: morb/ius.</li>
 </ul>
 </td></tr>
@@ -1017,7 +1017,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/badsectorlabs"><img src="https://pbs.twimg.com/profile_images/961624727814135810/LWtbHAAD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/badsectorlabs">@badsectorlabs</a> (Bad Sector Labs)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Weekly Cybersecurity news, techniques, exploits, and tools every Monday at http://blog.badsectorlabs.com</li>
 </ul>
 </td></tr>
@@ -1131,7 +1131,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/chvancooten"><img src="https://pbs.twimg.com/profile_images/1321086747531501569/Qbe0KjCf_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/chvancooten">@chvancooten</a> (Cas van Cooten)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Benevolently malicious offensive security enthusiast || @ABNAMRO Red Team || Crappy malware author (Nimplant, Nimpackt) || Over 0 CVEs 😎</li>
 </ul>
 </td></tr>
@@ -1268,7 +1268,7 @@ Founder @alteredsecurity</li>
 <tr><td><a href="https://twitter.com/Flangvik"><img src="https://pbs.twimg.com/profile_images/1530836415763947520/J8mXPTnR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Flangvik">@Flangvik</a> (Melvin langvik)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team 🔴 @TrustedSec and voice in 🇳🇴@5h3llcast 🇳🇴 . Streams every Sunday at 16:00 UTC . Opinions are my own and not the views of my employer.</li>
 </ul>
 </td></tr>
@@ -1288,7 +1288,7 @@ http://0xbee.xyz
 <tr><td><a href="https://twitter.com/kees_cook"><img src="https://pbs.twimg.com/profile_images/1258428092072132609/Me6V6RQe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kees_cook">@kees_cook</a> (Kees Cook)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Free Software Hacker
 he/him</li>
 </ul>
@@ -1403,7 +1403,7 @@ Founding Team @RandoriAttack @RandoriSecurity</li>
 <tr><td><a href="https://twitter.com/FiloSottile"><img src="https://pbs.twimg.com/profile_images/1493013174085427200/sWDnLTEI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/FiloSottile">@FiloSottile</a> (Filippo Valsorda)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Cryptogopher / Go crypto maintainer / @kateconger-knower / RC F'13, F2'17 / #BlackLivesMatter / he+him
 
 http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li>
@@ -1533,7 +1533,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/_xpn_"><img src="https://pbs.twimg.com/profile_images/1439227722836889600/TPOb0znv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_xpn_">@_xpn_</a> (Adam Chester (AFK))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>UNC1194 member || Red Teamer and InfoSec Researcher || Research at http://blog.xpnsec.com || Targeted Ops at @TrustedSec || Polywork at http://polywork.xpnsec.com</li>
 </ul>
 </td></tr>
