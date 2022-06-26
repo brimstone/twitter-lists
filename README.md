@@ -367,7 +367,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/B00M_s1ang">@B00M_s1ang</a> (B00M#s1ang🐍)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>-Beaky Snake Geek-  Pen Tester | Bug Hunter | Certified Cyberpunk Lame-O...  Art by @majorashby  Banner by @mooexe
 https://medium.com/@B00Ms1ang</li>
 </ul>
@@ -461,7 +461,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/_batsec_"><img src="https://pbs.twimg.com/profile_images/1213607935609384962/6aCgz35U_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_batsec_">@_batsec_</a> (batsec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>red team @mdseclabs</li>
 </ul>
 </td></tr>
@@ -517,6 +517,13 @@ See you at DC29!</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: 2 weeks ago</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -569,7 +576,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/hacker_"><img src="https://pbs.twimg.com/profile_images/1539703783755812866/ZLCJ3eVC_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/hacker_">@hacker_</a> (Corben Leo (in NYC))</b><br />
+<b><a href="https://twitter.com/hacker_">@hacker_</a> (Corben Leo)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>I hack stuff (legally.) Telling hacking stories: http://threat.dev. Securing web3 @zellic_io</li>
@@ -1081,7 +1088,7 @@ Loves to share knowledge & inspire.</li>
 <li>Kansas City’s monthly infosec conference. Patch Tuesday. #SecKCTheWorldAgain</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/netmux"><img src="https://pbs.twimg.com/profile_images/1533983569508540418/B0e2M1uE_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/netmux"><img src="https://pbs.twimg.com/profile_images/1540767216865628160/iqfA6mSs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/netmux">@netmux</a> (Netmux)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1512,7 +1519,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Linux Evangelist, Malwares , Kernel Dev , Security Enthusiast , liberation, sarcasm , living on edge . Jain  & philanthropist .
 binitamshah at protonmail com</li>
 </ul>
@@ -1570,7 +1577,7 @@ binitamshah at protonmail com</li>
 <b><a href="https://twitter.com/torproject">@torproject</a> (The Tor Project)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>We're a nonprofit defending your privacy and freedom online. Download Tor for protection against tracking, surveillance, and censorship. http://t.me/getbridgesbot</li>
+<li>We're a nonprofit defending your privacy and freedom online. Download Tor for protection against tracking, surveillance, and censorship. https://t.me/gettor_bot</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/dc404"><img src="https://pbs.twimg.com/profile_images/1241047490033602561/s2g3dviU_200x200.jpg"></a></td><td>
@@ -1773,7 +1780,7 @@ I speak only for myself.</li>
 <tr><td><a href="https://twitter.com/zfasel"><img src="https://pbs.twimg.com/profile_images/1290294578126434307/LlaqRSvu_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/zfasel">@zfasel</a> (Zack Fasel)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Head Janitor at @UrbaneSec. #ScotchAndBubbles Mixologist. @DEFCON CFP Board. @ShmooCon Master of Party. @_dc312_’s Ogden. Travels too much, sleeps too little.</li>
 </ul>
 </td></tr>
@@ -2234,7 +2241,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: May</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
