@@ -103,7 +103,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <b><a href="https://twitter.com/chompie1337">@chompie1337</a> (chompie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>exploit dev/vr/offensive security; hacker @graplsec; she/her; i post online</li>
+<li>exploit dev/vr/offensive security; hacker @graplsec; she/her; i post</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lazzslayer"><img src="https://pbs.twimg.com/profile_images/1483917035016966151/zFAPUaIm_200x200.jpg"></a></td><td>
@@ -496,7 +496,7 @@ See you at DC29!</li>
 <li></li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/notshenetworks"><img src="https://pbs.twimg.com/profile_images/1524035626206650368/jpr3mrrn_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/notshenetworks"><img src="https://pbs.twimg.com/profile_images/1545609633154404358/Fd4SWSqQ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/notshenetworks">@notshenetworks</a> (shenetworks)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -690,7 +690,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato</li>
 <tr><td><a href="https://twitter.com/Snowden"><img src="https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Snowden">@Snowden</a> (Edward Snowden)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I used to work for the government. Now I work for the public. President at @FreedomofPress.</li>
 </ul>
 </td></tr>
@@ -1082,7 +1082,7 @@ Loves to share knowledge & inspire.</li>
 <tr><td><a href="https://twitter.com/netmux"><img src="https://pbs.twimg.com/profile_images/1540767216865628160/iqfA6mSs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/netmux">@netmux</a> (Netmux)</b><br />
 <ul>
-<li>Last Tweet: June</li>
+<li>Last Tweet: this week</li>
 <li>Dad-Husband-Vet-Passwords
 Beacon Recipe Bamboozle: http://amazon.com/dp/B0B2TVLWWD
 Operator Handbook: http://amazon.com/dp/B085RR67H5
@@ -1422,7 +1422,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <b><a href="https://twitter.com/CryptoGangsta">@CryptoGangsta</a> (Parsia)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Cosplaying as a videogame hacker at @EA. Mostly Harmless. 🇺🇸 in 🇨🇦. He/Him. I’d rather play games.</li>
+<li>On sabbatical and mostly playing videogames. Application security "Engineer". Mostly Harmless. 🇺🇸 in 🇨🇦. He/Him.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/1498415268552482826/GZeal-zJ_200x200.jpg"></a></td><td>
@@ -1513,7 +1513,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Linux Evangelist, Malwares , Kernel Dev , Security Enthusiast ,  sarcasm , living on edge . Jain (Adi Nemi)  & philanthropist .
+<li>Linux Evangelist, Malwares , Kernel Dev , Security Enthusiast ,  sarcasm , living on edge . Jain  & philanthropist .
 binitamshah at protonmail com</li>
 </ul>
 </td></tr>
@@ -2234,7 +2234,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/solomonstre"><img src="https://pbs.twimg.com/profile_images/1481072550570381315/hMBPQ9K-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder of Docker, now working on something new: @dagger_io. I follow lots of people because I have a lot to learn. "No is temporary; Yes is forever."</li>
 </ul>
 </td></tr>
