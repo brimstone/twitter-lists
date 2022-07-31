@@ -289,7 +289,7 @@ Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/InsiderPhD"><img src="https://pbs.twimg.com/profile_images/986525724818530304/KRdu1_FE_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/InsiderPhD">@InsiderPhD</a> (Katie Paxton-Fear)</b><br />
+<b><a href="https://twitter.com/InsiderPhD">@InsiderPhD</a> (Katie Paxton-Fear ➡️ Vegas baby)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Dr, apparently. Lecturer @ManMetUni, ex @bugcrowd. #BugBounty hunter & #infosec YouTuber. Research: #nlproc #MLsec data+hacking. she/her. @hacknotcrime</li>
@@ -519,6 +519,13 @@ See you at DC29!</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: June</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
@@ -751,7 +758,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/Infosecjen"><img src="https://pbs.twimg.com/profile_images/1501208448763060237/wnnQEc6C_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Infosecjen">@Infosecjen</a> (Guv'nah)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Mostly nonsense, sometimes about security and/or policy. Often innuendo. Usual disclaimers: comments don't represent employer; hearts don't mean I love you.</li>
 </ul>
 </td></tr>
@@ -1096,7 +1103,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/areyou1or0"><img src="https://pbs.twimg.com/profile_images/1552044412951318539/0Hkb13wG_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/areyou1or0">@areyou1or0</a> (Busra👩🏼‍💻)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Senior Vulnerable Machine Engineer @offsectraining | Hacker | OSCE, SLAE64, OSCP, OSWP | OSEE coming soon… | Public Speaker | 👩🏼‍💻🏃🏼‍♀️🇩🇪</li>
 </ul>
 </td></tr>
@@ -1811,7 +1818,7 @@ I speak only for myself.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/jack_daniel"><img src="https://pbs.twimg.com/profile_images/1544351428768141315/0ZW3VQ4f_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/jack_daniel">@jack_daniel</a> (Jack Daniel (is at @totc and mostly offline))</b><br />
+<b><a href="https://twitter.com/jack_daniel">@jack_daniel</a> (Jack Daniel (is on the road and mostly offline))</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Storyteller, wanderer, comic, historian, world’s oldest millennial. Chief Executive Void Screamer at Tiki Tonk LLC. I used to do stuff, now I do other stuff.</li>
@@ -1973,7 +1980,7 @@ Thoughts are my own.</li>
 Got questions? Ask them here: http://dockr.ly/AskMoby</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1553148492742287361/-iOyYJAz_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/nassyweazy"><img src="https://pbs.twimg.com/profile_images/1553205232024395777/Um0tZe1Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nassyweazy">@nassyweazy</a> (Nass - nassyweazy.eth)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
