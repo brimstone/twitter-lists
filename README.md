@@ -233,7 +233,7 @@ Cyber Security Consultant | HTB with @barctf | OSCP, CRT, Pentest+, AWS CCP</li>
 <tr><td><a href="https://twitter.com/OverTheWireCTF"><img src="https://pbs.twimg.com/profile_images/1188000911962136576/R2j-5pwi_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/OverTheWireCTF">@OverTheWireCTF</a> (OverTheWire.org)</b><br />
 <ul>
-<li>Last Tweet: April</li>
+<li>Last Tweet: this week</li>
 <li>Tweets about http://overthewire.org CTF-like events</li>
 </ul>
 </td></tr>
@@ -296,7 +296,7 @@ Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/InsiderPhD"><img src="https://pbs.twimg.com/profile_images/986525724818530304/KRdu1_FE_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/InsiderPhD">@InsiderPhD</a> (Katie Paxton-Fear 👉 is in Vegas)</b><br />
+<b><a href="https://twitter.com/InsiderPhD">@InsiderPhD</a> (Katie Paxton-Fear @ DEFCON)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Dr, apparently. Lecturer @ManMetUni, ex @bugcrowd. #BugBounty hunter & #infosec YouTuber. Research: #nlproc #MLsec data+hacking. she/her. @hacknotcrime</li>
@@ -528,13 +528,6 @@ See you at DC29!</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: June</li>
-<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -556,7 +549,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1556786768812199936/7DhTD2a0_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1558051025894129664/paYXV7uo_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (pwning )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -607,7 +600,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1544817581487493120/5kHJgPzt_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
+<b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria @ DEF CON)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Sneaky bit flipper | creator of @azeria_labs | @Arm Assembly Princess | soon to be published author</li>
@@ -842,7 +835,7 @@ I create educational content on IT security, CTFs & Bug Bounty #infosec</li>
 <tr><td><a href="https://twitter.com/ropnop"><img src="https://pbs.twimg.com/profile_images/1017215550550880256/CglPvrog_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ropnop">@ropnop</a> (Ronnie Flathers)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>security engr, pentester, researcher. i sometimes blog and code based on motivation/caffeine levels. Principal Security Engineer @Marqeta</li>
 </ul>
 </td></tr>
@@ -1094,7 +1087,7 @@ Loves to share knowledge & inspire.</li>
 <b><a href="https://twitter.com/nas_bench">@nas_bench</a> (Nasreddine Bencherchali)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Threat Researcher @ Nextron Systems | Avid learner and passionate about all things #Detection #Malware #DFIR #ThreatHunting and in love with #WindowsInternals</li>
+<li>Threat Researcher @nextronsystems | Avid learner and passionate about all things #Detection #Malware #DFIR #ThreatHunting and in love with #WindowsInternals</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/sec_kc"><img src="https://pbs.twimg.com/profile_images/1292584428259213312/L0ZI9C5s_200x200.jpg"></a></td><td>
@@ -1211,7 +1204,7 @@ Passionate about networking and cybersecurity | father of two superheroes.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/AletheDenis"><img src="https://pbs.twimg.com/profile_images/1516470465585328135/9tnxPCg__200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/AletheDenis">@AletheDenis</a> (ᗩᒪETᕼE)</b><br />
+<b><a href="https://twitter.com/AletheDenis">@AletheDenis</a> (ᗩᒪETᕼE 🖤 @defcon)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Uh-Lee-th | like in ‘a-lethal-weapon’ | Senior Security Consultant | #BlackBadge @DefCon & @tracelabs | Future Cat Lady | Followed by @ladygaga - Yes, Really</li>
@@ -1400,7 +1393,7 @@ Tweets are my own.</li>
 <li>Does a thing or two with security @OutflankNL | RedELK developer | Petrolhead | Champagne lover | Don't Panic | Try Harder</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1556804951216533504/k5YooeVX_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1557887641713905664/xn_lj9ws_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/HackingDave">@HackingDave</a> (Dave Kennedy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1617,7 +1610,7 @@ binitamshah at protonmail com</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/egyp7"><img src="https://pbs.twimg.com/profile_images/1939611804/6edcbcd3de4eb6bc9117edc26a9fa736_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/egyp7">@egyp7</a> (egyp7)</b><br />
+<b><a href="https://twitter.com/egyp7">@egyp7</a> (egyp7 at home)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Scrub. Noob. Washed up has-been.
@@ -2232,7 +2225,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1551697087812833280/4JGcsMUg_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ewindisch">@ewindisch</a> (Erica Windisch)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>dx / cloud / architecture. building the cloud since 2001. these tweets are not professional. she/her 🏳️‍⚧️</li>
 </ul>
 </td></tr>
