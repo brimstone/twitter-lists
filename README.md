@@ -54,14 +54,14 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/ptswarm"><img src="https://pbs.twimg.com/profile_images/1280533914352857092/jdiJ_BkE_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/ptswarm">@ptswarm</a> (PT SWARM)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Positive Technologies Offensive Team</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/porchetta_ind"><img src="https://pbs.twimg.com/profile_images/1287980977193508866/Dw4wBJGj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/porchetta_ind">@porchetta_ind</a> (Porchetta Industries)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>A centralized platform for organizations to support the developers of Open Source Infosec/Hacking tools.</li>
 </ul>
 </td></tr>
@@ -84,7 +84,7 @@ The http://rapiddns.io is a free, open and unlimited dns query tool. It makes ea
 <tr><td><a href="https://twitter.com/_rybaz"><img src="https://pbs.twimg.com/profile_images/1487842276302897152/5I4xhM6N_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_rybaz">@_rybaz</a> (Ryan Basden 🌻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Manager of Renegade Labs, @risk3sixty</li>
 </ul>
 </td></tr>
@@ -334,7 +334,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/pretechst"><img src="https://pbs.twimg.com/profile_images/1268518173386702854/nAuVoEqc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pretechst">@pretechst</a> (Tom H)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>Social/Tech/Gaming System Junkie. Likes Tech&SE&RPG&HipHop&Language&Psych&Hacks&Linux. Multiple BrainVMs installed. Opinions are all me.</li>
 </ul>
 </td></tr>
@@ -535,13 +535,6 @@ See you at DC29!</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: August</li>
-<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -563,7 +556,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1570031065913528329/bxnP23aj_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1570380481971253249/CPsFlibc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (pwn )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -658,7 +651,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/Farah_Hawaa"><img src="https://pbs.twimg.com/profile_images/1466634098814947334/c5iMoVbh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Farah_Hawaa">@Farah_Hawaa</a> (Farah Hawa)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>noobiest of the noobs | content creator | SecOps @Bugcrowd | she/her | personal account</li>
 </ul>
 </td></tr>
@@ -690,7 +683,7 @@ See you at DC29!</li>
 <li>Pentester, researcher, developer, hunter, cat video enthusiast</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pry0cc"><img src="https://pbs.twimg.com/profile_images/1469056813001805826/ltLVT4E8_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pry0cc"><img src="https://pbs.twimg.com/profile_images/1570442329604898818/jxk2kYyk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pry0cc">@pry0cc</a> (pry0cc.eth // Ben Bidmead)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -786,7 +779,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/malwareunicorn"><img src="https://pbs.twimg.com/profile_images/1567532759496937472/O6x76snZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/malwareunicorn">@malwareunicorn</a> (Malware Unicorn)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Fuzzy Unicorn @Microsoft MORSE team. Prev: @Meta. Interested in Security, Malware, Reverse Engineering, and Fashion. DEFCON. My thoughts are my own. Shitposter.</li>
 </ul>
 </td></tr>
@@ -1052,7 +1045,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/badsectorlabs"><img src="https://pbs.twimg.com/profile_images/961624727814135810/LWtbHAAD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/badsectorlabs">@badsectorlabs</a> (Bad Sector Labs)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Weekly Cybersecurity news, techniques, exploits, and tools every Monday at http://blog.badsectorlabs.com</li>
 </ul>
 </td></tr>
@@ -1149,11 +1142,11 @@ Tweets are my own and not the views of my employer</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/benign_LNK"><img src="https://pbs.twimg.com/profile_images/1566896784961519616/jsfcVufD_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (Juan Rey)</b><br />
+<tr><td><a href="https://twitter.com/benign_LNK"><img src="https://pbs.twimg.com/profile_images/1570545097804230657/AAHIDbEZ_200x200.png"></a></td><td>
+<b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (Aldo_)</b><br />
 <ul>
 <li>Last Tweet: last week</li>
-<li>🍯🏥 Healthcare #ThreatIntel USMC Veteran, Treasure Hunter 🏴‍☠️ Letter of Marque 📜</li>
+<li>🍯🏥 Healthcare #ThreatIntel</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1501629233331728384/gly53kIx_200x200.jpg"></a></td><td>
@@ -1410,7 +1403,7 @@ Tweets are my own.</li>
 <li>Does a thing or two with security @OutflankNL | RedELK developer | Petrolhead | Champagne lover | Don't Panic | Try Harder</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1559331716438921221/1JBKd5wo_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1570351231272456192/3rJUY_mk_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/HackingDave">@HackingDave</a> (Dave Kennedy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1454,11 +1447,11 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <li>Taking a break and mostly playing videogames. Application security "Engineer". Mostly Harmless. 🇺🇸 in 🇨🇦. He/Him. My name is pronounced “paar-see-yaa.”</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/1498415268552482826/GZeal-zJ_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/1570526616618418176/-2X2jn6g_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Official Twitter account for Kali Linux  - Our most advanced penetration testing platform, ever. A project by Offensive Security.</li>
+<li>Kali Linux, The Most Advanced Penetration Testing Distribution. Ever. A project by Offensive Security.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/ptracesecurity"><img src="https://pbs.twimg.com/profile_images/659444735791210500/XGvv9R-0_200x200.jpg"></a></td><td>
@@ -1622,7 +1615,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/_decius_"><img src="https://pbs.twimg.com/profile_images/578577491935145985/Mvg9hVk6_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/_decius_">@_decius_</a> (Tom Cross)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Creator of FeedSeer: https://www.feedseer.com</li>
 </ul>
 </td></tr>
@@ -1688,7 +1681,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1522373698119815168/NEKAvw_s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (samy kamkar)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | cofounder @openpathsec</li>
 </ul>
 </td></tr>
@@ -1816,7 +1809,7 @@ I speak only for myself.</li>
 <tr><td><a href="https://twitter.com/nousie"><img src="https://pbs.twimg.com/profile_images/1323661661379723264/JCov9eeH_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nousie">@nousie</a> (🌻nous)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>on a spiral staircase, crafty, bon vivant, explorer, erbsenzähler, glitter distribution vector, pastry chef, BSidesLV COO/ExecProd, PM, CTF Factory BoD, she/her</li>
 </ul>
 </td></tr>
@@ -1879,7 +1872,7 @@ Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</l
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/1479168180945752067/qQqxzFhs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie B. Howard)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>why have a bad day when you can have a great one ☀️
 
 eng @Tango_HQ, ex-@Anchorage, @Docker
@@ -2189,7 +2182,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/michelledhanani"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/michelledhanani">@michelledhanani</a> (Michelle Dhanani)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Software Engineer @fermyontech \\ Making distributed systems digestible \\ Previously: @microsoft @opendeis @engineyard \\ opinions my own</li>
 </ul>
 </td></tr>
@@ -2210,7 +2203,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO Anchorage Digital @Anchorage #bitcoin</li>
 </ul>
 </td></tr>
