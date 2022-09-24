@@ -202,7 +202,7 @@ HTB: http://bit.ly/3lNUqQj</li>
 <tr><td><a href="https://twitter.com/0xdeaddood"><img src="https://pbs.twimg.com/profile_images/1172876675014627329/0HVo1tNP_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xdeaddood">@0xdeaddood</a> (leandro)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security researcher focused on authentication & identity 🇦🇷🇪🇪. Impacket 🚀🌕.</li>
 </ul>
 </td></tr>
@@ -271,7 +271,7 @@ Luck - 10</li>
 <tr><td><a href="https://twitter.com/darkstar7471"><img src="https://pbs.twimg.com/profile_images/1165408845759438848/Q7mIhY-n_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Jon | Dark (he/him))</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Community Mod @offsectraining
 Pentest Lead @ StateFarm
 Fmr @realTryHackMe CD/CM
@@ -809,7 +809,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/haveibeenpwned"><img src="https://pbs.twimg.com/profile_images/414900961371377664/eulz0TdB_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> (Have I Been Pwned)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Check if you have an email address or password that has been compromised in a data breach. Created and maintained by @troyhunt.</li>
 </ul>
 </td></tr>
@@ -1367,11 +1367,11 @@ Tweets are my own.</li>
 <li>Metasploit goodness directly to YOUR BRAIN!</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/olafhartong"><img src="https://pbs.twimg.com/profile_images/1250853733690413058/DHSum08z_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/olafhartong"><img src="https://pbs.twimg.com/profile_images/1573384307309256707/ROeGUa31_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/olafhartong">@olafhartong</a> (Olaf Hartong)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>@FalconForceTeam | Photographer | Microsoft MVP | Data Dweller | Sysmon | Snow man role model | https://www.instagram.com/olafhartong/</li>
+<li>@FalconForceTeam | Photographer | Microsoft MVP | Snow man role model | https://www.instagram.com/olafhartong/</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/travisgoodspeed"><img src="https://pbs.twimg.com/profile_images/476509492/n9401711_32621461_5515_200x200.jpg"></a></td><td>
@@ -1666,7 +1666,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/hdmoore"><img src="https://pbs.twimg.com/profile_images/1558614257679343617/c1VG3Oyx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hdmoore">@hdmoore</a> (HD Moore)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>He/Him | Chairman & Founding CTO of runZero (formerly Rumble Network Discovery) | Black Lives Matter</li>
 </ul>
 </td></tr>
@@ -1871,7 +1871,7 @@ Hosts: @hak5darren @mubix @snubs @patricknorton @glytchtech @KodyKinzie @_mg_</l
 <tr><td><a href="https://twitter.com/kristiehow"><img src="https://pbs.twimg.com/profile_images/1479168180945752067/qQqxzFhs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kristiehow">@kristiehow</a> (Kristie B. Howard)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>why have a bad day when you can have a great one ☀️
 
 eng @Tango_HQ, ex-@Anchorage, @Docker
@@ -1948,7 +1948,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/stefscherer"><img src="https://pbs.twimg.com/profile_images/1437732608062988288/4PcJe3nc_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/stefscherer">@stefscherer</a> (Stefan Scherer)</b><br />
 <ul>
-<li>Last Tweet: July</li>
+<li>Last Tweet: this week</li>
 <li>Manager, Engineering @docker, Dad, Husband, Microsoft MVP, Docker Pirate at Hypriot, retired #DockerCaptain. Tweets my own (he/him)</li>
 </ul>
 </td></tr>
@@ -2195,7 +2195,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/AshlynnPolini"><img src="https://pbs.twimg.com/profile_images/886987063442128896/AWeNaanD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/AshlynnPolini">@AshlynnPolini</a> (Ashlynn Polini Pericacho)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Building dope experiences at @oktetohq- -previously @docker @dockercon, @netlify @jamstackconf</li>
 </ul>
 </td></tr>
@@ -2262,7 +2262,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/cyli"><img src="https://pbs.twimg.com/profile_images/2352475301/4r3jjeasukcuvy92rldy_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/cyli">@cyli</a> (me)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>I am not a duck.</li>
 </ul>
 </td></tr>
@@ -2276,7 +2276,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/misterbisson"><img src="https://pbs.twimg.com/profile_images/810680965714432000/lVqArvrO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/misterbisson">@misterbisson</a> (Casey Bisson)</b><br />
 <ul>
-<li>Last Tweet: 3 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Infrastructure, devops, and security geek. Heading up product @blubracket. My views are my own, retweets≠endorsement, and all that.</li>
 </ul>
 </td></tr>
