@@ -381,7 +381,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <b><a href="https://twitter.com/bohops">@bohops</a> (bohops)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Offline for a while. See you then.</li>
+<li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lpha3ch0"><img src="https://pbs.twimg.com/profile_images/1544109521341136901/wrvTkSIv_200x200.jpg"></a></td><td>
@@ -839,7 +839,7 @@ http://redteamer.tips
 <tr><td><a href="https://twitter.com/wvuuuuuuuuuuuuu"><img src="https://pbs.twimg.com/profile_images/1501354987602993154/beTgS5mj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/wvuuuuuuuuuuuuu">@wvuuuuuuuuuuuuu</a> (wvu)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Sentient one-liner grepping the Internet for signs of intelligence.
 
 Currently @Atredis. Previously @Rapid7 vuln research and @Metasploit.</li>
@@ -905,7 +905,7 @@ Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 <b><a href="https://twitter.com/MalwareTechBlog">@MalwareTechBlog</a> (Marcus Hutchins)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Hacker, content creator, threat intelligence analyst, not very good at boarding return flights. http://YouTube.com/c/MalwareTechBlog</li>
+<li>Stopped the world's largest ransomware attack and got arrested by the FBI in the same year. If you're wondering what it is I do, don't worry, so am I.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/cyb3rops"><img src="https://pbs.twimg.com/profile_images/1398178631806074880/fUAJnS7h_200x200.jpg"></a></td><td>
@@ -1546,7 +1546,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotheplanet)</b><br />
 <ul>
 <li>Last Tweet: last week</li>
-<li>hacking the planet at http://ired.team buy me a vinyl at http://patreon.com/iredteam or paypal mantvydo@gmail.com. https://kondencuotaspienas.bandcamp.com</li>
+<li>hacking the planet at http://ired.team buy me a vinyl at http://patreon.com/iredteam or paypal mantvydo@gmail.com.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
@@ -1596,7 +1596,7 @@ binitamshah at protonmail com</li>
 <b><a href="https://twitter.com/hackerfantastic">@hackerfantastic</a> (hackerfantastic.crypto)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Co-Founder @myhackerhouse cyber security assurance & hacker training ~ ISBN9781119561453 ~ a book on how to get started with professional hacking.</li>
+<li>Co-Founder @myhackerhouse cyber security assurance & hacker training ~ ISBN9781119561453 ~ a book on professional hacking.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/alexlevinson"><img src="https://pbs.twimg.com/profile_images/804201044192305152/TdBgIzBB_200x200.jpg"></a></td><td>
@@ -2300,7 +2300,7 @@ he/him</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lizrice"><img src="https://pbs.twimg.com/profile_images/954316637313929216/yfD_T_c3_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/lizrice">@lizrice</a> (Liz Rice 🐝 💙💛)</b><br />
+<b><a href="https://twitter.com/lizrice">@lizrice</a> (Liz Rice @ KubeCon Detroit 🐝 💙💛)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Open Source @isovalent / @ciliumproject / #CNCF TOC emeritus chair / #KubeCon emeritus chair / O'Reilly author / #AWS hero / #Golang #GDE / music @insidernine</li>
@@ -2323,7 +2323,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/garethr"><img src="https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/garethr">@garethr</a> (Gareth Rushgrove)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>VP Product @snyksec. @openpolicyagent Conftest maintainer. Developer, designer, product. Open source geek. Devops Weekly. @gdsteam alum. he/him.</li>
 </ul>
 </td></tr>
