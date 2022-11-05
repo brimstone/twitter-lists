@@ -458,7 +458,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/clamSECURITY"><img src="https://pbs.twimg.com/profile_images/1533085370430001153/kY5SsxwW_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/clamSECURITY">@clamSECURITY</a> (clamSECURITY)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Infosec nerd and DC706 co-founder. Opinions expressed are solely my own and do not express the views or opinions of my employer. He/Him.</li>
 </ul>
 </td></tr>
@@ -503,7 +503,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/SpecterOps"><img src="https://pbs.twimg.com/profile_images/883033419827032065/dG9Y4RhK_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SpecterOps">@SpecterOps</a> (SpecterOps 🇺🇦)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Know Your Adversary - Adversary Simulation | Detection | Resilience</li>
 </ul>
 </td></tr>
@@ -540,6 +540,13 @@ See you at DC29!</li>
 <ul>
 <li>Last Tweet: this week</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
+</ul>
+</td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: this week</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
@@ -1107,7 +1114,7 @@ Loves to share knowledge & inspire.</li>
 <tr><td><a href="https://twitter.com/sec_kc"><img src="https://pbs.twimg.com/profile_images/1292584428259213312/L0ZI9C5s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sec_kc">@sec_kc</a> (SecKC)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Kansas City’s monthly infosec conference. Patch Tuesday. #SecKCTheWorldAgain</li>
 </ul>
 </td></tr>
@@ -1177,7 +1184,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/BSidesBHAM"><img src="https://pbs.twimg.com/profile_images/1049737000927068160/PRg9kj7V_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BSidesBHAM">@BSidesBHAM</a> (BSidesBirmingham (Alabama))</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Birmingham's grassroots Information Security conference, December 3, 2022 at UAB Hill Student Center</li>
 </ul>
 </td></tr>
@@ -1299,7 +1306,7 @@ Founder @alteredsecurity</li>
 <tr><td><a href="https://twitter.com/Flangvik"><img src="https://pbs.twimg.com/profile_images/1559255970135519232/PcpeR_hy_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Flangvik">@Flangvik</a> (Melvin langvik)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Red Team 🔴 @TrustedSec and voice in 🇳🇴@5h3llcast 🇳🇴 . Streams every Sunday at 16:00 UTC . Opinions are my own and not the views of my employer.</li>
 </ul>
 </td></tr>
@@ -1467,7 +1474,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/WillCaruana"><img src="https://pbs.twimg.com/profile_images/829552857468825601/V3N5pPgs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/WillCaruana">@WillCaruana</a> (Will C)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>I'm a security hobbyist, maker of things, high voltage enthusiast and a hacker of cars. (he/him) You can call me at 617-440-8667</li>
 </ul>
 </td></tr>
@@ -1731,7 +1738,7 @@ I speak only for myself.</li>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>🇲🇽 • Keyboards • Coffee • Drums • Archery • Woodwork • Army Vet - 15X • Self Hating Red Teamer • Golang • Legitimate Businesses Practice</li>
 </ul>
 </td></tr>
@@ -1760,7 +1767,7 @@ I speak only for myself.</li>
 <b><a href="https://twitter.com/taviso">@taviso</a> (Tavis Ormandy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Vulnerability researcher at Google. This is a personal stream, opinions expressed are mine.</li>
+<li>Vulnerability researcher at Google. This is a personal stream, opinions expressed are mine. I'm also @taviso@mastodon.sdf.org</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/TychoTithonus"><img src="https://pbs.twimg.com/profile_images/1585850994784866304/HiCTip2F_200x200.jpg"></a></td><td>
@@ -1934,7 +1941,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/gordonATortoise"><img src="https://pbs.twimg.com/profile_images/744363201538592768/apXFmrb-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/gordonATortoise">@gordonATortoise</a> (Gordon THE Tortoise)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>I am the evil mastermind behind the @Docker project. I also subjugate my human minions into feeding me salad.</li>
 </ul>
 </td></tr>
@@ -2158,7 +2165,7 @@ French, Wine lover. Soccer Fan.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/thaJeztah"><img src="https://pbs.twimg.com/profile_images/744420110832537600/xTIkPdNv_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/thaJeztah">@thaJeztah</a> (Sebastiaan van Stijn 💉💉💉)</b><br />
+<b><a href="https://twitter.com/thaJeztah">@thaJeztah</a> (Sebastiaan van Stijn @thaJeztah@mastodon.social)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Sr. Francisco at @docker he/him</li>
@@ -2181,7 +2188,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/michelledhanani"><img src="https://pbs.twimg.com/profile_images/1221922472838066176/NV6GiWUD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/michelledhanani">@michelledhanani</a> (Michelle Dhanani)</b><br />
 <ul>
-<li>Last Tweet: October</li>
+<li>Last Tweet: this week</li>
 <li>Software Engineer @fermyontech \\ Making distributed systems digestible \\ Previously: @microsoft @opendeis @engineyard \\ opinions my own</li>
 </ul>
 </td></tr>
@@ -2231,11 +2238,11 @@ Open to DMs, but please: http://nohello.com
 he/him</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1587257307653709824/a8ztOwMd_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/ewindisch">@ewindisch</a> (archived account)</b><br />
+<tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1588343398922166272/pzjt7Mw9_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/ewindisch">@ewindisch</a> (Erica Windisch)</b><br />
 <ul>
-<li><i>Protected</i></li>
-<li>leaving twitter?</li>
+<li>Last Tweet: this week</li>
+<li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1246625366753431552/etm2fh76_200x200.jpg"></a></td><td>
