@@ -18,7 +18,7 @@ Instructions on how to [Run your own](#run-your-own) at the bottom.
 <tr><td><a href="https://twitter.com/tmpout"><img src="https://pbs.twimg.com/profile_images/1361836075044462595/bUqtK3DT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/tmpout">@tmpout</a> (tmp.0ut)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>ELF Research Group</li>
 </ul>
 </td></tr>
@@ -61,7 +61,7 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/porchetta_ind"><img src="https://pbs.twimg.com/profile_images/1287980977193508866/Dw4wBJGj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/porchetta_ind">@porchetta_ind</a> (Porchetta Industries)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>A centralized platform for organizations to support the developers of Open Source Infosec/Hacking tools.</li>
 </ul>
 </td></tr>
@@ -292,7 +292,7 @@ Tm9zZXkgbGl0dGxlIGJ1Z2dlciBhaW4ndCB5YT8=</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Infosec_Taylor"><img src="https://pbs.twimg.com/profile_images/1509875835477667840/UuN33gT-_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/Infosec_Taylor">@Infosec_Taylor</a> (Ashley - @koalafiedhacker@infosec.exchange)</b><br />
+<b><a href="https://twitter.com/Infosec_Taylor">@Infosec_Taylor</a> (Ashley - Serious Security Scientist)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>I made a Mastodon account! @koalafiedhacker@infosec.exchange</li>
@@ -783,7 +783,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/malwareunicorn"><img src="https://pbs.twimg.com/profile_images/1575159570648879118/P5G6dD7s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/malwareunicorn">@malwareunicorn</a> (Malware Unicorn)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>Fuzzy Unicorn @  MSFT MORSE team. mastodon: http://infosec.exchange/@malwareunicorn</li>
 </ul>
 </td></tr>
@@ -1147,10 +1147,10 @@ Tweets are my own and not the views of my employer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/benign_LNK"><img src="https://pbs.twimg.com/profile_images/1593816441601642496/x14jaJ5-_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (John King - Aldo_)</b><br />
+<b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (Aldo_)</b><br />
 <ul>
 <li><i>Protected</i></li>
-<li>🍯🏥 cringe lode / risk prone / USMC vet / tell me about malicious healthcare hacking 🐆👺 I'll get around to updating the site</li>
+<li>🍯🏥🐆👺</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1501629233331728384/gly53kIx_200x200.jpg"></a></td><td>
@@ -1781,7 +1781,7 @@ https://defcon.social/@defcon</li>
 <tr><td><a href="https://twitter.com/brimston3"><img src="https://pbs.twimg.com/profile_images/728436076/meatheadhelmet_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/brimston3">@brimston3</a> (matt)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Armchair architect × Future compatible × Sysadmin finding poetry in code × AGPLv3 enthusiast × Timezone believer × he/him × @brimstone@mastodon.social</li>
 </ul>
 </td></tr>
@@ -1848,7 +1848,9 @@ YT 🎥: @ shannonmorse / @ sailorsnubs</li>
 <b><a href="https://twitter.com/jack_daniel">@jack_daniel</a> (Jack Daniel (mostly offline))</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Storyteller, wanderer, comic, historian, world’s oldest millennial. Chief Executive Void Screamer at Tiki Tonk LLC. I used to do stuff, now I do other stuff.</li>
+<li>Storyteller, wanderer, comic, historian, world’s oldest millennial.
+I used to do stuff, now I do other stuff.
+@jack_daniel@mastodon.social</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/muts"><img src="https://pbs.twimg.com/profile_images/1142380153613488130/8SHQSCs0_200x200.jpg"></a></td><td>
@@ -2305,7 +2307,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/calavera"><img src="https://pbs.twimg.com/profile_images/1471629927908732933/dGLLLWIe_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/calavera">@calavera</a> (David Calavera)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li><i>Protected</i></li>
 <li>Vegan. O’Reilly author. Personal opinions</li>
 </ul>
 </td></tr>
