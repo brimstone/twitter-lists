@@ -176,7 +176,7 @@ GitHub: http://bit.ly/2QNz5rV</li>
 <tr><td><a href="https://twitter.com/BCSecurity1"><img src="https://pbs.twimg.com/profile_images/1146808348001669123/En4ill1Z_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BCSecurity1">@BCSecurity1</a> (BC Security)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Threat Emulation | Training | Red Team | Penetration Testing | Compliance
 Discord: http://discord.gg/P8PZPyf
 @bcsecurity@infosec.exchange</li>
@@ -542,7 +542,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/pwnEIP"><img src="https://pbs.twimg.com/profile_images/1563951955189563392/KuFB1EGJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwnEIP">@pwnEIP</a> (pwneip)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
@@ -574,7 +574,7 @@ See you at DC29!</li>
 <li>Currently working for these companies
 
 Enterprise Customer Support @hackthebox_eu
-Security Analyst @wearesekuro
+Associate Security Analyst @wearesekuro
 Content Writer @haksecio</li>
 </ul>
 </td></tr>
@@ -879,7 +879,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/bsidesnash"><img src="https://pbs.twimg.com/profile_images/1212497460318343170/MWXdYaNY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bsidesnash">@bsidesnash</a> (BSides Nash)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Thanks for an amazing 2022 conference :) http://bsides-nashville-2022.sessionize.com
 Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 </ul>
@@ -910,7 +910,7 @@ Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
 <li>Last Tweet: November</li>
-<li>Hacking with @elttam and @thegooniesctf</li>
+<li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bishopfox"><img src="https://pbs.twimg.com/profile_images/1598422976684236802/zlrJPppM_200x200.jpg"></a></td><td>
@@ -954,7 +954,7 @@ A yearly Cyber Security conference in Augusta, GA.
 The Next Conference Date: Oct 7, 2023</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/dafthack"><img src="https://pbs.twimg.com/profile_images/1509902313816797206/KAhTxy8e_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/dafthack"><img src="https://pbs.twimg.com/profile_images/1601225513556754432/om9eqq8V_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/dafthack">@dafthack</a> (Beau Bullock)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1158,7 +1158,7 @@ Tweets are my own and not the views of my employer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/benign_LNK"><img src="https://pbs.twimg.com/profile_images/1593816441601642496/x14jaJ5-_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (Aldo_ @ H-ISAC Fall Summit)</b><br />
+<b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (Aldo_)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>🍯🏥🐆👺 "Dicey" Healthcare Cyber Threat Intel, Prospecting, USMC veteran, TKE🔺️</li>
@@ -1311,7 +1311,7 @@ Founder @alteredsecurity</li>
 <tr><td><a href="https://twitter.com/Flangvik"><img src="https://pbs.twimg.com/profile_images/1559255970135519232/PcpeR_hy_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Flangvik">@Flangvik</a> (Melvin langvik)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Team 🔴 @TrustedSec and voice in 🇳🇴@5h3llcast 🇳🇴 . Streams every Sunday at 16:00 UTC . Opinions are my own and not the views of my employer.</li>
 </ul>
 </td></tr>
@@ -1349,7 +1349,7 @@ he/him
 <b><a href="https://twitter.com/syndrowm">@syndrowm</a> (syndrowm)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Hacker, CTF, CCDC, Brown Belt, #RedTeamFit --
+<li>Hacker, CTF, CCDC, BJJ Brown Belt, #RedTeamFit --
 
 Founding Team @RandoriAttack @RandoriSecurity
 
@@ -1442,7 +1442,7 @@ Tweets are my own.</li>
 <li>Red Teamer丨Author of Red Team Development and Operations http://redteam.guide 丨Don't let perfect be the enemy of good | @joevest@infosec.exchange</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/FiloSottile"><img src="https://pbs.twimg.com/profile_images/1493013174085427200/sWDnLTEI_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/FiloSottile"><img src="https://pbs.twimg.com/profile_images/1601128737751420928/3WVJbAMw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/FiloSottile">@FiloSottile</a> (Filippo Valsorda)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1484,7 +1484,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/WillCaruana"><img src="https://pbs.twimg.com/profile_images/829552857468825601/V3N5pPgs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/WillCaruana">@WillCaruana</a> (Will C)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I'm a security hobbyist, maker of things, high voltage enthusiast and a hacker of cars. (he/him) You can call me at 617-440-8667</li>
 </ul>
 </td></tr>
@@ -1705,7 +1705,7 @@ Slack: http://metasploit.com/slack</li>
 <tr><td><a href="https://twitter.com/samykamkar"><img src="https://pbs.twimg.com/profile_images/1522373698119815168/NEKAvw_s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/samykamkar">@samykamkar</a> (samy kamkar)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>think bad, do good. | http://samy.pl | cofounder @openpathsec</li>
 </ul>
 </td></tr>
@@ -2001,7 +2001,7 @@ Thoughts are my own.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/BettyJunod"><img src="https://pbs.twimg.com/profile_images/1484743928540585987/yhyZXx6K_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (Betty Junod #GartnerIOCS)</b><br />
+<b><a href="https://twitter.com/BettyJunod">@BettyJunod</a> (Betty Junod)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>opinions, feelings, bread</li>
@@ -2229,7 +2229,7 @@ French, Wine lover. Soccer Fan.</li>
 <tr><td><a href="https://twitter.com/nathanmccauley"><img src="https://pbs.twimg.com/profile_images/1087944341652492288/2yXWCebr_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nathanmccauley">@nathanmccauley</a> (Nathan McCauley)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Co-founder and CEO Anchorage Digital @Anchorage #bitcoin</li>
 </ul>
 </td></tr>
@@ -2261,14 +2261,14 @@ he/him</li>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1588343398922166272/pzjt7Mw9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ewindisch">@ewindisch</a> (Erica Windisch)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1594487412650283009/-BtGJ-W3_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>http://replicate.com / http://arxiv-vanity.com / previously: @docker, @guardian, @govuk</li>
 </ul>
 </td></tr>
