@@ -933,7 +933,7 @@ Blog at https://netsecfocus.com. SANS Netwars Champion. Blue Teamer in Disguise.
 <tr><td><a href="https://twitter.com/LittleJoeTables"><img src="https://pbs.twimg.com/profile_images/3339377706/0d3c0aa809cc4ea4e97346719c9db5ed_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/LittleJoeTables">@LittleJoeTables</a> (Moloch)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Supreme Commander, Red Team @BishopFox
 http://infosec.exchange/@moloch</li>
 </ul>
@@ -1197,7 +1197,7 @@ http://infosec.exchange/@bsidesbham</li>
 <b><a href="https://twitter.com/mzbat">@mzbat</a> (bat)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>solivagant 🦇 | security @VMwareTanzu | overcommitted underachiever | views mine | formerly @NASAGoddard @Apple @18F | art, board games, comics, cute animals 🖤</li>
+<li>security @VMwareTanzu | views mine | overcommitted underachiever | formerly @NASAGoddard @Apple @18F | art, lego, board games, comics, cute animals 🖤</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1592340331957170176/O-URihR9_200x200.jpg"></a></td><td>
@@ -1647,7 +1647,7 @@ Slack: http://metasploit.com/slack</li>
 <tr><td><a href="https://twitter.com/egyp7"><img src="https://pbs.twimg.com/profile_images/1939611804/6edcbcd3de4eb6bc9117edc26a9fa736_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/egyp7">@egyp7</a> (@egypt@mastodon.social)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>he/him or they/them</li>
 </ul>
 </td></tr>
@@ -1916,7 +1916,7 @@ BLM</li>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/containerd">@containerd</a> (containerd)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>The maintainers of containerd: an industry-standard container runtime with an emphasis on simplicity, robustness and portability.</li>
 </ul>
 </td></tr>
