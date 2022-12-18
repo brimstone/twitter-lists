@@ -546,17 +546,10 @@ See you at DC29!</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
-<ul>
-<li>Last Tweet: this week</li>
-<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
-</ul>
-</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
-<li>Last Tweet: August</li>
+<li>Last Tweet: this week</li>
 <li>pop shells not alert() | "If you don’t think you are a newb, you’re not trying hard enough" - @hdmoore</li>
 </ul>
 </td></tr>
@@ -613,7 +606,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/hacker_">@hacker_</a> (Corben Leo)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>I hack stuff (legally). | building</li>
+<li>I hack stuff (legally). | building |</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Op_nomad"><img src="https://pbs.twimg.com/profile_images/956785310016434176/EnEq4Czb_200x200.jpg"></a></td><td>
@@ -1177,7 +1170,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/chvancooten"><img src="https://pbs.twimg.com/profile_images/1567894179451215875/ANd1gUJJ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/chvancooten">@chvancooten</a> (Cas van Cooten)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Benevolently malicious offensive security enthusiast || @ABNAMRO Red Team || Writes malware in Nim (C is scary) || Over 0 CVEs 😎</li>
 </ul>
 </td></tr>
@@ -1389,7 +1382,7 @@ Tweets are my own.</li>
 <li>Metasploit goodness directly to YOUR BRAIN!</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/olafhartong"><img src="https://pbs.twimg.com/profile_images/1603861561185079296/rA2yZo4m_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/olafhartong"><img src="https://pbs.twimg.com/profile_images/1604191319164862466/b1tQUdeq_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/olafhartong">@olafhartong</a> (Olaf Hartong)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1438,7 +1431,7 @@ Tweets are my own.</li>
 <li>#0day, #Exploit, #Vulnerability, #Exploits, #Vulnerabilities, #Zeroday #ShellUpload #Shell #RCE #XSS #SQLi #Shellcode within mirror 🕵️‍♂️TOR 🌎 http://cutt.ly/iWq40Zb</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1603128922786463746/0yEglX3G_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1604202773582585856/mit0ThEw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
