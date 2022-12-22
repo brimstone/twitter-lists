@@ -417,7 +417,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <tr><td><a href="https://twitter.com/BiaSciLab"><img src="https://pbs.twimg.com/profile_images/1410263581204041731/JYvBammO_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BiaSciLab">@BiaSciLab</a> (Bia!)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I'm Bia! Super into Hacking, Election Security and teaching STEAM! 🦄
 Founder, CEO
 http://GirlsWhoHack.com http://SecureOpenVote.com</li>
@@ -507,7 +507,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/SpecterOps"><img src="https://pbs.twimg.com/profile_images/883033419827032065/dG9Y4RhK_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/SpecterOps">@SpecterOps</a> (SpecterOps 🇺🇦)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Know Your Adversary - Adversary Simulation | Detection | Resilience</li>
 </ul>
 </td></tr>
@@ -670,7 +670,7 @@ Community Moderator @hackthebox_eu</li>
 <tr><td><a href="https://twitter.com/Farah_Hawaa"><img src="https://pbs.twimg.com/profile_images/1466634098814947334/c5iMoVbh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Farah_Hawaa">@Farah_Hawaa</a> (Farah Hawa)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>noobiest of the noobs | content creator | SecOps @Bugcrowd | she/her | personal account</li>
 </ul>
 </td></tr>
@@ -877,7 +877,7 @@ managed by http://NAC-ISSA.org volunteers
 <tr><td><a href="https://twitter.com/bsidesnash"><img src="https://pbs.twimg.com/profile_images/1212497460318343170/MWXdYaNY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bsidesnash">@bsidesnash</a> (BSides Nash)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Thanks for an amazing 2022 conference :) http://bsides-nashville-2022.sessionize.com
 Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 </ul>
@@ -901,7 +901,7 @@ Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 <b><a href="https://twitter.com/cyb3rops">@cyb3rops</a> (Florian Roth ⚡)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Head of Research @nextronsystems #DFIR #YARA #Sigma | Detection Engineer | Creator of @thor_scanner, Aurora, Sigma, LOKI, yarGen, Raccine</li>
+<li>Head of R&D @nextronsystems #DFIR #YARA #Sigma | Detection Engineer | Creator of @thor_scanner, Aurora, Sigma, LOKI, yarGen, Raccine</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
@@ -955,7 +955,7 @@ The Next Conference Date: Oct 7, 2023</li>
 <tr><td><a href="https://twitter.com/dafthack"><img src="https://pbs.twimg.com/profile_images/1601225513556754432/om9eqq8V_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/dafthack">@dafthack</a> (Beau Bullock)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, trainer, and guitarist | Black Hills InfoSec #RedTeam | @BreakForge Training | @CoinSecPodcast Host | Cyberpunk synthwave metal producer at @N0BANDW1DTH</li>
 </ul>
 </td></tr>
@@ -1040,7 +1040,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/Hexacorn"><img src="https://pbs.twimg.com/profile_images/1328318015730016258/wS-pPtw6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Hexacorn">@Hexacorn</a> (Adam)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Brain, Blue Fingers
 
 @hexacorn@infosec.exchange
@@ -1159,7 +1159,7 @@ Tweets are my own and not the views of my employer</li>
 <b><a href="https://twitter.com/benign_LNK">@benign_LNK</a> (Aldo_)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>🍯🏥🐆👺 "Dicey" Healthcare Cyber Threat Intel, Prospecting, USMC veteran, TKE🔺️</li>
+<li>🍯🏥🐆👺 "Dicey" "Tommyknocker" Healthcare Cyber Threat Intel, Prospecting, USMC veteran, TKE🔺️</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/PhillipWylie"><img src="https://pbs.twimg.com/profile_images/1501629233331728384/gly53kIx_200x200.jpg"></a></td><td>
@@ -1280,7 +1280,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/nikhil_mitt"><img src="https://pbs.twimg.com/profile_images/1269208309845749761/h4nXF1u__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nikhil_mitt">@nikhil_mitt</a> (Nikhil Mittal)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, Infosec Researcher, Military Affairs & History, PowerShell, AD and Azure pwner, Creator of Nishang and others :)
 Founder @alteredsecurity</li>
 </ul>
@@ -1430,7 +1430,7 @@ he/him
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1604202773582585856/mit0ThEw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer丨Author of Red Team Development and Operations http://redteam.guide 丨Don't let perfect be the enemy of good | @joevest@infosec.exchange</li>
 </ul>
 </td></tr>
@@ -1460,7 +1460,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/1570526616618418176/-2X2jn6g_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Kali Linux, The Most Advanced Penetration Testing Distribution. Ever. A project by Offensive Security.
 
 @kalilinux@infosec.exchange</li>
@@ -1770,7 +1770,7 @@ https://defcon.social/@defcon</li>
 <tr><td><a href="https://twitter.com/taviso"><img src="https://pbs.twimg.com/profile_images/955203083054624769/MGg_NHLb_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/taviso">@taviso</a> (Tavis Ormandy)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Vulnerability researcher at Google. This is a personal stream, opinions expressed are mine. I'm also @taviso@mastodon.sdf.org</li>
 </ul>
 </td></tr>
@@ -1901,7 +1901,7 @@ BLM</li>
 <b><a href="https://twitter.com/alexellisuk">@alexellisuk</a> (Alex Ellis)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Founder @openfaas + @inletsdev + @selfactuated</li>
+<li>Founder @openfaas, @inletsdev & @selfactuated</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/containerd"><img src="https://pbs.twimg.com/profile_images/1055264488973160449/DIGeVVy6_200x200.jpg"></a></td><td>
