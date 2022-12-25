@@ -628,7 +628,7 @@ Community Moderator @hackthebox_eu</li>
 <tr><td><a href="https://twitter.com/Fox0x01"><img src="https://pbs.twimg.com/profile_images/1588863599866429442/6bYXm8Vq_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Fox0x01">@Fox0x01</a> (Azeria)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Sneaky bit flipper | creator of @azeria_labs | @Arm Assembly Princess | soon to be published author | https://mastodon.social/@Azeria</li>
 </ul>
 </td></tr>
@@ -1140,7 +1140,7 @@ Hash Crack: http://amazon.com/dp/1793458618</li>
 <tr><td><a href="https://twitter.com/gentilkiwi"><img src="https://pbs.twimg.com/profile_images/1140290718482817025/3NILFaXQ_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/gentilkiwi">@gentilkiwi</a> (🥝🏳️‍🌈 Benjamin Delpy)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>A kiwi coding mimikatz & kekeo
 github: http://github.com/gentilkiwi
 
@@ -1423,7 +1423,7 @@ he/him
 <tr><td><a href="https://twitter.com/inj3ct0r"><img src="https://pbs.twimg.com/profile_images/938372675646476288/N06qF9Ob_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/inj3ct0r">@inj3ct0r</a> (0day Exploit Database 🌴)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>#0day, #Exploit, #Vulnerability, #Exploits, #Vulnerabilities, #Zeroday #ShellUpload #Shell #RCE #XSS #SQLi #Shellcode within mirror 🕵️‍♂️TOR 🌎 http://cutt.ly/iWq40Zb</li>
 </ul>
 </td></tr>
@@ -1786,7 +1786,7 @@ Ele‍phant in the room: I love ex‍changing with others in info‍sec!
 <tr><td><a href="https://twitter.com/brimston3"><img src="https://pbs.twimg.com/profile_images/728436076/meatheadhelmet_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/brimston3">@brimston3</a> (matt)</b><br />
 <ul>
-<li>Last Tweet: November</li>
+<li>Last Tweet: this week</li>
 <li>Armchair architect × Future compatible × Sysadmin finding poetry in code × AGPLv3 enthusiast × Timezone believer × he/him × @brimstone@mastodon.social</li>
 </ul>
 </td></tr>
@@ -2144,7 +2144,7 @@ http://pronoun.is/he</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/cpuguy83"><img src="https://pbs.twimg.com/profile_images/779048196320493569/nIR7rsy7_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/cpuguy83">@cpuguy83</a> (cpuguy@hachyderm.io)</b><br />
+<b><a href="https://twitter.com/cpuguy83">@cpuguy83</a> (cpuguy83)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Tinkerer</li>
