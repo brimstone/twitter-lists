@@ -282,7 +282,7 @@ Luck - 10</li>
 <tr><td><a href="https://twitter.com/darkstar7471"><img src="https://pbs.twimg.com/profile_images/1165408845759438848/Q7mIhY-n_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/darkstar7471">@darkstar7471</a> (Jon | Dark (he/him))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Community Specialist - US @ HTB
 Pentester @ StateFarm
 Fmr OffSec Mod, THM CD/CM
@@ -546,6 +546,13 @@ See you at DC29!</li>
 <li>RT @Intuit, @SANSInstitute Instructor & #SEC565 #RedTeam Ops author, @RedTeamVillage_ lead, former @Bishopfox|@usairforce. Tweets are my own, memes are stolen</li>
 </ul>
 </td></tr>
+<tr><td><a href="https://twitter.com/McL0v1n_"><img src="https://pbs.twimg.com/profile_images/1403245498148921348/Y1laQV60_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/McL0v1n_">@McL0v1n_</a> (McL0v1n)</b><br />
+<ul>
+<li>Last Tweet: 2 weeks ago</li>
+<li>Senior IT Consultant, @Openstack contributor, InfoSec enthusiast, Darknet (DEFCON) http://dcdark.net, Digital Jesuit Game Network admin (@padresj), margaritas and beer</li>
+</ul>
+</td></tr>
 <tr><td><a href="https://twitter.com/0xC413"><img src="https://pbs.twimg.com/profile_images/938058371915116544/5V_1vq3j_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xC413">@0xC413</a> (cale)</b><br />
 <ul>
@@ -728,7 +735,7 @@ Author of lsarelayx, http://BOF.NET, SharpBlock, SweetPotato</li>
 <tr><td><a href="https://twitter.com/Snowden"><img src="https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Snowden">@Snowden</a> (Edward Snowden)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>I used to work for the government. Now I work for the public. Author of Permanent Record (https://us.macmillan.com/books/9781250237231/permanentrecord)</li>
 </ul>
 </td></tr>
@@ -1039,7 +1046,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 <tr><td><a href="https://twitter.com/Hexacorn"><img src="https://pbs.twimg.com/profile_images/1328318015730016258/wS-pPtw6_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Hexacorn">@Hexacorn</a> (Adam)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red Brain, Blue Fingers
 
 @hexacorn@infosec.exchange
@@ -1047,7 +1054,7 @@ GIT d- s+: a+ C++++ !U !L !M w++++$ b++++ G-</li>
 RIP Twitter</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/PentesterLab"><img src="https://pbs.twimg.com/profile_images/1606107230264184832/2Pgs49rQ_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/PentesterLab"><img src="https://pbs.twimg.com/profile_images/1608934935875964928/UK1heDCw_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/PentesterLab">@PentesterLab</a> (PentesterLab)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1057,7 +1064,7 @@ RIP Twitter</li>
 <tr><td><a href="https://twitter.com/badsectorlabs"><img src="https://pbs.twimg.com/profile_images/961624727814135810/LWtbHAAD_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/badsectorlabs">@badsectorlabs</a> (Bad Sector Labs)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Weekly Cybersecurity news, techniques, exploits, and tools every Monday at http://blog.badsectorlabs.com  🐘 @badsectorlabs@infosec.exchange</li>
 </ul>
 </td></tr>
@@ -1078,7 +1085,7 @@ RIP Twitter</li>
 <tr><td><a href="https://twitter.com/Ben0xA"><img src="https://pbs.twimg.com/profile_images/1599861043362205739/G2lO25st_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Ben0xA">@Ben0xA</a> (Ben Ten (0xA))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Christian, Penetration Tester, Defender, Developer, Gamer, Not PowerShell (nps) & nps_payload Creator, PoLRBear Project @polrbearproject || Views are my own!</li>
 </ul>
 </td></tr>
@@ -1279,7 +1286,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/nikhil_mitt"><img src="https://pbs.twimg.com/profile_images/1269208309845749761/h4nXF1u__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nikhil_mitt">@nikhil_mitt</a> (Nikhil Mittal)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, Infosec Researcher, Military Affairs & History, PowerShell, AD and Azure pwner, Creator of Nishang and others :)
 Founder @alteredsecurity</li>
 </ul>
@@ -1605,7 +1612,7 @@ binitamshah at protonmail com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. 
 Mastodon: @metasploit@infosec.exchange
 Slack: http://metasploit.com/slack</li>
@@ -1621,7 +1628,7 @@ Slack: http://metasploit.com/slack</li>
 <tr><td><a href="https://twitter.com/dc404"><img src="https://pbs.twimg.com/profile_images/1241047490033602561/s2g3dviU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/dc404">@dc404</a> (dc404)</b><br />
 <ul>
-<li>Last Tweet: this week</li>
+<li>Last Tweet: October</li>
 <li>🌐 Atlanta's DefCon Group
 📍~Manuel's Tavern~ Big Blue Button
 📅 Third Saturday
@@ -2271,7 +2278,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/solomonstre"><img src="https://pbs.twimg.com/profile_images/1481072550570381315/hMBPQ9K-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Making @dagger_io, a programmable CI/CD engine that runs your pipelines in containers. Before that: founded Docker.
 
 "No is temporary, yes is forever".</li>
