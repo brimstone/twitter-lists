@@ -40,7 +40,7 @@ Instagram @pvjblueteam</li>
 <tr><td><a href="https://twitter.com/mrd0x"><img src="https://pbs.twimg.com/profile_images/1477573096571912194/l5Ks1_zR_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/mrd0x">@mrd0x</a> (mr.d0x)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security researcher | http://lots-project.com | http://malapi.io | http://filesec.io</li>
 </ul>
 </td></tr>
@@ -365,7 +365,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 ¯\_(ツ)_/¯</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1609777072590700545/cTLlnj6m_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1616672319585280000/Jy93wIm8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/corg_e">@corg_e</a> (Corgi)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -447,7 +447,7 @@ http://GirlsWhoHack.com http://SecureOpenVote.com</li>
 <tr><td><a href="https://twitter.com/Re4sonKernel"><img src="https://pbs.twimg.com/profile_images/877851408128589825/T5J0zAdd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Re4sonKernel">@Re4sonKernel</a> (Re4son Kernel)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Kindness is cool</li>
 </ul>
 </td></tr>
@@ -567,7 +567,7 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1614540133617012742/jsbbWwsf_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1616656228771590145/7MI651wI_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (pwning )</b><br />
 <ul>
 <li>Last Tweet: last week</li>
@@ -579,7 +579,7 @@ Community Moderator @hackthebox_eu</li>
 <tr><td><a href="https://twitter.com/egre55"><img src="https://pbs.twimg.com/profile_images/1603390846132523012/tQBQzA7__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/egre55">@egre55</a> (egre55)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Gamified Upskilling | Cybersecurity. Founder @inov8d</li>
 </ul>
 </td></tr>
@@ -922,7 +922,7 @@ VC @forgepointcap @carrickcapital @WestCap8</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/TJ_Null"><img src="https://pbs.twimg.com/profile_images/1313642495008538634/FivVwx-P_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/TJ_Null">@TJ_Null</a> (Tony 🇺🇦)</b><br />
+<b><a href="https://twitter.com/TJ_Null">@TJ_Null</a> (Tony 🇺🇦 @shmoocon)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Blue Teamer in Disguise.
@@ -1223,7 +1223,7 @@ http://infosec.exchange/@bsidesbham</li>
 <tr><td><a href="https://twitter.com/Cneelis"><img src="https://pbs.twimg.com/profile_images/680348480364150784/RZgyKQyB_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Cneelis">@Cneelis</a> (Cn33liz)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Red teamer @ Outflank. Passionate about networking and cybersecurity | father of two superheroes.</li>
 </ul>
 </td></tr>
@@ -1369,7 +1369,9 @@ he/him
 <b><a href="https://twitter.com/_deanwilliams">@_deanwilliams</a> (Dean Williams)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>#OSCP, #GWAPT, Hacker, Wannabe Snowboarder, Leather Crafter & Imposter Syndrome Sufferer.</li>
+<li>Red team operator, hacker, ex-software engineer, wannabe snowboarder & imposter syndrome sufferer.
+
+Also available on Mastodon @deanwilliams@infosec.exchange</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/msfminute"><img src="https://pbs.twimg.com/profile_images/485580923/metasploit_logo_icbm2_200x200.jpg"></a></td><td>
@@ -1540,7 +1542,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotheplanet)</b><br />
 <ul>
-<li>Last Tweet: 2022</li>
+<li>Last Tweet: this week</li>
 <li>hacking the planet at http://ired.team buy me a vinyl at http://patreon.com/iredteam or paypal mantvydo@gmail.com.</li>
 </ul>
 </td></tr>
@@ -1681,7 +1683,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/carnal0wnage"><img src="https://pbs.twimg.com/profile_images/1102419012192034816/YxYs1bTt_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/carnal0wnage">@carnal0wnage</a> (Chris Gates)</b><br />
 <ul>
-<li>Last Tweet: 2022</li>
+<li>Last Tweet: this week</li>
 <li>Circumstances do not determine state of being. State of being determines your circumstances. Tweets are my own not my employer. red/purple teaming, some DFIR</li>
 </ul>
 </td></tr>
