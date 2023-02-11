@@ -129,7 +129,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <b><a href="https://twitter.com/chompie1337">@chompie1337</a> (chompie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>hacker, poster, cyber & computer  security researcher @xforcered adversary simulation. @chompie1337@haunted.computer</li>
+<li>hacker, poster, cybersecurity researcher @xforcered adversary simulation. @chompie1337@haunted.computer</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/lazzslayer"><img src="https://pbs.twimg.com/profile_images/1483917035016966151/zFAPUaIm_200x200.jpg"></a></td><td>
@@ -236,7 +236,7 @@ Senior Cyber Security Consultant | HTB with @barctf | OSCP, CRT, CRTO</li>
 <tr><td><a href="https://twitter.com/ShitSecure"><img src="https://pbs.twimg.com/profile_images/1081167263200411648/yhdqoDeA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ShitSecure">@ShitSecure</a> (S3cur3Th1sSh1t)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Pentesting, scripting, pwning!</li>
 </ul>
 </td></tr>
@@ -389,7 +389,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/B00M_s1ang">@B00M_s1ang</a> (B00M#s1ang🐍)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>-Beaky Snake Geek-  Pen Tester | Bug Hunter | Certified Cyberpunk Lame-O...  Art by @majorashby  Banner by @mooexe</li>
 </ul>
 </td></tr>
@@ -578,7 +578,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (pwning )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Associate Security Analyst @wearesekuro  
+<li>Associate Security Analyst @wearesekuro
 
 Community Moderator @hackthebox_eu</li>
 </ul>
@@ -915,7 +915,7 @@ Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -1124,7 +1124,7 @@ Loves to share knowledge & inspire.</li>
 <tr><td><a href="https://twitter.com/sec_kc"><img src="https://pbs.twimg.com/profile_images/1292584428259213312/L0ZI9C5s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sec_kc">@sec_kc</a> (SecKC)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Kansas City’s monthly infosec conference. Patch Tuesday. #SecKCTheWorldAgain</li>
 </ul>
 </td></tr>
@@ -1159,7 +1159,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/BrianRPhillips"><img src="https://pbs.twimg.com/profile_images/1580185395186237440/cx3wsSrY_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/BrianRPhillips">@BrianRPhillips</a> (Brian Phillips)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>InfoSec Obsessive, leading Information Security for a large retailer. #PowerShell | #Python | #Hacker | #Maker | #CISO | #LockSport | Views are my own.</li>
 </ul>
 </td></tr>
@@ -1507,7 +1507,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/ElonkaDunin"><img src="https://pbs.twimg.com/profile_images/197713791/2003Crypto_1__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ElonkaDunin">@ElonkaDunin</a> (Elonka Dunin)</b><br />
 <ul>
-<li>Last Tweet: 2022</li>
+<li>Last Tweet: this week</li>
 <li>Agile Evangelist, Game Developer, Cryptographer, Geocacher, Author, Wikipedian, Public Speaker, Nola Kaye. http://codebreaking-guide.com</li>
 </ul>
 </td></tr>
@@ -1581,7 +1581,7 @@ Father, hacker, educator, gamer, & nerd. exCitrix, exRedspin, exFortify, exHP, e
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/domchell"><img src="https://pbs.twimg.com/profile_images/1550126657997922311/_lg-iIjo_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/domchell">@domchell</a> (Dominic Chell ⚠️)</b><br />
+<b><a href="https://twitter.com/domchell">@domchell</a> (Dominic Chell 👻)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Just your friendly neighbourhood red teamer @MDSecLabs | Creator of /r/redteamsec | http://mdsec.co.uk | http://nighthawkc2.io</li>
@@ -1620,7 +1620,7 @@ Email don’t DM: the/./midnite(.}runr{at)gmail’dot’com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. 
 Mastodon: @metasploit@infosec.exchange
 Slack: http://metasploit.com/slack</li>
@@ -1809,7 +1809,7 @@ Ele‍phant in the room: I love ex‍changing with others in info‍sec!
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Applied Machine Learning in Security / Finance and Follower of Christ #MLSec</li>
+<li>Applied Machine Learning in Security / Finance and Follower of Christ #MachineLearning #DataScience #BigData</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Snubs"><img src="https://pbs.twimg.com/profile_images/1347644418862538756/VVYkBkia_200x200.jpg"></a></td><td>
@@ -2166,7 +2166,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/vcoisne"><img src="https://pbs.twimg.com/profile_images/1217958037656227840/To56Am9x_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/vcoisne">@vcoisne</a> (Victor Coisne)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Community-Led Human. Building the next generation of CMS at @strapijs Prev. Head of Community @docker 
 
 French, Wine lover. Soccer Fan.</li>
@@ -2263,7 +2263,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1594487412650283009/-BtGJ-W3_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>http://replicate.com / http://arxiv-vanity.com / previously: @docker, @guardian, @govuk</li>
 </ul>
 </td></tr>
