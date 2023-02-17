@@ -88,7 +88,7 @@ Instagram @pvjblueteam</li>
 The http://rapiddns.io is a free, open and unlimited dns query tool. It makes easy to query subdomains or sites of the same IP.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/_rybaz"><img src="https://pbs.twimg.com/profile_images/1595422498920824834/HFU-upy0_200x200.png"></a></td><td>
+<tr><td><a href="https://twitter.com/_rybaz"><img src="https://pbs.twimg.com/profile_images/1626216281467916291/LfLwXpxl_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_rybaz">@_rybaz</a> (Ryan Basden)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -213,7 +213,7 @@ Discord: http://discord.gg/P8PZPyf
 <tr><td><a href="https://twitter.com/0xdeaddood"><img src="https://pbs.twimg.com/profile_images/1172876675014627329/0HVo1tNP_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xdeaddood">@0xdeaddood</a> (leandro)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>Security researcher  🇦🇷🇪🇪🏴‍☠️. Impacket 🚀🌕.</li>
 </ul>
 </td></tr>
@@ -365,7 +365,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 ¯\_(ツ)_/¯</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1616672319585280000/Jy93wIm8_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1626084722278338564/yJ8iaJgU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/corg_e">@corg_e</a> (Corgi)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -563,7 +563,7 @@ See you at DC29!</li>
 <tr><td><a href="https://twitter.com/the_bit_diddler"><img src="https://pbs.twimg.com/profile_images/1621290503202377729/kCQr4krP_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/the_bit_diddler">@the_bit_diddler</a> (sinusoid)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -574,17 +574,20 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1622424172927516672/Lq4na4cc_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1626213459900915714/vtnckjhL_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/pwninx">@pwninx</a> (pwning )</b><br />
 <ul>
-<li>Last Tweet: last week</li>
-<li>Associate Security Analyst @wearesekuro Community Moderator @hackthebox_eu eJPT | BTL1</li>
+<li>Last Tweet: this week</li>
+<li>Associate Security Analyst @wearesekuro 
+Community Moderator @hackthebox_eu 
+
+eJPT | BTL1</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/egre55"><img src="https://pbs.twimg.com/profile_images/1603390846132523012/tQBQzA7__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/egre55">@egre55</a> (egre55)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Gamified Upskilling | Cybersecurity. Founder @inov8d</li>
 </ul>
 </td></tr>
@@ -913,7 +916,7 @@ Organized by @jsamardak, @FinnBreland, @brianOfThings, & many more.</li>
 <tr><td><a href="https://twitter.com/lukejahnke"><img src="https://pbs.twimg.com/profile_images/1314180777001713665/PribO7qm_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/lukejahnke">@lukejahnke</a> (Luke Jahnke)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li></li>
 </ul>
 </td></tr>
@@ -982,7 +985,7 @@ The Next Conference Date: Oct 7, 2023</li>
 <tr><td><a href="https://twitter.com/HackSysTeam"><img src="https://pbs.twimg.com/profile_images/2650360783/29d04d32f96fbfcee08bb665379053c8_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/HackSysTeam">@HackSysTeam</a> (HackSys Team)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Vulnerability Research, Kernel Exploitation, Reverse Engineering, Exploit Development, Program Analysis, Malware Research, Web, Machine Learning</li>
 </ul>
 </td></tr>
@@ -1214,7 +1217,7 @@ http://infosec.exchange/@bsidesbham</li>
 <tr><td><a href="https://twitter.com/atdiy"><img src="https://pbs.twimg.com/profile_images/672794826648129536/P12kVOJN_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/atdiy">@atdiy</a> (Addie)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hellooo. Offline, I am a cardiovascular surgery nurse & research study coordinator. Online, I am a badge designer, electronicist, ham, & toymaker with @Tymkrs!</li>
 </ul>
 </td></tr>
@@ -1547,7 +1550,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/spotheplanet"><img src="https://pbs.twimg.com/profile_images/1295267649421742080/eRstqEIN_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/spotheplanet">@spotheplanet</a> (spotheplanet)</b><br />
 <ul>
-<li>Last Tweet: January</li>
+<li>Last Tweet: this week</li>
 <li>hacking the planet at http://ired.team buy me a vinyl at http://patreon.com/iredteam or paypal mantvydo@gmail.com.</li>
 </ul>
 </td></tr>
@@ -1601,7 +1604,7 @@ Father, hacker, educator, gamer, & nerd. exCitrix, exRedspin, exFortify, exHP, e
 Email don’t DM: the/./midnite(.}runr{at)gmail’dot’com</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1618625372823633921/5mHLeZRm_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/hackerfantastic"><img src="https://pbs.twimg.com/profile_images/1626342993002102784/A0xvby___200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/hackerfantastic">@hackerfantastic</a> (hackerfantastic.crypto)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1807,7 +1810,7 @@ Ele‍phant in the room: I love ex‍changing with others in info‍sec!
 <b><a href="https://twitter.com/jamesbower">@jamesbower</a> (James Bower)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Applied Machine Learning in Security / Finance and Follower of Christ #MachineLearning #DataScience #BigData</li>
+<li>Machine Learning Engineer and Follower of Christ #MachineLearning #DataScience #BigData</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Snubs"><img src="https://pbs.twimg.com/profile_images/1347644418862538756/VVYkBkia_200x200.jpg"></a></td><td>
@@ -2261,7 +2264,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/bfirsh"><img src="https://pbs.twimg.com/profile_images/1594487412650283009/-BtGJ-W3_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/bfirsh">@bfirsh</a> (Ben Firshman)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>http://replicate.com / http://clig.dev / http://arxiv-vanity.com / previously: @docker, @guardian, @govuk</li>
 </ul>
 </td></tr>
