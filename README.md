@@ -575,7 +575,7 @@ See you at DC29!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1626213459900915714/vtnckjhL_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwninx">@pwninx</a> (pwning )</b><br />
+<b><a href="https://twitter.com/pwninx">@pwninx</a> (pwn )</b><br />
 <ul>
 <li>Last Tweet: this week</li>
 <li>Currently protecting companies from cyber threats at @wearesekuro while also being a Community Moderator at @hackthebox_eu
@@ -631,7 +631,7 @@ http://d.to</li>
 <tr><td><a href="https://twitter.com/DfirNotes"><img src="https://pbs.twimg.com/profile_images/653091709589524480/vE1ZQHwb_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/DfirNotes">@DfirNotes</a> (DFIR Notes)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>design, build, teach threat-informed information security programs and techniques. Also: retweets of interesting classes, tools, research. They/them</li>
 </ul>
 </td></tr>
@@ -1176,7 +1176,7 @@ Tweets are my own and not the views of my employer</li>
 <b><a href="https://twitter.com/PhillipWylie">@PhillipWylie</a> (Phillip Wylie)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Former Hacker In Residence @cycognito | The Hacker Factory Podcast Host | @schoolpwn & @dcg940 Founder | @pentesterblue coauthor | @webgap Advisory Board</li>
+<li>Security Solutions Specialist @CyesecLtd | The Hacker Factory Podcast Host | @schoolpwn & @dcg940 Founder | @pentesterblue coauthor | @webgap Advisory Board</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/chvancooten"><img src="https://pbs.twimg.com/profile_images/1567894179451215875/ANd1gUJJ_200x200.jpg"></a></td><td>
@@ -1421,11 +1421,11 @@ Also available on Mastodon @deanwilliams@infosec.exchange</li>
 <tr><td><a href="https://twitter.com/MarcOverIP"><img src="https://pbs.twimg.com/profile_images/1545327574859104258/dVQYwuIy_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/MarcOverIP">@MarcOverIP</a> (Marc Smeets 🌻)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Does a thing or two with security @OutflankNL | RedELK developer | Petrolhead | Champagne lover | Don't Panic | Try Harder</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1628911468065292296/Rg6SHAb0_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/HackingDave"><img src="https://pbs.twimg.com/profile_images/1629109202105864197/_6QmCcNd_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/HackingDave">@HackingDave</a> (Dave Kennedy)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -1622,7 +1622,7 @@ Email don’t DM: the/./midnite(.}runr{at)gmail’dot’com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. 
 Mastodon: @metasploit@infosec.exchange
 Slack: http://metasploit.com/slack</li>
@@ -2322,7 +2322,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/progrium"><img src="https://pbs.twimg.com/profile_images/1489753408961748992/u4f-zHr3_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/progrium">@progrium</a> (Jeff Lindsay 💀🚜)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Webhooks, TIGSource, SHDH, NASA, Twilio, Docker, plenty more. Optimism of the will. Follow your curiosity. @progriumHQ</li>
 </ul>
 </td></tr>
