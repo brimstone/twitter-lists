@@ -390,7 +390,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 <tr><td><a href="https://twitter.com/B00M_s1ang"><img src="https://pbs.twimg.com/profile_images/1197374276132724736/o6NVxZSv_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/B00M_s1ang">@B00M_s1ang</a> (B00M#s1ang🐍)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>-Beaky Snake Geek-  Pen Tester | Bug Hunter | Certified Cyberpunk Lame-O...  Art by @majorashby  Banner by @mooexe</li>
 </ul>
 </td></tr>
@@ -679,7 +679,7 @@ http://d.to</li>
 <tr><td><a href="https://twitter.com/Farah_Hawaa"><img src="https://pbs.twimg.com/profile_images/1466634098814947334/c5iMoVbh_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/Farah_Hawaa">@Farah_Hawaa</a> (Farah Hawa)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>noobiest of the noobs | content creator | SecOps @Bugcrowd | she/her | personal account</li>
 </ul>
 </td></tr>
@@ -1103,9 +1103,9 @@ RIP Twitter</li>
 <b><a href="https://twitter.com/Oddvarmoe">@Oddvarmoe</a> (Oddvar Moe)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Blogger | MVP | Speaker | Red teamer | Security researcher | Windows Security specialist | Total n00b and always learning
+<li>Red Teamer @TrustedSec | MS MVP | Speaker | Security Researcher | Blogger | Total n00b & always learning | UNC1194 | Tinkerer | Gamer
 
-Loves to share knowledge & inspire.</li>
+I try to inspire!</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/CCDCRedTeam"><img src="https://pbs.twimg.com/profile_images/446377023003295744/woxG9JIM_200x200.png"></a></td><td>
@@ -1222,10 +1222,10 @@ http://infosec.exchange/@bsidesbham</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/mjg59"><img src="https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q_200x200.png"></a></td><td>
-<b><a href="https://twitter.com/mjg59">@mjg59</a> (Matthew Garrett (@mjg59@nondeterminstic.computer))</b><br />
+<b><a href="https://twitter.com/mjg59">@mjg59</a> (Matthew Garrett (@mjg59@nondeterministic.computer))</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Former biologist. Actual PhD in genetics. @mjg59@nondeterministic.computer, security @aurora_inno, OS security @BerkeleyISchool, http://mjg59.dreamwidth.org. He/him.</li>
+<li>Former biologist. Actual PhD in genetics. @mjg59@nondeterministic.computer, security @aurora_inno, OS security @BerkeleyISchool, http://mjg59.dreamwidth.org. He</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Cneelis"><img src="https://pbs.twimg.com/profile_images/680348480364150784/RZgyKQyB_200x200.jpg"></a></td><td>
@@ -1289,7 +1289,7 @@ http://blog.cobaltstrike.com/2021/03/06/rap…</li>
 <tr><td><a href="https://twitter.com/nikhil_mitt"><img src="https://pbs.twimg.com/profile_images/1269208309845749761/h4nXF1u__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/nikhil_mitt">@nikhil_mitt</a> (Nikhil Mittal)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Hacker, Infosec Researcher, Military Affairs & History, PowerShell, AD and Azure pwner, Creator of Nishang and others :)
 Founder @alteredsecurity</li>
 </ul>
@@ -1531,7 +1531,9 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <b><a href="https://twitter.com/emmangoldstein">@emmangoldstein</a> (Emmanuel Goldstein 🇺🇦)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>2600 Magazine Editor, Off The Hook and Off The Wall radio host, documentary dabbler, hacker of all things, voyager to DPRK, Cuba, Albania, and now Starbucks</li>
+<li>2600 Magazine Editor, Off The Hook and Off The Wall radio host, documentary dabbler, hacker of all things.
+
+@emmanuel@chaos.social</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/_t1v0_"><img src="https://pbs.twimg.com/profile_images/1038091099758190592/p0oC0gTY_200x200.jpg"></a></td><td>
@@ -1622,7 +1624,7 @@ Email don’t DM: the/./midnite(.}runr{at)gmail’dot’com</li>
 <tr><td><a href="https://twitter.com/metasploit"><img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/metasploit">@metasploit</a> (Metasploit Project)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Official account of the Metasploit Project, part of the @rapid7 family. 
 Mastodon: @metasploit@infosec.exchange
 Slack: http://metasploit.com/slack</li>
@@ -1759,7 +1761,7 @@ Please connect via Mastodon.</li>
 <tr><td><a href="https://twitter.com/4lex"><img src="https://pbs.twimg.com/profile_images/1257518672211574785/rw3NzaA5_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/4lex">@4lex</a> ([audible]blink)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>🇲🇽 • Keyboards • Coffee • Drums • Woodworking • Astrophotography • Archery • Army Vet - 15X • Self Hating Red Teamer • Legitimate Business Practice</li>
 </ul>
 </td></tr>
@@ -1948,7 +1950,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/goconvox"><img src="https://pbs.twimg.com/profile_images/1435688268465680386/aKmWtKbU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/goconvox">@goconvox</a> (Convox)</b><br />
 <ul>
-<li>Last Tweet: 2022</li>
+<li>Last Tweet: this week</li>
 <li>Free and Open-source PaaS that runs on any cloud. Zero maintenance, total privacy.  The fastest and easiest way to deploy a production ready application.</li>
 </ul>
 </td></tr>
@@ -2161,7 +2163,7 @@ http://pronoun.is/he</li>
 <tr><td><a href="https://twitter.com/adi_sandy"><img src="https://pbs.twimg.com/profile_images/733910360911011840/kfsuIEwT_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/adi_sandy">@adi_sandy</a> (Sandeep Adi)</b><br />
 <ul>
-<li>Last Tweet: February</li>
+<li>Last Tweet: this week</li>
 <li>Engineering Culture Evangelist | Developer Experience Wrangler Chief Architect @ADP</li>
 </ul>
 </td></tr>
