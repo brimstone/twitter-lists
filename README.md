@@ -164,7 +164,7 @@ This account administered by @tc_johnson and @BADASSBowden</li>
 <tr><td><a href="https://twitter.com/theluemmel"><img src="https://pbs.twimg.com/profile_images/1570649933065199617/H2K3T97z_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/theluemmel">@theluemmel</a> (ADCluemmelSec)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Husband, Father, IT-Guy, Security-Noob
 I have opinions :)
 
@@ -331,7 +331,7 @@ Discord - https://discord.gg/mTvPzuT</li>
 <tr><td><a href="https://twitter.com/_dirkjan"><img src="https://pbs.twimg.com/profile_images/941026484130545664/J8QlOYL8_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/_dirkjan">@_dirkjan</a> (Dirk-jan)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Hacker at @OutsiderSec. Researches AD and Azure (AD) security. Likes to play around with Python and write tools that make work easier.</li>
 </ul>
 </td></tr>
@@ -477,7 +477,7 @@ Infosec nerd and DC706 co-founder.</li>
 <tr><td><a href="https://twitter.com/NinjaParanoid"><img src="https://pbs.twimg.com/profile_images/1639653164189384704/i5m1aHaU_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/NinjaParanoid">@NinjaParanoid</a> (Chetan Nayak (Brute Ratel C4 Author))</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Brute Ratel C4 Author | http://bruteratel.com | http://0xdarkvortex.dev | Ex-Sr. Detection Engineer @CrowdStrike | Ex-Sr. RedTeam @Mandiant</li>
 </ul>
 </td></tr>
@@ -614,9 +614,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/hacker_">@hacker_</a> (Corben Leo)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>I hack stuff (legally). | founder @ ███
-
-http://d.to</li>
+<li>I hack stuff (legally). |  co-founder @boringmattress (yes, a mattress company…)</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/Op_nomad"><img src="https://pbs.twimg.com/profile_images/956785310016434176/EnEq4Czb_200x200.jpg"></a></td><td>
@@ -939,7 +937,7 @@ Blog at http://netsecfocus.com. SANS Netwars Champion. Former community manager 
 <tr><td><a href="https://twitter.com/LittleJoeTables"><img src="https://pbs.twimg.com/profile_images/3339377706/0d3c0aa809cc4ea4e97346719c9db5ed_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/LittleJoeTables">@LittleJoeTables</a> (Moloch)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Supreme Commander, Red Team @BishopFox
 http://infosec.exchange/@moloch</li>
 </ul>
@@ -1124,7 +1122,7 @@ I try to inspire!</li>
 <tr><td><a href="https://twitter.com/sec_kc"><img src="https://pbs.twimg.com/profile_images/1292584428259213312/L0ZI9C5s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/sec_kc">@sec_kc</a> (SecKC)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Kansas City’s monthly infosec conference. Patch Tuesday. #SecKCTheWorldAgain</li>
 </ul>
 </td></tr>
@@ -1187,7 +1185,7 @@ Tweets are my own and not the views of my employer</li>
 <tr><td><a href="https://twitter.com/phraaaaaaa"><img src="https://pbs.twimg.com/profile_images/1107775495507230720/hqqQX8o7_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/phraaaaaaa">@phraaaaaaa</a> (Francesco Soncina)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>OSCE // OSCP // Ethical Hacker & Red Teamer // Full Stack Developer // CTF Player @DonkeysTeam</li>
 </ul>
 </td></tr>
@@ -1202,7 +1200,7 @@ http://infosec.exchange/@bsidesbham</li>
 <tr><td><a href="https://twitter.com/mzbat"><img src="https://pbs.twimg.com/profile_images/1608281330890014723/G6SQ__Ll_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/mzbat">@mzbat</a> (bat)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>security @VMwareTanzu | views mine | overcommitted underachiever | formerly @NASAGoddard @Apple @18F | art, lego, board games, comics, cute animals | she 🖤</li>
 </ul>
 </td></tr>
@@ -1325,7 +1323,7 @@ Founder @alteredsecurity</li>
 <b><a href="https://twitter.com/bee_sec_san">@bee_sec_san</a> (@autumnalbee@tech.lgbt)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>🌌 Curr: SRE @duosec @cisco prev: Security @monzo , @realtryhackme  🏳️‍⚧️🏳️‍⚧️
+<li>🏳️‍⚧️ Curr: SRE @duosec @cisco prev: Security @monzo , @realtryhackme  
 Inventor of RustScan, Ciphey, PyWhat, Ares, Name-That-Hash, Search-That-Hash</li>
 </ul>
 </td></tr>
@@ -1341,7 +1339,7 @@ he/him
 <tr><td><a href="https://twitter.com/NationalCCDC"><img src="https://pbs.twimg.com/profile_images/1376575565067599877/t-Dwvz_v_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/NationalCCDC">@NationalCCDC</a> (National CCDC)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Where education meets operation</li>
 </ul>
 </td></tr>
@@ -1443,7 +1441,7 @@ Also available on Mastodon @deanwilliams@infosec.exchange</li>
 <tr><td><a href="https://twitter.com/joevest"><img src="https://pbs.twimg.com/profile_images/1620834282133491729/h6BW-h3Y_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/joevest">@joevest</a> (Joe Vest)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Red Teamer丨Author of Red Team Development and Operations http://redteam.guide 丨Don't let perfect be the enemy of good | @joevest@infosec.exchange</li>
 </ul>
 </td></tr>
@@ -1473,7 +1471,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/kalilinux"><img src="https://pbs.twimg.com/profile_images/1570526616618418176/-2X2jn6g_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/kalilinux">@kalilinux</a> (Kali Linux)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Kali Linux, The Most Advanced Penetration Testing Distribution. Ever. A project by OffSec.
 
 @kalilinux@infosec.exchange</li>
@@ -1489,7 +1487,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/WillCaruana"><img src="https://pbs.twimg.com/profile_images/829552857468825601/V3N5pPgs_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/WillCaruana">@WillCaruana</a> (Will C)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>I'm a security hobbyist, maker of things, high voltage enthusiast and a hacker of cars. (he/him) You can call me at 617-440-8667</li>
 </ul>
 </td></tr>
@@ -1561,7 +1559,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/binitamshah"><img src="https://pbs.twimg.com/profile_images/1398405141405978631/4JhsrzJZ_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/binitamshah">@binitamshah</a> (Binni Shah)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Linux Evangelist, Malwares , Security Enthusiast , Philanthropist , Meditation  &  Jain.
 
 Mastodon : binitamshah@ioc.exchange
@@ -2076,7 +2074,7 @@ Weaponize curiosity.
 <tr><td><a href="https://twitter.com/DerkTheDaring"><img src="https://pbs.twimg.com/profile_images/1400640407818563585/cP8dWOW9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/DerkTheDaring">@DerkTheDaring</a> (Derek Parker)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Engineering the Software. 
 
 I like computers & music.</li>
@@ -2263,7 +2261,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/ewindisch"><img src="https://pbs.twimg.com/profile_images/1588343398922166272/pzjt7Mw9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ewindisch">@ewindisch</a> (Erica Windisch)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>i broke your cloud. retro gaming/computing. founder. hacker. fight back against transphobia. teach lgbt history in schools.</li>
 </ul>
 </td></tr>
@@ -2284,7 +2282,7 @@ he/him</li>
 <tr><td><a href="https://twitter.com/solomonstre"><img src="https://pbs.twimg.com/profile_images/1481072550570381315/hMBPQ9K-_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/solomonstre">@solomonstre</a> (Solomon Hykes / @shykes@hachyderm.io)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Making @dagger_io, a programmable CI/CD engine that runs your pipelines in containers. Before that: founded Docker. "No is temporary, yes is forever".</li>
 </ul>
 </td></tr>
