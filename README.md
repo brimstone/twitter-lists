@@ -237,7 +237,7 @@ Senior Cyber Security Consultant | HTB with @barctf | OSCP, CRT, CRTO</li>
 <tr><td><a href="https://twitter.com/ShitSecure"><img src="https://pbs.twimg.com/profile_images/1081167263200411648/yhdqoDeA_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ShitSecure">@ShitSecure</a> (S3cur3Th1sSh1t)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Pentesting, scripting, pwning!</li>
 </ul>
 </td></tr>
@@ -366,7 +366,7 @@ Check out my new book on real-time computer conflict and deception below</li>
 ¯\_(ツ)_/¯</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1635864803087462402/VHU_nEZ9_200x200.jpg"></a></td><td>
+<tr><td><a href="https://twitter.com/corg_e"><img src="https://pbs.twimg.com/profile_images/1644165321597628418/btgace2c_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/corg_e">@corg_e</a> (Corgi)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
@@ -575,11 +575,11 @@ See you at DC29!</li>
 <li>A monthly meetup for those working in or interested in information security in the Huntsville/Madison County, Alabama Area.</li>
 </ul>
 </td></tr>
-<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1642881363924889602/Ok1swhuZ_200x200.jpg"></a></td><td>
-<b><a href="https://twitter.com/pwninx">@pwninx</a> (See ya!)</b><br />
+<tr><td><a href="https://twitter.com/pwninx"><img src="https://pbs.twimg.com/profile_images/1644248082148900868/ZbCVt24p_200x200.jpg"></a></td><td>
+<b><a href="https://twitter.com/pwninx">@pwninx</a> (Mitch)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>If you’re seeing this, it has been taken over by nation state threat actors. Selling account</li>
+<li>I work for both @hackthebox_eu and @WeAreSekuro</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/egre55"><img src="https://pbs.twimg.com/profile_images/1637412149445160960/UKU1mK01_200x200.jpg"></a></td><td>
@@ -800,7 +800,7 @@ Teaching myself with books and the internet 💻 #nahomie. I stream pretty often
 <tr><td><a href="https://twitter.com/malwareunicorn"><img src="https://pbs.twimg.com/profile_images/1575159570648879118/P5G6dD7s_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/malwareunicorn">@malwareunicorn</a> (Malware Unicorn)</b><br />
 <ul>
-<li>Last Tweet: 2022</li>
+<li>Last Tweet: this week</li>
 <li>Fuzzy Unicorn @  MSFT MORSE team. mastodon: http://infosec.exchange/@malwareunicorn</li>
 </ul>
 </td></tr>
@@ -982,7 +982,7 @@ The Next Conference Date: Oct 7, 2023</li>
 <tr><td><a href="https://twitter.com/HackSysTeam"><img src="https://pbs.twimg.com/profile_images/2650360783/29d04d32f96fbfcee08bb665379053c8_200x200.png"></a></td><td>
 <b><a href="https://twitter.com/HackSysTeam">@HackSysTeam</a> (HackSys Team)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Vulnerability Research, Kernel Exploitation, Reverse Engineering, Exploit Development, Program Analysis, Malware Research, Web, Machine Learning</li>
 </ul>
 </td></tr>
@@ -1690,7 +1690,7 @@ he/him or they/them</li>
 <tr><td><a href="https://twitter.com/natashenka"><img src="https://pbs.twimg.com/profile_images/1221284302912028673/6sXOJCzx_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/natashenka">@natashenka</a> (Natalie Silvanovich)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>Tamagotchi Hacker. Google Project Zero. She/her.</li>
 </ul>
 </td></tr>
@@ -2090,7 +2090,7 @@ I like computers & music.</li>
 <tr><td><a href="https://twitter.com/tiffanyfayj"><img src="https://pbs.twimg.com/profile_images/1397593304439562244/_MOLl7nW_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/tiffanyfayj">@tiffanyfayj</a> (tiffany jernigan 🦊)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>👩‍💻🥑 @vmware #kubernetes #tanzu · electrical eng @georgiatech · ex @amazon @intel @docker · opinions: mine</li>
 </ul>
 </td></tr>
