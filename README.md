@@ -678,7 +678,7 @@ See you at DC29!</li>
 <b><a href="https://twitter.com/Farah_Hawaa">@Farah_Hawaa</a> (Farah Hawa)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>noobiest of the noobs | content creator | SecOps @Bugcrowd | she/her | personal account</li>
+<li>noobiest of the noobs | content creator | she/her | views are mine</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/LiveOverflow"><img src="https://pbs.twimg.com/profile_images/804126168869961728/KNGXVh_6_200x200.jpg"></a></td><td>
@@ -1316,7 +1316,7 @@ Founder @alteredsecurity</li>
 <b><a href="https://twitter.com/Flangvik">@Flangvik</a> (Melvin langvik)</b><br />
 <ul>
 <li>Last Tweet: this week</li>
-<li>Red Team 🔴 @TrustedSec and voice in 🇳🇴@5h3llcast 🇳🇴 Opinions are my own and not the views of my employer.</li>
+<li>Red Team 🔴 @TrustedSec , terrible creator of InfoSec content 📹Opinions are my own and not the views of my employer.</li>
 </ul>
 </td></tr>
 <tr><td><a href="https://twitter.com/bee_sec_san"><img src="https://pbs.twimg.com/profile_images/1598702135373340672/JHyWU-c8_200x200.jpg"></a></td><td>
@@ -2042,7 +2042,7 @@ Thoughts are my own.</li>
 <tr><td><a href="https://twitter.com/Quintus23M"><img src="https://pbs.twimg.com/profile_images/449878853008121857/vB8ftpRd_200x200.jpeg"></a></td><td>
 <b><a href="https://twitter.com/Quintus23M">@Quintus23M</a> (Dieter Reuter)</b><br />
 <ul>
-<li>Last Tweet: March</li>
+<li>Last Tweet: this week</li>
 <li>All about Kubernetes Container Security @NeuVector at @SUSE @Rancher_Labs, retired #DockerCaptain 🐳 & Docker Pirate @HypriotTweets (views are my own)</li>
 </ul>
 </td></tr>
