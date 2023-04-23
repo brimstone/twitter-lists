@@ -214,7 +214,7 @@ Discord: http://discord.gg/P8PZPyf
 <tr><td><a href="https://twitter.com/0xdeaddood"><img src="https://pbs.twimg.com/profile_images/1172876675014627329/0HVo1tNP_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/0xdeaddood">@0xdeaddood</a> (leandro)</b><br />
 <ul>
-<li>Last Tweet: last week</li>
+<li>Last Tweet: this week</li>
 <li>Security researcher 🇦🇷🇪🇪🏴‍☠️. Impacket 🚀🌕.</li>
 </ul>
 </td></tr>
@@ -1208,7 +1208,7 @@ http://infosec.exchange/@bsidesbham</li>
 <tr><td><a href="https://twitter.com/itsC0rg1"><img src="https://pbs.twimg.com/profile_images/1592340331957170176/O-URihR9_200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/itsC0rg1">@itsC0rg1</a> (Niru Ragupathy / itsc0rg1 🐶)</b><br />
 <ul>
-<li><i>Protected</i></li>
+<li>Last Tweet: this week</li>
 <li>Foodie, anime fan, security engineer and gamer. My views are my own, do not reflect those of my past, present or future employers.</li>
 </ul>
 </td></tr>
@@ -1509,7 +1509,7 @@ http://mkcert.dev / http://age-encryption.org / http://filippo.io/newsletter</li
 <tr><td><a href="https://twitter.com/ElonkaDunin"><img src="https://pbs.twimg.com/profile_images/197713791/2003Crypto_1__200x200.jpg"></a></td><td>
 <b><a href="https://twitter.com/ElonkaDunin">@ElonkaDunin</a> (Elonka Dunin)</b><br />
 <ul>
-<li>Last Tweet: 2 weeks ago</li>
+<li>Last Tweet: this week</li>
 <li>Agile Evangelist, Game Developer, Cryptographer, Geocacher, Author, Wikipedian, Public Speaker, Nola Kaye. http://codebreaking-guide.com</li>
 </ul>
 </td></tr>
